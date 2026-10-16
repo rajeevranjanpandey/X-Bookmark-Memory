@@ -1,0 +1,31 @@
+# Categories for X-Bookmark-Memory
+# Edit keyword lists to taste, then re-run the renderer to re-slice history.
+# First matching category wins; anything unmatched goes to Uncategorized.
+
+categories:
+  - name: "AI/ML"
+    keywords: ["llm", "transformer", "rag", "agent", "diffusion", "fine-tune", "finetune", "pytorch", "tensorflow", "embedding", "gpt", "claude", "gemini", "prompt engineering"]
+
+  - name: "Data"
+    keywords: ["spark", "dbt", "airflow", "warehouse", "lakehouse", "etl", "dashboard", "tableau", "power bi", "sql", "kafka", "pipeline"]
+
+  - name: "Career"
+    keywords: ["hiring", "interview", "resume", "cv", "job", "promotion", "salary", "offer letter", "layoff"]
+
+  - name: "Startups"
+    keywords: ["yc", "y combinator", "seed", "series a", "founder", "mvp", "pitch", "startup"]
+
+  - name: "Finance"
+    keywords: ["markets", "stocks", "fed", "inflation", "crypto", "bitcoin", "ethereum", "trading", "invest"]
+
+  - name: "Tech"
+    keywords: ["github", "api", "kubernetes", "python", "rust", "open source", "linux", "docker", "javascript", "typescript"]
+
+  - name: "Productivity"
+    keywords: ["notion", "workflow", "automation", "gtd", "shortcut", "obsidian", "todo"]
+
+  - name: "Design"
+    keywords: ["ui", "ux", "figma", "design system", "typography", "color palette"]
+
+  - name: "Fun"
+    keywords: ["meme", "lol", "lmao"]

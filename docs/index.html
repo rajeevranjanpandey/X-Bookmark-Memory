@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>X-Bookmark-Memory</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <h1>🔖 X-Bookmark-Memory</h1>
+    <p class="sub">Auto-archived X bookmarks, organized by category. Syncs daily.</p>
+    <div class="stats" id="stats"></div>
+    <input type="search" id="search" placeholder="Search bookmarks…" autocomplete="off">
+    <div class="chips" id="chips"></div>
+  </div>
+</header>
+<main class="wrap">
+  <div id="empty" class="empty" hidden>
+    <p>No bookmarks match. Try a different search or category.</p>
+  </div>
+  <div id="grid" class="grid"></div>
+</main>
+<footer class="wrap">
+  <p>Synced from X daily · <a href="https://github.com/rajeevranjanpandey/X-Bookmark-Memory">repo</a></p>
+</footer>
+<script src="app.js"></script>
+</body>
+</html>

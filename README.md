@@ -1,19 +1,40 @@
 # X-Bookmark-Memory
 
-An automated archive of your X (Twitter) bookmarks — synced on a schedule into a
-searchable, categorized Git repository. Bookmarks rot; this makes them last.
+Your X bookmarks, automatically archived and organized. Every bookmark you save
+on X lands here once a day — categorized, searchable, and browsable as a
+website.
 
-**How it works:** a scheduled worker polls your X bookmarks (official API, Basic
-tier), captures each one as a structured JSON record, categorizes it (keyword
-rules first, LLM fallback), renders human-readable Markdown, and commits it all
-here. A watermark advances only after each successful push, so no bookmark is
-ever silently lost.
+🌐 **Browse it:** https://rajeevranjanpandey.github.io/X-Bookmark-Memory/
 
-📖 **Full spec: [DESIGN.md](DESIGN.md)** — problem & non-goals, constraints,
-architecture, data schema, the 9-step sync flow, categorization, dedupe,
-failure modes, security, repo layout, a 6-step replication guide, and the
-decision log.
+## What's inside
 
-## Status
+| File | Purpose |
+|---|---|
+| `bookmarks.md` | Human-readable archive, grouped by category |
+| `data/bookmarks.json` | Full machine-readable records (source of truth) |
+| `data/watermark.txt` | Last synced tweet ID (sync resume point) |
+| `config/categories.yaml` | Category names + keyword lists (edit to make it yours) |
+| `DESIGN.md` | Full architecture: why, what, and how to replicate |
+| `docs/` | The browsable website (GitHub Pages) |
 
-Design complete. Implementation follows `DESIGN.md`.
+## How it works
+
+A scheduled job runs daily:
+
+1. Pulls new bookmarks from the X API
+2. Extracts title, link, description, author, date
+3. Categorizes each (keyword rules → LLM fallback)
+4. Commits to this repo — the website updates automatically
+
+Details: [`DESIGN.md`](DESIGN.md).
+
+## Replicate it
+
+1. X API Basic tier or higher (bookmarks endpoint isn't on Free)
+2. Fork this repo, add your X credentials to your scheduler's secret store
+3. Point the daily job at your account — see `DESIGN.md` §11
+
+## Categories
+
+Defined in [`config/categories.yaml`](config/categories.yaml). Edit the file
+and re-run the renderer to re-slice the whole archive.
