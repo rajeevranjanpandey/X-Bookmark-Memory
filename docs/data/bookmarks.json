@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "tweet_id": "sample001",
+    "url": "https://x.com/sample/status/sample001",
+    "author_name": "Sample Author",
+    "author_handle": "sample",
+    "text": "This is a sample bookmark to preview the site design. Real bookmarks will appear here after the first sync.",
+    "tweet_created_at": "2026-10-16T10:00:00Z",
+    "synced_at": "2026-10-17T01:00:00Z",
+    "category": "AI/ML",
+    "expanded_urls": ["https://example.com"],
+    "likes": 1200,
+    "reposts": 300,
+    "has_media": false
+  },
+  {
+    "tweet_id": "sample002",
+    "url": "https://x.com/sample/status/sample002",
+    "author_name": "Demo User",
+    "author_handle": "demo",
+    "text": "Another sample entry showing how the Data category looks with a longer description and multiple links attached.",
+    "tweet_created_at": "2026-10-15T08:00:00Z",
+    "synced_at": "2026-10-17T01:00:00Z",
+    "category": "Data",
+    "expanded_urls": [],
+    "likes": 450,
+    "reposts": 89,
+    "has_media": true
+  }
+]
