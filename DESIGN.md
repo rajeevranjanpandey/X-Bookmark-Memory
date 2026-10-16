@@ -86,8 +86,10 @@ point.
      created_at, entities.urls, public_metrics, attachments)
 3. **Categorizer** — rule-based keyword matcher first, LLM fallback for
    ambiguous posts. Deterministic and free for the common case.
-4. **Renderer** — writes `bookmarks.md` (grouped by category, newest first)
-   and `data/bookmarks.json` (append-only record log).
+4. **Renderer** — writes `bookmarks.md` (grouped by category, newest first),
+   `data/bookmarks.json` (append-only record log), and mirrors the JSON to
+   `docs/data/bookmarks.json` (the Pages site can only read files under
+   `docs/`).
 5. **GitHub repo** — the sink. Version history doubles as the audit log of
    *when* each bookmark was captured.
 

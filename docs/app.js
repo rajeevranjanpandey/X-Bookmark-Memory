@@ -8,7 +8,7 @@
 
   let items = [];
   try {
-    const res = await fetch('../data/bookmarks.json');
+    const res = await fetch('data/bookmarks.json');
     items = await res.json();
   } catch (e) {
     grid.innerHTML = '';
