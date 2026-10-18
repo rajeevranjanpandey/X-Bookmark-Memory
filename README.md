@@ -30,6 +30,58 @@ A scheduled job runs daily:
 > so there is nothing to archive, categorize, or **group**. Grouping only
 > works with **Basic tier or higher**.
 
+## Downloading your bookmarks with xarchive (free, no API key)
+
+The X API bookmarks endpoint needs a paid tier, and X's own data download
+doesn't include bookmarks at all. The free path that works today is
+**[xarchive](https://github.com/sytelus/xarchive)** — a Chrome extension by
+[sytelus](https://github.com/sytelus) that exports your full bookmark
+collection through X's internal API using your own logged-in session. No API
+key, no server — everything stays in your browser.
+
+> **Credit:** bookmark export powered by
+> [sytelus/xarchive](https://github.com/sytelus/xarchive) (MIT License).
+
+### Steps
+
+1. **Clone it**
+
+   ```bash
+   git clone https://github.com/sytelus/xarchive.git
+   ```
+
+   ![Cloning the xarchive repo](images/step1-clone.png)
+
+2. **Load it in Chrome** — open `chrome://extensions/`, enable **Developer
+   mode** (top right), click **Load unpacked**, and select the `xarchive`
+   folder.
+
+3. **Visit x.com** in Chrome so the extension picks up your login session.
+
+4. **Run the export** — click the xarchive icon and choose **Full refresh**.
+   Keep the tab open while it pages through your bookmarks.
+
+   ![xarchive exporting bookmarks](images/step2-export.png)
+
+5. **Download the archive** — when it finishes, click **Download combined
+   archive**. You get a JSON file with every bookmark: full text, author,
+   hashtags, engagement metrics.
+
+6. **Import it here** — run:
+
+   ```bash
+   python3 scripts/import_xarchive_json.py /path/to/xarchive_*_combined.json
+   ```
+
+   This converts the export into `data/bookmarks.json`, auto-categorizes via
+   `config/categories.yaml`, mirrors it to `docs/data/bookmarks.json` for the
+   website, and regenerates `bookmarks.md`. Re-running it later preserves any
+   manual re-tags or hidden flags set on the site.
+
+> **Note:** on very large collections X may stop returning pages partway
+> ("pagination guard"). Just run **Full refresh** again later — the extension
+> keeps a cumulative archive and merges new pages without duplicates.
+
 ## Replicate it
 
 1. X API Basic tier or higher (bookmarks endpoint isn't on Free — see note above)
