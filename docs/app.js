@@ -30,7 +30,9 @@
 
   let base = [];
   try {
-    const res = await fetch('data/bookmarks.json');
+    // cache-buster: bookmarks.json changes on every sync, and browsers
+    // otherwise keep serving a stale copy
+    const res = await fetch('data/bookmarks.json?v=' + Date.now());
     base = await res.json();
   } catch (e) {
     grid.innerHTML = '';
