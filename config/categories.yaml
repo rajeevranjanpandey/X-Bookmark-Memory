@@ -4,14 +4,26 @@
 # NOTE: "LLM" and "AI" are pinned first on the site's category chips.
 
 categories:
+  - name: "Image Generation"
+    keywords: ["image generation", "text-to-image", "text to image", "midjourney", "dall-e", "dalle", "leonardoai", "leonardo ai", "prompt share", "promptshare", "ai art", "generate images", "ideogram", "adobe firefly", "comfyui", "flux pro", "stable diffusion", "nano banana", "banana pro", "base prompt", "negative prompt", "photorealistic", "award winning photo", "cinematic shot"]
+
+  - name: "Video & Animation"
+    keywords: ["video generation", "text-to-video", "text to video", "ai video", "deepfake", "runwayml", "pika labs", "sora", "4k video", "video export", "motion design", "motion graphics", "3d animation", "2d animation"]
+
+  - name: "Learning"
+    keywords: ["online course", "free course", "crash course", "tutorial", "bootcamp", "udemy", "coursera", "learn to code", "coding tutorial"]
+
   - name: "LLM"
-    keywords: ["llm", "gpt", "chatgpt", "claude", "gemini", "transformer", "prompt engineering", "prompting", "system prompt", "rag", "langchain", "llamaindex", "ollama", "huggingface", "tokenizer", "embedding", "fine-tune", "finetune", "lora", "qlora", "diffusion", "context window", "token ", "agent", "agentic", "copilot", "cursor"]
+    keywords: ["llm", "gpt", "chatgpt", "claude", "gemini", "transformer", "prompt engineering", "prompting", "system prompt", "rag", "langchain", "llamaindex", "ollama", "huggingface", "tokenizer", "embedding", "fine-tune", "finetune", "lora", "qlora", "context window", "token ", "agent", "agentic", "copilot", "cursor"]
 
   - name: "AI"
-    keywords: ["artificial intelligence", "machine learning", "deep learning", "neural network", "computer vision", "generative ai", "genai", "ai model", "pytorch", "tensorflow", "kaggle", "stable diffusion", "midjourney", "sora"]
+    keywords: ["artificial intelligence", "machine learning", "deep learning", "neural network", "computer vision", "generative ai", "genai", "ai model", "pytorch", "tensorflow", "kaggle", "sora"]
+
+  - name: "Paper Writing"
+    keywords: ["research paper", "paper writing", "write a paper", "writing a paper", "arxiv", "peer review", "literature review", "manuscript", "thesis", "dissertation", "academic writing", "citation", "camera-ready", "camera ready", "journal submission", "conference paper", "literature survey"]
 
   - name: "Data"
-    keywords: ["spark", "dbt", "airflow", "warehouse", "lakehouse", "etl", "dashboard", "tableau", "power bi", "powerbi", "sql", "kafka", "pipeline", "databricks", "snowflake", "bigquery", "data mesh", "data engineering", "analytics"]
+    keywords: ["spark", "dbt", "airflow", "warehouse", "lakehouse", "etl", "dashboard", "tableau", "power bi", "powerbi", "sql", "kafka", "pipeline", "databricks", "snowflake", "bigquery", "data mesh", "data engineering", "analytics", "viz", "makeovermonday", "dataviz", "tableaupublic", "datafam", "tidytuesday", "d3js", "ggplot", "rstats", "tidyverse", "datascience", "data visualization"]
 
   - name: "Career"
     keywords: ["hiring", "interview", "resume", "cv", "job", "promotion", "salary", "offer letter", "layoff"]
@@ -29,7 +41,7 @@ categories:
     keywords: ["notion", "workflow", "automation", "gtd", "shortcut", "obsidian", "todo"]
 
   - name: "Design"
-    keywords: ["ui", "ux", "figma", "design system", "typography", "color palette"]
+    keywords: ["ui", "ux", "figma", "design system", "typography", "color palette", "framer", "webflow", "prototyping"]
 
   - name: "Fun"
     keywords: ["meme", "lol", "lmao"]

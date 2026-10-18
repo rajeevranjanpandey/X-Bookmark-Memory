@@ -74,6 +74,7 @@ def convert(bm: dict, cats: list[dict], synced_at: str) -> dict:
         "text": text,
         "author_name": author.get("name") or "",
         "author_handle": handle,
+        "author_avatar": author.get("profile_image_url") or "",
         "tweet_created_at": bm.get("created_at") or "",
         "likes": metrics.get("likes"),
         "reposts": metrics.get("retweets"),

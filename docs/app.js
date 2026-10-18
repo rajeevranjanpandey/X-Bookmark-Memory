@@ -22,6 +22,14 @@
   const OV_KEY = 'xbm_overrides_v1';
   const ADULT = 'Adult';
   const PINNED_CATS = ['LLM', 'AI'];
+  const CAT_COLORS = {
+    LLM: '#8b5cf6', AI: '#1d9bf0', 'Image Generation': '#d946ef', 'Paper Writing': '#78716c',
+    'Video & Animation': '#f43f5e', Learning: '#10b981',
+    Data: '#14b8a6', Design: '#ec4899',
+    Tech: '#6366f1', Career: '#f59e0b', Startups: '#f97316', Finance: '#22c55e',
+    Productivity: '#06b6d4', Fun: '#eab308', Uncategorized: '#8b98a9', Adult: '#f4212e'
+  };
+  const catColor = c => CAT_COLORS[c] || CAT_COLORS.Uncategorized;
   let editMode = false;
   let overrides = loadOverrides();
 
@@ -148,7 +156,7 @@
     </div>`;
   }
 
-  const fmtNum = n => (n == null ? null : Number(n).toLocaleString());
+  const fmtNum = n => (n == null ? null : Intl.NumberFormat('en', { notation: 'compact' }).format(n));
 
   function cardHTML(it) {
     const t = tweetTime(it);
@@ -164,13 +172,24 @@
     if (fmtNum(it.views) != null && it.views > 0) m.push(`👁️ ${fmtNum(it.views)}`);
     const mediaBadge = it.has_media ? `<span class="mediabadge" title="Contains media">📷</span>` : '';
     const hiddenBadge = (editMode && it.hidden) ? `<span class="hiddenbadge">HIDDEN</span>` : '';
+    const cc = catColor(it.category || 'Uncategorized');
+    const initial = (it.author_name || it.author_handle || '?').trim().charAt(0).toUpperCase();
+    const avatar = it.author_avatar
+      ? `<span class="avatar-wrap"><span class="avatar-fallback">${esc(initial)}</span><img class="avatar-img" src="${esc(it.author_avatar)}" alt="" loading="lazy" onerror="this.remove()"></span>`
+      : `<span class="avatar-wrap"><span class="avatar-fallback">${esc(initial)}</span></span>`;
     return `<article class="card${editMode && it.hidden ? ' is-hidden' : ''}" data-id="${esc(it.tweet_id)}">
       <div class="card-top">
-        <span class="badge">${esc(it.category || 'Uncategorized')}</span>${hiddenBadge}
+        <span class="badge" style="background:${cc}1f;color:${cc}">${esc(it.category || 'Uncategorized')}</span>${hiddenBadge}
         <span class="date">${mediaBadge}${esc(d)}</span>
       </div>
-      <div class="author">${esc(it.author_name || '')} <span>@${esc(it.author_handle || '')}</span></div>
+      <div class="author">${avatar}
+        <div class="author-names">
+          <div class="author-name">${esc(it.author_name || '')}</div>
+          <div class="author-handle">@${esc(it.author_handle || '')}</div>
+        </div>
+      </div>
       <div class="text">${esc(it.text || '')}</div>
+      <button class="showmore" hidden>Show more</button>
       ${tags ? `<div class="tags">${tags}</div>` : ''}
       <div class="links">
         <a href="${esc(it.url)}" target="_blank" rel="noopener">🔗 View on X</a>
@@ -201,6 +220,18 @@
       grid.innerHTML = `<div class="grid">${items.map(cardHTML).join('')}</div>`;
     }
     empty.hidden = items.length > 0;
+    // reveal "Show more" only on cards whose text is actually clamped
+    grid.querySelectorAll('.card').forEach(card => {
+      const t = card.querySelector('.text');
+      const btn = card.querySelector('.showmore');
+      if (t && btn && t.scrollHeight > t.clientHeight + 4) {
+        btn.hidden = false;
+        btn.onclick = () => {
+          const exp = t.classList.toggle('expanded');
+          btn.textContent = exp ? 'Show less' : 'Show more';
+        };
+      }
+    });
     const total = processedItems().length;
     const hiddenCount = base.map(eff).filter(i => i.hidden).length;
     stats.innerHTML =
