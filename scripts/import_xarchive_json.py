@@ -67,6 +67,7 @@ def convert(bm: dict, cats: list[dict], synced_at: str) -> dict:
             if u.get("expanded_url")]
     hashtags = entities.get("hashtags") or []
     text = bm.get("full_text") or ""
+    media = bm.get("media") or []
     return {
         "tweet_id": tid,
         "url": f"https://x.com/{handle}/status/{tid}" if handle else f"https://x.com/i/status/{tid}",
@@ -76,6 +77,9 @@ def convert(bm: dict, cats: list[dict], synced_at: str) -> dict:
         "tweet_created_at": bm.get("created_at") or "",
         "likes": metrics.get("likes"),
         "reposts": metrics.get("retweets"),
+        "replies": metrics.get("replies"),
+        "views": metrics.get("views"),
+        "has_media": bool(media),
         "expanded_urls": urls,
         "hashtags": hashtags,
         "category": categorize(text, hashtags, cats),
@@ -104,8 +108,10 @@ def main() -> None:
             seen.add(r["tweet_id"])
             unique.append(r)
 
-    # Preserve manual edits from the previous import: re-imports must not
-    # wipe categories Rajeev re-tagged on the site or items he hid.
+    # Preserve manual edits from the previous import: hidden flags always
+    # survive, and categories survive only when marked manual (site export
+    # sets "manual": true on re-tagged records). Everything else gets
+    # re-categorized fresh so category.yaml changes apply.
     data_path = repo / "data" / "bookmarks.json"
     if data_path.exists():
         try:
@@ -115,8 +121,9 @@ def main() -> None:
         for r in unique:
             prev = old.get(r["tweet_id"])
             if prev:
-                if prev.get("category"):
+                if prev.get("manual") and prev.get("category"):
                     r["category"] = prev["category"]
+                    r["manual"] = True
                 if prev.get("hidden"):
                     r["hidden"] = True
 

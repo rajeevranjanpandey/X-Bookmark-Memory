@@ -1,19 +1,23 @@
 # Categories for X-Bookmark-Memory
-# Edit keyword lists to taste, then re-run the renderer to re-slice history.
+# Edit keyword lists to taste, then re-run the importer to re-slice history.
 # First matching category wins; anything unmatched goes to Uncategorized.
+# NOTE: "LLM" and "AI" are pinned first on the site's category chips.
 
 categories:
-  - name: "AI/ML"
-    keywords: ["llm", "transformer", "rag", "agent", "diffusion", "fine-tune", "finetune", "pytorch", "tensorflow", "embedding", "gpt", "claude", "gemini", "prompt engineering"]
+  - name: "LLM"
+    keywords: ["llm", "gpt", "chatgpt", "claude", "gemini", "transformer", "prompt engineering", "prompting", "system prompt", "rag", "langchain", "llamaindex", "ollama", "huggingface", "tokenizer", "embedding", "fine-tune", "finetune", "lora", "qlora", "diffusion", "context window", "token ", "agent", "agentic", "copilot", "cursor"]
+
+  - name: "AI"
+    keywords: ["artificial intelligence", "machine learning", "deep learning", "neural network", "computer vision", "generative ai", "genai", "ai model", "pytorch", "tensorflow", "kaggle", "stable diffusion", "midjourney", "sora"]
 
   - name: "Data"
-    keywords: ["spark", "dbt", "airflow", "warehouse", "lakehouse", "etl", "dashboard", "tableau", "power bi", "sql", "kafka", "pipeline"]
+    keywords: ["spark", "dbt", "airflow", "warehouse", "lakehouse", "etl", "dashboard", "tableau", "power bi", "powerbi", "sql", "kafka", "pipeline", "databricks", "snowflake", "bigquery", "data mesh", "data engineering", "analytics"]
 
   - name: "Career"
     keywords: ["hiring", "interview", "resume", "cv", "job", "promotion", "salary", "offer letter", "layoff"]
 
   - name: "Startups"
-    keywords: ["yc", "y combinator", "seed", "series a", "founder", "mvp", "pitch", "startup"]
+    keywords: ["yc", "y combinator", "seed", "series a", "founder", "mvp", "pitch", "startup", "indie hacker"]
 
   - name: "Finance"
     keywords: ["markets", "stocks", "fed", "inflation", "crypto", "bitcoin", "ethereum", "trading", "invest"]

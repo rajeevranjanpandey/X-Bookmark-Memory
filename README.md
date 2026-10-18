@@ -56,12 +56,14 @@ key, no server — everything stays in your browser.
    mode** (top right), click **Load unpacked**, and select the `xarchive`
    folder.
 
+   ![xarchive loaded in Chrome extensions](images/step2-loaded.png)
+
 3. **Visit x.com** in Chrome so the extension picks up your login session.
 
 4. **Run the export** — click the xarchive icon and choose **Full refresh**.
    Keep the tab open while it pages through your bookmarks.
 
-   ![xarchive exporting bookmarks](images/step2-export.png)
+   ![xarchive exporting bookmarks](images/step3-export.png)
 
 5. **Download the archive** — when it finishes, click **Download combined
    archive**. You get a JSON file with every bookmark: full text, author,
