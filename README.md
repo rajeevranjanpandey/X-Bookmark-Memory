@@ -32,6 +32,18 @@ A scheduled job runs daily:
 
 ## Downloading your bookmarks with xarchive (free, no API key)
 
+### Free vs paid — what works
+
+| Method | Cost | Bookmarks access | How it works |
+|---|---|---|---|
+| **xarchive** (this repo's method) | Free | ✅ Full export | Chrome extension using your logged-in X session |
+| X API Free tier | Free | ❌ No bookmarks endpoint | Cannot read bookmarks at all |
+| X API Basic tier (~$100/mo) | Paid | ✅ Bookmarks endpoint | Official API, `bookmark.read` scope |
+| X data download (Settings → Your data) | Free | ❌ Bookmarks not included | Archive has tweets/likes/DMs, but no bookmarks file |
+
+**Bottom line:** xarchive is the only free way to get your bookmarks out of X.
+The paid API works too, but costs ~$100/month just for bookmark reads.
+
 The X API bookmarks endpoint needs a paid tier, and X's own data download
 doesn't include bookmarks at all. The free path that works today is
 **[xarchive](https://github.com/sytelus/xarchive)** — a Chrome extension by
@@ -50,20 +62,20 @@ key, no server — everything stays in your browser.
    git clone https://github.com/sytelus/xarchive.git
    ```
 
-   ![Cloning the xarchive repo](images/step1-clone-sm.jpg)
+   ![Cloning the xarchive repo](https://i.imgur.com/tfXH3Ut.jpeg)
 
 2. **Load it in Chrome** — open `chrome://extensions/`, enable **Developer
    mode** (top right), click **Load unpacked**, and select the `xarchive`
    folder.
 
-   ![xarchive loaded in Chrome extensions](images/step2-loaded-sm.jpg)
+   ![xarchive loaded in Chrome extensions](https://i.imgur.com/4STB6Ud.jpeg)
 
 3. **Visit x.com** in Chrome so the extension picks up your login session.
 
 4. **Run the export** — click the xarchive icon and choose **Full refresh**.
    Keep the tab open while it pages through your bookmarks.
 
-   ![xarchive exporting bookmarks](images/step3-export-sm.jpg)
+   ![xarchive exporting bookmarks](https://i.imgur.com/M9WVM4p.jpeg)
 
 5. **Download the archive** — when it finishes, click **Download combined
    archive**. You get a JSON file with every bookmark: full text, author,
