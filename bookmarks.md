@@ -1,6 +1,916 @@
-# Bookmarks
+# X Bookmarks — 1503 saved
 
-Auto-synced from X. Newest first within each category.
+Exported from X on 2026-10-18 via xarchive.
 
-_Categories are defined in [`config/categories.yaml`](config/categories.yaml).
-No bookmarks synced yet — the first daily run will populate this page._
+## AI/ML (391)
+
+- [I learned that trick of embedding custom basemaps from Mapbox from this video by @johnnywharris  https://t.co/OGk5Qdpog9  A must watch if yo…](https://x.com/yannickbrouwer/status/1509045137678258179) — @yannickbrouwer
+- [4 free AI powered resume builders:  1. https://t.co/91wmga37iF Auto-complete and fill data for you.  2. https://t.co/tkEcAbaJh4 Build resume…](https://x.com/Prathkum/status/1619214998060015617) — @Prathkum
+- [ChatGPT is like a superhuman!  But here are 7 Chrome extensions that will take your #ChatGPT experience to new heights! 🚀  Take a look 🧵↓](https://x.com/DataChaz/status/1623965979645730816) — @DataChaz
+- [Why write emails when you can train ChatGPT to do it.  Here's how to train chatGPT to learn your writing style, so you never have to write a…](https://x.com/rowancheung/status/1625857972546183171) — @rowancheung
+- [Check out @nutlope's roomGPT!  Redesign your room in seconds with #AI, 100% free and open source! 🤯  - App: https://t.co/9dT3vIirXy - Code: …](https://x.com/DataChaz/status/1631780879977553920) — @DataChaz
+- [🎉 Just published a NEW viz titled "Superstore Quadrant Chart" on @TableauPublic! 🎉  A quadrant chart is a creative way to compare the perfor…](https://x.com/EpleySamuel/status/1633306064711045122) — @EpleySamuel
+- [hey gpt4, make me an iPhone app that recommends 5 new movies every day + trailers + where to watch.  My ambitions grew as we went along  👇 h…](https://x.com/mortenjust/status/1636001311417319426) — @mortenjust
+- [AI Tools to make you super productive.  1. GPT-3.5 and GPT-4 powered chat https://t.co/O2Sx28ZAt6  2.  Your meeting insights. Automated with…](https://x.com/csaba_kissi/status/1637728899982401536) — @csaba_kissi
+- [10 super useful ChatGPT prompts for developers (save 100+ hours):](https://x.com/Prathkum/status/1637800643736764417) — @Prathkum
+- [Let AI write code for you:  1. https://t.co/PrDvoIZgFg Plain English to code  2. https://t.co/GxbiXe4R6M Generate code with AI  3. https://t…](https://x.com/DevMuzzammil/status/1638064091444150272) — @DevMuzzammil
+- [If you want to use GPT-4 but don't want to pay for ChatGPT Pro, there's another way.  Put the periods into this URL : assistant(dot)bloat(do…](https://x.com/thatroblennon/status/1638116009881026561) — @thatroblennon
+- [1) I ask ChatGPT to rewrite my writing with 6 different "tones":  1. More formal 2. More serious 3. More sarcastic 4. More optimistic 5. Mor…](https://x.com/dickiebush/status/1638906086588829697) — @dickiebush
+- [Linkedin is using GPT-4 to write your profile and job description.  But few know that you can also use Leap AI (@leap_api) to generate your …](https://x.com/hasantoxr/status/1639230227111985152) — @hasantoxr
+- [13. ChatGPT Prompt Genius  ChatGPT is like a superhuman but it requires great prompts.  Discover, share, import, and use the best prompts fo…](https://x.com/hasantoxr/status/1641080624080465920) — @hasantoxr
+- [We're living in a new age of AI technology.  ChatGPT is just one example of powerful AI tool.  Here are 15 new AI tools to upgrade your prod…](https://x.com/hasantoxr/status/1644703867869724672) — @hasantoxr
+- [3. ChatGPT prompts for Education:   This prompt will help you learn any topic related to your studies in a super easy way with a quiz at the…](https://x.com/hasantoxr/status/1645702992778211328) — @hasantoxr
+- [@mckaywrigley 2. Use ChatGPT and DALL-E 2 through text messaging with TextGPT.  Get answers to questions, and generate images from text.  ht…](https://x.com/rowancheung/status/1646538270942064643) — @rowancheung
+- [Stable Diffusion XL for FREE  Now anyone can use Stable Diffusion XL  It’s the latest text-to-image generative AI model from Stability  What…](https://x.com/LinusEkenstam/status/1646865931912593409) — @LinusEkenstam
+- [Use GPT4 for FREE 🔥🔥🔥  This is Forefront chat—a better ChatGPT experience—in free alpha.   Head over to get free access to GPT-4, image gene…](https://x.com/LinusEkenstam/status/1649567654019997698) — @LinusEkenstam
+- [Your free AI coding assistants:  1. https://t.co/a0HFiaJyqd Website builder ChatGPT.  2. https://t.co/umemB66jap Write code 10x faster.  3. …](https://x.com/Prathkum/status/1649672681191776256) — @Prathkum
+- [AiGems alpha out 🎉  1600+ AI/ChatGPT tools. I released it as an MVP.   There is still a lot of work, but it's live.   Reply with: 👋 if you w…](https://x.com/csaba_kissi/status/1650906866690531328) — @csaba_kissi
+- [Scrapeghost is a new library for scraping websites using #GPT4! 🤯  The library can scrape structured data from HTML without writing page-spe…](https://x.com/DataChaz/status/1651304433366466591) — @DataChaz
+- [Built a CSV Question and Answering using @langchain @OpenAI and @streamlit  In 50 lines of code!  #openai #langchain #csvagent #streamlit  C…](https://x.com/ngmisl/status/1653364503697055744) — @ngmisl
+- [#29 - Show/Hide Share of Total Leverage interactions &amp; animations to conditionally display a share of total when filtering on a category…](https://x.com/ltavernier7/status/1660985777575043073) — @ltavernier7
+- [Download PNG or PDF of a Tableau dashboard: Go to the URL, and add ".PNG", or ".PDF" to the end *Works with Tableau Public and Server **Help…](https://x.com/TableauTipTrick/status/1661386573110206470) — @TableauTipTrick
+- [@ZachBowders @HighVizAbility "Hey ChatGPT. Use the persona of a talented author  writing in the third person. Write the outline of a book ab…](https://x.com/_gringuinho_/status/1661580571582115841) — @_gringuinho_
+- [Step 1: Go to ChatGPT and paste the text you would like to use to create the flowchart.  Step 2: Prompt ChatGPT to "create a vertical flowch…](https://x.com/dr_asadnaveed/status/1662472578135457793) — @dr_asadnaveed
+- [The tool uses Whisper for transcriptions and GPT-3.5 for suggested responses.  The best part?   It's completely free and open-sourced: https…](https://x.com/rowancheung/status/1663225951684030465) — @rowancheung
+- [2/ Optimize prompts w/ Prompt Perfect  Use Prompt Perfect to turn simple prompts into superior prompts.  → Go to https://t.co/dROvCoVTTq → G…](https://x.com/moritzkremb/status/1667170398637633537) — @moritzkremb
+- [Today at Meta we’re releasing Llama 2, the next generation of our open source LLM available for research and commercial use. https://t.co/xy…](https://x.com/louismrt/status/1681364327981371395) — @louismrt
+- [Follow-up on ChatGPT + 👀  Now that ChatGPT has 'eyes', it can see and understand charts!  Thanks to these tools: @langchain, @huggingface Tr…](https://x.com/nicolas_tch/status/1683605574565412865) — @nicolas_tch
+- [Impressive. MetaGPT is about to reach 10,000 stars on Github.  It's a Multi-Agent Framework that can behave as an engineer,  product manager…](https://x.com/LiorOnAI/status/1687878483899207680) — @LiorOnAI
+- [8 New AI tools you can't afford to miss:  1. Social app for personalized AI art   https://t.co/kykQUgWlh0  2. Voice Memos with superpowers h…](https://x.com/AlfaizAliX/status/1690225983906041856) — @AlfaizAliX
+- [@Andersonmancini @mrdoob Three.js + 8thwall + Stable Diffusion Controlnet and One-2-3-45 (https://t.co/HOE2bSxpZ9) combined 😊](https://x.com/stspanho/status/1691224110586634240) — @stspanho
+- [Buckle up; this is going to be a good one!  How to Generate On-Brand Stock Images using Stable Diffusion!  👇](https://x.com/Salmaaboukarr/status/1709244892478644593) — @Salmaaboukarr
+- [Motion path and onion skin. 〽️🧅  Once you drag your shape/ animate its position, you get an immediate visual feedback of this change and the…](https://x.com/drewosophy/status/1714666487951081752) — @drewosophy
+- [Auto-animate. 🪄🤖  Once in animate mode, drag your shape or edit any property, and boom, you’ve created your first animation in a couple of c…](https://x.com/drewosophy/status/1714674842425815247) — @drewosophy
+- [Using DALL-E 3 to Generate Consistent Charatcater Images: A Detailed Guide  Thanks to @umesh_ai  and @LearnAI_MJ  for earlier post , taking …](https://x.com/ai_for_success/status/1715268740944900458) — @ai_for_success
+- [DALL-E 3 Consistent Characters: Part 2 - Hope : How to write prompt ?    🔖 Don't forget to bookmark this for a quick reference and share it …](https://x.com/ai_for_success/status/1715734170708939094) — @ai_for_success
+- [Dall-E 3 now allows you to copy the style of an image.  You can generate an unlimited number of images in the same style.  Here's how to do …](https://x.com/itsPaulAi/status/1720825198952255646) — @itsPaulAi
+- [I've just set up a directory of all chatGPT custom GPTs.  Made it only 5 minutes ago. Found these custom GPTs on X.  You can add your custom…](https://x.com/johnrush/status/1722330255665357021) — @johnrush
+- [🎨 PROMPT SHARE 🤖  Theme: Outline in black background!  ✨New Prompt🚨 :   1️⃣ For GPT-4(DALL-E 3) : Use the exact prompt as it is:  outline of…](https://x.com/umesh_ai/status/1723199534665494706) — @umesh_ai
+- [⚡ Super Describe GPT  Upload any image to get a similar one using DALL·E 3 along with the detailed prompt.  Link to  &amp; details 👇🧵 https:…](https://x.com/javilopen/status/1724028730392420462) — @javilopen
+- [✨Poetic Prompt Share:✨  Doppler effect in terragen art portrait,  Wrapping a beauty's invisible body  In selective color, divine energy  Mat…](https://x.com/patricialeveq/status/1726302242083578092) — @patricialeveq
+- [✨ Creating the Invisible: A Guide to Unseen Figure Imagery Using GPT-4" 🎨  Here are the steps :  1️⃣ Run the following prompt:   "Create an …](https://x.com/umesh_ai/status/1726506528608600293) — @umesh_ai
+- [Good Night! 🌜  (generated with my last Custom GPT, check my highlights for more info! Request in ALT)](https://x.com/thierrydd/status/1728575367286276158) — @thierrydd
+- [🛠️Crafted the Google Gemini Animation using @figma  Comment "🔥", and I'll slide into your DMs with the Figma file!   Inspired by - https://t…](https://x.com/tushtisachdeva/status/1733131822492717175) — @tushtisachdeva
+- [The response to my last post was off the charts 🤯  And I hear you all loud and clear  This thread will cover the key steps to recreate the G…](https://x.com/tushtisachdeva/status/1733554457932370332) — @tushtisachdeva
+- [Google's new AI note-taking app just got upgraded with Gemini!  It's completely free and a life hack for students.  Here's what you need to …](https://x.com/rowancheung/status/1734249191210152227) — @rowancheung
+- [Creating app icons is no longer expensive and difficult.  DALL-E 3 can create them instantly, and ChatGPT can guide it well.  The best part …](https://x.com/umesh_ai/status/1734880911609790485) — @umesh_ai
+- [Thrilled to share that I reverse engineered Google Gemini's thread animation!  Check out the live preview &amp; code on GitHub. ↓↓ #GoogleGe…](https://x.com/saipranay47/status/1734898451270537418) — @saipranay47
+- [🎨 PROMPT SHARE 🤖  Theme: Waterfall Shapes  ✨New Prompt🚨 :   ChatGPT Prompt: Create a  photorealistic image of a waterfall that looks like a …](https://x.com/umesh_ai/status/1740220517628670260) — @umesh_ai
+- [Where there's hope, there's life. It fills us with fresh courage and makes us strong again..  Anne Frank https://t.co/2iwf4kpdls](https://x.com/LudovicCreator/status/1740658925597257959) — @LudovicCreator
+- [3. You can change the aspect ratio of the images created inside ChatGPT.  - Square: 1024x1024 - Wide: 1792x1024 - Tall: 1024x1792  This is n…](https://x.com/chaseleantj/status/1749030274770543088) — @chaseleantj
+- [5. When writing DALL-E prompts, do not put verbs like "imagine" or "create" at the start of the prompt.  ChatGPT likes to do this - I have f…](https://x.com/chaseleantj/status/1749030278381875644) — @chaseleantj
+- [#daretoshare24 #buildinginpublic   Excited to share a glimpse of our waste stream builder! 🎺  Take a look at the sidebar, allowing users to …](https://x.com/imtomasebastian/status/1749476497172131983) — @imtomasebastian
+- [1. Real-time translation in 45 languages  ActiveBuds are only TWS earbuds globally for 1v1 Real-Time Conversation Translation without a smar…](https://x.com/Rixhabh__/status/1757291145661743596) — @Rixhabh__
+- [@barbbowman detailed prompt in ALT description 👇 #PromptShare #StableDiffusion https://t.co/oxoqC6WYkg](https://x.com/ai_diffusion/status/1781276086120128579) — @ai_diffusion
+- [I just published a video of AI Assistant Expense Tracker SwiftUI App Demo https://t.co/7HrM9x6PDI  A Thread 🧵of of all the features #iosdev …](https://x.com/alfianlosari/status/1784599273126199432) — @alfianlosari
+- [I just published a new video tutorial:  Build an AI Assistant Expense Tracker SwiftUI App | Part 1 | iOS/iPadOS | macOS | visionOS | ChatGPT…](https://x.com/alfianlosari/status/1788369903822761994) — @alfianlosari
+- [I asked Claude 3.5 Sonnet to create an interactive Memory Card game and it nailed it.  Watching the code come to life right on the same scre…](https://x.com/dr_cintas/status/1804884790870462923) — @dr_cintas
+- [I just ditched my ChatGPT subscription for something that's 10x better.  Here's how you can too: https://t.co/TnqIN5XDbx](https://x.com/MentalUnleash/status/1834589611940843864) — @MentalUnleash
+- [Agent: https://t.co/o9tnODJQFt  Code: https://t.co/JLqv1r1VLl](https://x.com/virattt/status/1875684098636992665) — @virattt
+- [I'm excited to release AI Agents workflows at simple-ai .dev, inspired by @AnthropicAI's article on building effective agents, powered by @x…](https://x.com/Alwurts/status/1885051386444079280) — @Alwurts
+- [Goodbye Photoshop  It's only been 2 days since Google dropped Gemini Flash Experimental, and people are going crazy over it.  13 wild exampl…](https://x.com/CodeByPoonam/status/1900886453716218012) — @CodeByPoonam
+- [ChatGPT-4o image gen is insane.  People can't stop finding new creative ways to use it.  10 wild examples + prompts &amp; how to: https://t.…](https://x.com/minchoi/status/1916141452582699351) — @minchoi
+- [We've been working on extracting information in templatized PDFs for the last couple of years, leveraging the best of LLMs and classical dat…](https://x.com/adityagp/status/1918354441830649980) — @adityagp
+- [Announcing Tensorlake Cloud  Up-leveling Document Ingestion and Workflows for building agentic applications and complex business workflows. …](https://x.com/tensorlake/status/1923045290572935407) — @tensorlake
+- [Agentic Document Extraction just got much faster! From previous 135sec median processing time down to 8sec. Extracts not just text but diagr…](https://x.com/AndrewYNg/status/1927384264779170259) — @AndrewYNg
+- [@AndrewYNg I was building this with https://t.co/lvkQOBIehL agentic document advance extraction, which is useful. https://t.co/95C98DxjBn](https://x.com/EngrSARFRAZawan/status/1927410926346494312) — @EngrSARFRAZawan
+- [@AndrewYNg In our open sourced project: https://t.co/bVpoa2QkJn, we transform any documents into tree and conduct Monte Carlo tree search to…](https://x.com/MingtianZhang/status/1927539208710652032) — @MingtianZhang
+- [Download Agent is part of Super Agent, a fully autonomous AI agent created by the @genspark_ai team.  Here is the link for you to try it: ht…](https://x.com/svpino/status/1929193849685209558) — @svpino
+- [Genspark AI just released the world’s first full Agentic Download Agent.  You can now ask to download anything and the agent automatically s…](https://x.com/dr_cintas/status/1929229139338252489) — @dr_cintas
+- [I created an Iron Man style interface to interact with Supabase tables to create charts using Claude Code 🖐️  It was my first project workin…](https://x.com/dshukertjr/status/1929886033610522970) — @dshukertjr
+- [📃 Setting up document automation from scratch or looking to optimize existing workflows?  In this video, we walk through how to build advanc…](https://x.com/GetUnstract/status/1939614725526221093) — @GetUnstract
+- [Fascinating high resolution load data for an AI training data center (50 MW block)  Periodic idling & surges - 6MW to 30MW spike in 290ms(!)…](https://x.com/aniruddh_mohan/status/1943307782129639870) — @aniruddh_mohan
+- [https://t.co/FYzpT3pCAm is now https://t.co/ICPFB0FVbo, the AI builder for everyone.  The new v0 uses agentic AI to plan, research, build, a…](https://x.com/v0/status/1954942203471831448) — @v0
+- [Pulse (@Pulse__AI) just launched their state-of-the-art document extraction platform.  It turns complex PDFs, scans, decks, and images into …](https://x.com/ycombinator/status/1956370296321028203) — @ycombinator
+- [Build an advanced agentic workflow for financial extraction - in < 5 minutes ⚡️  In this video I show you how you can define a complex docum…](https://x.com/jerryjliu0/status/1961845346222666089) — @jerryjliu0
+- [Baidu just dropped its most advanced reasoning AI yet.  ERNIE X1.1 goes beyond numbers and benchmarks and it’s a major leap in factuality, i…](https://x.com/hasantoxr/status/1965770462493081695) — @hasantoxr
+- [Don't copy and paste answers from ChatGPT.  ChatGPT writing is easily detectable.  Here's a secret hack to humanize your text:](https://x.com/Damn_coder/status/1966414242795704758) — @Damn_coder
+- [🤖🌐 ParserGPT: Smart Web Scraping  Transform messy websites into clean CSV data using LLMs and deterministic rules. Powered by LangChain and …](https://x.com/LangChain/status/1967257030756028505) — @LangChain
+- [✅ Top AI LLM models can handle all you tasks  → PDF Summaries, essays, blogs: GPT-5, Claude 4.1, Gemini 2.5 Pro → Social media posts, : Grok…](https://x.com/Rixhabh__/status/1967491603498680562) — @Rixhabh__
+- [1. Open Gemini  2. Upload your photo  3. Enter this prompt  4. Generate  5. Change the pose https://t.co/dvefnGNoiQ](https://x.com/hanifproduktif/status/1967783280717316434) — @hanifproduktif
+- [Build a Large Language Model from scratch!  This repository contains the code examples for developing, pretraining, and finetuning a LLM fro…](https://x.com/Sumanth_077/status/1971223455367643304) — @Sumanth_077
+- [Google just killed every paid coding tool.  Their new AI Studio destroys Cursor completely.  Here's how to build React apps instantly:  → Op…](https://x.com/JulianGoldieSEO/status/1971364094436630941) — @JulianGoldieSEO
+- [5 tools developers need to ship great AI apps  https://t.co/CEa4SAQXJK - Generative UI API that turns LLM outputs into interactive UI in rea…](https://x.com/csaba_kissi/status/1973028080059920587) — @csaba_kissi
+- [Holy shit...AI just broke out of the text box forever.  C1 by @thesysdev turns any LLM response into adaptive UI in real time.  No more text…](https://x.com/alex_verem/status/1973040315830600100) — @alex_verem
+- [Introducing ⚡ Caesr by @ask_ui  The AI agent that operates your computer like a human.   Clicks, types, navigates — across desktop, mobile, …](https://x.com/menes_jo/status/1973055404058751028) — @menes_jo
+- [New on the Anthropic Engineering Blog: Most developers have heard of prompt engineering. But to get the most out of AI agents, you need cont…](https://x.com/AnthropicAI/status/1973098580060631341) — @AnthropicAI
+- [Finally, MCP servers can now deliver UI-rich experiences!  MCP servers in Claude/Cursor don't offer any UI elements like charts or tables. I…](https://x.com/akshay_pachaar/status/1973792590647681479) — @akshay_pachaar
+- [Turn your photo into a pro-level shot with Gemini  Prompt ⤵️ https://t.co/4C7JJd68M4](https://x.com/Drshadow56/status/1975127873808937396) — @Drshadow56
+- [Diffusion models are powerful 🔥, but adapting them at inference time without retraining is challenging ⁉️.   We introduce DriftLite, a light…](https://x.com/Yinuo_Ren/status/1975628182234800255) — @Yinuo_Ren
+- [Build AI Agents, Visually https://t.co/nhBqpypJ52](https://x.com/GithubProjects/status/1979388502858166752) — @GithubProjects
+- [I’m 13 and launching Kodo  It’s the best design agent there is. https://t.co/GLLVlkVK3O](https://x.com/mlg27_/status/1979632565784023473) — @mlg27_
+- [@Hesamation Transformer Explainer: LLM Transformer Model Visually Explained https://t.co/ZerpHGIv3s This is best source to understand transf…](https://x.com/ne0phy73/status/1979765363312336944) — @ne0phy73
+- [Here are 5 beginner-friendly arXiv papers for AI projects. Each has tutorials online for easy implementation:  1. "Generative Adversarial Ne…](https://x.com/grok/status/1980518362922021358) — @grok
+- [Fine-tune Kosmos2.5: https://t.co/BqgzOaaYip  Fine-tune Florence-2 on DocVQA: https://t.co/UZ5zJXqNZd  also find more vision LM/computer vis…](https://x.com/mervenoyann/status/1981657581283381672) — @mervenoyann
+- [1. Open Gemini 2. Upload your photo 3. Enter this prompt 4. Generate 5. Change the pose  Here are 10 best prompts (PART 4)🧵 https://t.co/1EK…](https://x.com/eyishazyer/status/1982402108109607245) — @eyishazyer
+- [Last week, we teamed up with @MongoDB to break down one of the most persistent challenges in production AI systems: turning messy, real-worl…](https://x.com/llama_index/status/1986117341911130163) — @llama_index
+- [@llama_index @MongoDB The S3 → LlamaParse → MongoDB → LLM pipeline is so clean. Makes me wonder how startups can adapt it for domain-specifi…](https://x.com/AnsarUllahAnas_/status/1986412065846927480) — @AnsarUllahAnas_
+- [Trigger your agent workflows directly from your inbox, using our LlamaAgents and @resend webhooks📧 In this demo, we built a system that: 👉 R…](https://x.com/llama_index/status/1986847428272857356) — @llama_index
+- [LLM vs RAG vs Agent Workbook ~ Download https://t.co/5pCAO7dg1B   Let me first share my philosophy behind building this new AI by Hand ✍️ wo…](https://x.com/ProfTomYeh/status/1986854350082212215) — @ProfTomYeh
+- [LangGraph. CrewAI. Agno.  Which one to pick?  The good news is that this will not matter soon!  Finally, we have a full picture of how the i…](https://x.com/_avichawla/status/1989228336997101946) — @_avichawla
+- [Agentic RAG didn’t “improve” RAG. It replaced it. And anyone still clinging to vanilla RAG is building with training wheels on.  2023 was th…](https://x.com/alxnderhughes/status/1989304363790274665) — @alxnderhughes
+- [Profile picture ideas for boys 🧑  Trend 148             To create, go to #Gemini app, upload your image, paste this prompt👇: Prompt 1: "A ci…](https://x.com/gemini_prompts/status/1989652183604761049) — @gemini_prompts
+- [Google has also announced its own vibe-coding tool powered by Gemini 3 Pro. Yes.  Antigravity can build any app, but also:  → Interact with …](https://x.com/itsPaulAi/status/1990823102654157136) — @itsPaulAi
+- [Gemini 3 is the best model at creating animations. It's not even close.  Here are the prompts I used for creating these UI animations.  You …](https://x.com/MengTo/status/1992213336205951143) — @MengTo
+- [Microsoft just launched VibeVoice Realtime on Hugging Face  A lightweight, streaming text-to-speech model generating initial audible speech …](https://x.com/HuggingPapers/status/1997351370848964755) — @HuggingPapers
+- [This is how MCPs work in Claude Code and any other tool  Tool/Function calling is its foundation  Details here https://t.co/r6kENmLgZG https…](https://x.com/donvito/status/1997954448266756500) — @donvito
+- [Most "AI document tools" are just ChatGPT with a file upload button.  Felo LiveDoc gives you an intelligent canvas. It's an actual workspace…](https://x.com/ai_for_success/status/1998313495620956519) — @ai_for_success
+- [🧬🧠 @AWS Strands Agents + @Amazon Bedrock + AG-UI  File Investigator Demo  Analyze PDFs, extract insights, and generate structured outputs wi…](https://x.com/CopilotKit/status/1998421434142712094) — @CopilotKit
+- [Thinking of replacing those expensive calls to ChatGPT with a small model, but don't know where to start?  I got you covered ↓  https://t.co…](https://x.com/paulabartabajo_/status/2000838645373084054) — @paulabartabajo_
+- [Multi-agent AI systems are eating single-agent architectures.  But most teams have no idea how to build them.  As agent systems get more com…](https://x.com/femke_plantinga/status/2000883645888827806) — @femke_plantinga
+- [We're releasing Medmarks v0.1, the largest completely open-source automated evaluation suite for assessing the medical capabilities of LLMs!…](https://x.com/SophontAI/status/2003216341113966921) — @SophontAI
+- [We just dropped the technical report of AI-Trader🚀 - the fully autonomous trading benchmark where AI agents make real financial decisions wi…](https://x.com/huang_chao4969/status/2004756041498861588) — @huang_chao4969
+- [Much like the switch in 2025 from language models to reasoning models, we think 2026 will be all about the switch to Recursive Language Mode…](https://x.com/a1zhang/status/2007198916073136152) — @a1zhang
+- [So my friend made a thing 🍌  Got tired of that Gemini watermark in the corner of Nano Banana images, so he built a little Chrome extension t…](https://x.com/somi_ai/status/2008325089209839749) — @somi_ai
+- [Vibe coded a game character selection screen  Everything here was made with AI tools Nano Banana: character design + UI Tencent Hunyuan3D: i…](https://x.com/DilumSanjaya/status/2008584593222652057) — @DilumSanjaya
+- [🚀 Safer &amp; less over-refusal LLMs without retraining? Yes, it’s possible. We need a good context.  Here’s a simple but powerful idea for …](https://x.com/kim__minseon/status/2008656585539940606) — @kim__minseon
+- [I built an AI Agent that turns text into 3Blue1Brown-style math animations  no code.  no After Effects. just describe what you want.  here's…](https://x.com/rakeshsahni_/status/2010447326675177608) — @rakeshsahni_
+- [My implementation of the Recursive Language Model (RLM) paper by @a1zhang , Kraska, and @lateinteraction .  Key insight: "Treat long context…](https://x.com/M0EGPT/status/2010508870129434928) — @M0EGPT
+- [Hardware Memory is the choke point slowing down GenAI.  ~2018–2025, transformer model size grew ~19× every 2 years, while memory per acceler…](https://x.com/rohanpaul_ai/status/2012964940714496069) — @rohanpaul_ai
+- [HUMAN BODY ultra-clean anatomy infographic  Made with Google Nano Banana Pro  PROMPT - Ultra-clean modern editorial infographic poster (1080…](https://x.com/Strength04_X/status/2015020546560569418) — @Strength04_X
+- [🚨 This paper just murdered the foundation of every AI model you've ever used.  A researcher proved you can match Transformer performance WIT…](https://x.com/alex_prompter/status/2016090031107277269) — @alex_prompter
+- [I created a Claude Skill that make beautiful slides on the web. The world hasn't woken up to the fact that code can create much better slide…](https://x.com/zarazhangrui/status/2016337615843434646) — @zarazhangrui
+- [MIT is offering Books on AI & ML (ABSOLUTELY FREE):  1. Foundations of Machine Learning https://t.co/78p57EBbL8  2. Understanding Deep Learn…](https://x.com/swapnakpanda/status/2016358443234541580) — @swapnakpanda
+- [New Research from Amazon.  Great paper showing how to build effective lightweight multi-agent systems.  This new research introduces Insight…](https://x.com/omarsar0/status/2016880021030522997) — @omarsar0
+- [Excited to announce AI Research Skills - an open-source library of 82 specialized skills for AI coding tools.  One command gives your agent …](https://x.com/ZechenZhang5/status/2016987600142078300) — @ZechenZhang5
+- [𝟭𝟮 𝗔𝗜 / 𝗠𝗟 𝗕𝗼𝗼𝗸𝘀 𝗬𝗼𝘂 𝗦𝗵𝗼𝘂𝗹𝗱 𝗥𝗲𝗮𝗱 𝗜𝗳 𝗬𝗼𝘂’𝗿𝗲 𝗦𝗲𝗿𝗶𝗼𝘂𝘀 𝗔𝗯𝗼𝘂𝘁 𝗔𝗜 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴  𝟭/ 𝗔𝗜 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴: 𝗖𝗵𝗶𝗽 𝗛𝘂𝘆𝗲𝗻 → Data, models, evaluation, deploymen…](https://x.com/Ai_Vaidehi/status/2018001071776690520) — @Ai_Vaidehi
+- [Google just dropped another banger!  the figures in this paper were drawn by the system described in the paper.  PaperBanana is an agentic f…](https://x.com/akshay_pachaar/status/2018678023529357391) — @akshay_pachaar
+- [Vector databases just got disrupted 🤯  You can now build RAG without Vector DBs.  PageIndex is a new open-source library that uses document …](https://x.com/dr_cintas/status/2019045152350756869) — @dr_cintas
+- [Visualizes transformer operations in the browser  https://t.co/BxUuXBt29N https://t.co/XjYBE4tCIv](https://x.com/tom_doerr/status/2020016192463732745) — @tom_doerr
+- [MIT just published a paper that quietly explains why LLM reasoning hits a wall and how to push past it.  The usual story is that models fail…](https://x.com/ChrisLaubAI/status/2020789996622664023) — @ChrisLaubAI
+- [New video! How do LLMs grow outrageously large yet blazingly fast?  The secret: Mixture of Experts (MoE)  In this video, we cover the role o…](https://x.com/jbhuang0604/status/2020909359241261067) — @jbhuang0604
+- [Can AI agents design better memory mechanisms for themselves? Introducing Learning to Continually Learn via Meta-learning Memory Designs. A …](https://x.com/jeffclune/status/2021242681826095179) — @jeffclune
+- [Paper reading --Transformer: Attention Is All You Need   I focused on scaled self-attention and redrew the diagrams with more implementation…](https://x.com/ickma2311/status/2021795151136649503) — @ickma2311
+- [Palantir CTO @ssankar on LLM orchestration: Send one prompt to K LLMs. Each returns a full answer. A synthesis step reads all outputs, compa…](https://x.com/rohanpaul_ai/status/2023723228108124640) — @rohanpaul_ai
+- [A critical gap in modern AI isn't language or vision. It's spatial grammar. And it reveals a fundamental data bottleneck.  We built MapTrace…](https://x.com/GoogleResearch/status/2023876321538167061) — @GoogleResearch
+- [🧵"Neural Message Passing on Attention Graphs for Hallucination Detection" at #ICLR2026 !  🕸️We apply GNNs on the structured data LLMs produc…](https://x.com/ffabffrasca/status/2024156771053400150) — @ffabffrasca
+- [🌟 Giving Your AI Agent a Brain Transplant w/ PEFT 🌟 https://t.co/285fvuAr7D https://t.co/rGSxLqMyaD](https://x.com/bibryam/status/2024796420717596897) — @bibryam
+- [17,000 tokens per second!! Read that again! LLM is hard-wired directly into silicon. no HBM, no liquid cooling, just raw specialized hardwar…](https://x.com/wildmindai/status/2024810128487096357) — @wildmindai
+- [Claude just became the smartest research assistant you'll ever have.  Find sources, analyze papers, generate citations, all in one prompt.  …](https://x.com/AIHighlight/status/2024871472477405580) — @AIHighlight
+- [🚀 Big drop from @GoogleDeepMind: Gemini 3.1 Pro is here, and we built a hands-on demo powered by LlamaCloud to put it to work and turn your …](https://x.com/llama_index/status/2024892621911679102) — @llama_index
+- [one-shot prompt and got this insanely beautiful CSS animation from Gemini 3.1 Pro https://t.co/lwxkHICZxw](https://x.com/ann_nnng/status/2025149254449463561) — @ann_nnng
+- [Bytedance just dropped a paper that might change how AI thinks.  Literally.  They figured out why LLMs fail at long reasoning — and framed i…](https://x.com/BoWang87/status/2025227673820176689) — @BoWang87
+- [Firecrawl now extracts PDFs faster and more accurately with our new Rust-based parser.  - 3x faster - Cleaner data for RAG + AI search - Thr…](https://x.com/firecrawl/status/2027069580901044705) — @firecrawl
+- [Creat with nano Banana gemini  {   "action": "image_generation",   "input": {     "prompt": "A realistic 3D illusion scene of a cute cartoon…](https://x.com/de_mon010/status/2028397992034885713) — @de_mon010
+- [STOP Using AdamW, EVERYONE Uses Muon Now  Everyone (OpenAI, Meta, DeepSeek, Moonshot AI,...) replaced AdamW with Muon optimizer to train the…](https://x.com/VukRosic99/status/2028486970012512293) — @VukRosic99
+- [🚨BREAKING: Someone just open-sourced a full AI LaTeX editor and made Overleaf look overpriced.  It's called Octree.  Real-Time AI Editing. C…](https://x.com/hasantoxr/status/2030657842861248732) — @hasantoxr
+- [1/4 LLMs solve research grade math problems but struggle with basic calculations. We bridge this gap by turning them to computers.  We built…](https://x.com/ChristosTzamos/status/2031845134577406426) — @ChristosTzamos
+- [😱 INSANE VALUE!  GREG ISENBERG and ANDREJ KARPATHY just dropped a masterclass on AUTO RESEARCH with AI research agent.  Marketing team: $25K…](https://x.com/KanikaBK/status/2032056040532165087) — @KanikaBK
+- [Multimodal LLMs can read text in images, but why do they often perform worse than when the same text is given as tokens? Our work studies th…](https://x.com/KaiserWhoLearns/status/2032087230316216708) — @KaiserWhoLearns
+- [Claude can now build interactive charts and diagrams, directly in the chat.  Available today in beta on all plans, including free.  Try it o…](https://x.com/claudeai/status/2032124273587077133) — @claudeai
+- [Holy shit...Someone built an AI system that takes a research idea and outputs a full academic paper. Real citations. Real experiments. Confe…](https://x.com/hasantoxr/status/2033499514783539597) — @hasantoxr
+- [🦞 AutoResearchClaw hit 3.3K⭐ in 2.5 days.   What if it could get better after every single run?   Enter MetaClaw — the self-evolution engine…](https://x.com/HuaxiuYaoML/status/2033958978758316211) — @HuaxiuYaoML
+- [4/ How to get involved:  🔬 Submit - Send in your research starting April 15. We accept work using any AI method: end-to-end systems, coding …](https://x.com/lossfunk/status/2034221881541509147) — @lossfunk
+- [To get started, run `pipx install weco &amp;&amp; weco setup claude-code`  Then tell your autoresearch agent: “Have a look at program.md and…](https://x.com/zhengyaojiang/status/2034687075287544047) — @zhengyaojiang
+- [a complete architectural breakdown of transformers with intuitive visualizations.  https://t.co/QlbI1aOC1O https://t.co/NushzNwf3y](https://x.com/Hesamation/status/2034769717991186464) — @Hesamation
+- [@Hesamation This is a really cool visualization!   I've been working on a similar interactive 3d and 2d visualization of gpt-2 (124 M), and …](https://x.com/stargaz3r42/status/2034785729100787894) — @stargaz3r42
+- [open sourced the small model we trained as a personal agent router https://t.co/4DoYDYA6nd](https://x.com/TGUPJ/status/2034846740336013338) — @TGUPJ
+- [For $25 and a single GPU, you can now run 100 experiments overnight without designing any of them.  Karpathy open-sourced autoresearch. 42,0…](https://x.com/aakashgupta/status/2034851259442749909) — @aakashgupta
+- [🚨BREAKING: Andrej Karpathy just built a method that improves AI skills automatically.  No fine-tuning. No retraining. No labeled data.  Your…](https://x.com/heyrimsha/status/2035995274016067892) — @heyrimsha
+- [🚨 Meta, Google DeepMind, and OpenAI all ask the same thing in ML interviews: "Implement softmax from scratch.." Most candidates fail.  Someo…](https://x.com/heynavtoor/status/2036639233092583589) — @heynavtoor
+- [CPU vs GPU vs TPU vs NPU vs LPU, explained visually:  5 hardware architectures power AI today.  Each one makes a fundamentally different tra…](https://x.com/_avichawla/status/2037069204093043096) — @_avichawla
+- [If you're building a PDF RAG pipeline: Should you be using OCR and 𝘁𝗲𝘅𝘁-𝗯𝗮𝘀𝗲𝗱 𝗿𝗲𝘁𝗿𝗶𝗲𝘃𝗮𝗹 methods, or just 𝗲𝗺𝗯𝗲𝗱 𝗶𝗺𝗮𝗴𝗲𝘀 𝗱𝗶𝗿𝗲𝗰𝘁𝗹𝘆 using late in…](https://x.com/victorialslocum/status/2037113651174199778) — @victorialslocum
+- [Whether you're an ML engineer building LLMs or an AI engineer building with them, understanding how to evaluate LLMs and their applications …](https://x.com/loganthorneloe/status/2038994245894406482) — @loganthorneloe
+- [Understanding LLMs by Building One 👉 We use large language models every day, but what actually happens inside them?  https://t.co/oFnN8AGSIg…](https://x.com/danilop/status/2039265823907283048) — @danilop
+- [Publish Workflow – built with Claude Code https://t.co/SpVzECOKuQ](https://x.com/kvnkld/status/2039345281783783800) — @kvnkld
+- [Introducing "A Pattern Language for Agentic AI Skill Design." https://t.co/JEElfiUOtq](https://x.com/IntuitMachine/status/2040391259504676878) — @IntuitMachine
+- [Merhaba arkadaşlar,  Birkaç ay önce AI mimarisi öğrenmeye başladım. Güvenlik tarafını daha iyi anlamak istiyordum ama transformer'lar ve att…](https://x.com/_shadowintel_/status/2043299873609424928) — @_shadowintel_
+- [🧵[1/7] Excited to share our new research from @GoogleDeepMind   ELT: Elastic Looped Transformers for Visual Generation  Introducing a highly…](https://x.com/vibespersecond/status/2044060697697628323) — @vibespersecond
+- [1/ 🔥 New paper: Differentiable Vector Quantization (DiVeQ) 🔥  Vector quantization (VQ) is a key building block in modern AI. It links contin…](https://x.com/arnosolin/status/2044150151636238523) — @arnosolin
+- [Agent Usage Card - built with Claude Code https://t.co/liKiIZlS1t](https://x.com/kvnkld/status/2044427776669757597) — @kvnkld
+- [Print pay slip - built with Claude code   Live link : https://t.co/3TxPU6EHeI https://t.co/x41E45WlKV](https://x.com/orevbajohn_/status/2044682077233201612) — @orevbajohn_
+- [File upload - built with Claude code   Live link : https://t.co/wrNoQyOmQL https://t.co/oHeCH3tBt5](https://x.com/orevbajohn_/status/2045056969606660578) — @orevbajohn_
+- [Mythos is a looped transformer!? 😳 Should be a Mixture-of-Recursions (MoR) — 2× faster, controlled effort.  Dense → sparse MoE was the effic…](https://x.com/reza_byt/status/2045168844658950392) — @reza_byt
+- [Introducing ml-intern, the agent that just automated the post-training team @huggingface  It's an open-source implementation of the real res…](https://x.com/akseljoonas/status/2046543093856412100) — @akseljoonas
+- [Your ML research doesn't have to be restricted to @huggingface  ecosystem.   As cool as HF is (much love for the 🤗 guys), I love platform in…](https://x.com/xprilion/status/2048106775241769077) — @xprilion
+- [作者画的这图效果挺好，不过好像没提供提示词，我仿照着写了一个 GPT Image 2 的提示词模板： > 请创作一张关于「【数学概念/知识点】」的数学可视化信息图，目标是帮助读者直观理解：它是什么、为什么成立、几何/结构直觉是什么、在不同场景下如何表现。画面要像高质量数学讲义 +…](https://x.com/dotey/status/2048258873119674779) — @dotey
+- [I've always been kind of annoyed I wasn't better at Rubik's cube solving. So a Gemma 4 design session while on a plane w/ no internet + a Cl…](https://x.com/jhuber/status/2048350291779887543) — @jhuber
+- [I was curious how much the new ChatGPT image model would vary in its outputs given the same detailed prompt to make a math explainer infogra…](https://x.com/doodlestein/status/2048428001281388961) — @doodlestein
+- [GPT image 2.0 prompt share  Create ad campaigns using this Prompt 👇🏻 https://t.co/WaoedkmTo7](https://x.com/azed_ai/status/2048748266293190833) — @azed_ai
+- [176 页，50 万次下载，一本能装进手机的深度学习教科书。    日内瓦大学教授 François Fleuret 写的 The Little Book of Deep Learning，是我见过信息密度最高的 AI   入门读物：   Part I 基础——机器学习、损失函数…](https://x.com/PandaTalk8/status/2049319365687079314) — @PandaTalk8
+- [Did a very different format with @reinerpope – a blackboard lecture where he walks through how frontier LLMs are trained and served.  It's s…](https://x.com/dwarkesh_sp/status/2049551656816439604) — @dwarkesh_sp
+- [@rajvivan 我想绘制Transformer架构的4张科研绘图，Nature Reviews / NeurIPS graphical abstract 的路线，放在论文里，请你先给我详细的prompt，风格一定要科研味，风格统一 给出来之后： 按照你的prompt调用ima…](https://x.com/Russell3402/status/2049646412028383511) — @Russell3402
+- [After reading @AnthropicAI blog on Agentic AI. spent  some time to create a mental model to understand how to design, and explain Agentic AI…](https://x.com/hellonehha/status/2049718639662694502) — @hellonehha
+- [My Claude wanted a body, so I built him a small one.  It runs on an ESP32, letting Claude perceive his environment, make facial expressions,…](https://x.com/oliviazzzu/status/2049778751689425392) — @oliviazzzu
+- [If you're building agents, internal tooling, or anything that needs to move real tasks forward instead of just sound smart, this release is …](https://x.com/hasantoxr/status/2049882424721732057) — @hasantoxr
+- [Create a premium, visually structured Visual Prompt Anatomy Template for a premium product packaging generation prompt.  The goal is to brea…](https://x.com/LudovicCreator/status/2050579883676377435) — @LudovicCreator
+- [GPT image 2 on ChatGPT  Create a highly detailed vertical (3:4) educational illustration in the style of a modern children’s popular science…](https://x.com/Naiknelofar788/status/2050592470011113941) — @Naiknelofar788
+- [Gemini nano banana  pro Vs GPT image 2 on ChatGPT  which one is perfect?  prompt: Hyper-realistic 3D infographic poster of a one-day tourist…](https://x.com/Naiknelofar788/status/2050792576702423159) — @Naiknelofar788
+- [chagpt images 2.0 can cook hard https://t.co/8pkqjLn67O](https://x.com/dejavucoder/status/2050831374878490884) — @dejavucoder
+- [JP Morgan's investment research team just shared exactly how they built their multi-agent system "Ask David", and it's the same architecture…](https://x.com/adamghowiba/status/2050886233921061281) — @adamghowiba
+- [GPT IMAGE 2 on ChatGPT   Prompt: Create a high-quality “chibi clone sticker diary photo” based on the uploaded real-life image. Preserve the…](https://x.com/Emmma___0/status/2050922155676930544) — @Emmma___0
+- [Been thinking about sharing some fun, interactive science app ideas  Made this one today  UI design and planet textures GPT Images 2  Code G…](https://x.com/DilumSanjaya/status/2050981225175928895) — @DilumSanjaya
+- [I asked GPT Image 2 to give me a teardown of DGX Spark. Amazing what you can do with these new models.   Do this for DGX Spark: <instruction…](https://x.com/Gdgtify/status/2051025501490188345) — @Gdgtify
+- [GPT Image 2 on Chatgpt   Prompt: Add hand-drawn doodle elements around the main objects: * white outline strokes * sketchy sparkles * stars …](https://x.com/oggii_0/status/2051542057211310356) — @oggii_0
+- [Introducing SubQ - a major breakthrough in LLM intelligence.  It is the first model built on a fully sub-quadratic sparse-attention architec…](https://x.com/alex_whedon/status/2051663268704636937) — @alex_whedon
+- [Create educational encyclopedia style images with GPT Image 2 on @itsPolloAI   Prompt: Based on { TOPIC }, create a high-quality vertical “e…](https://x.com/oggii_0/status/2051889025229930547) — @oggii_0
+- …and 191 more on the site
+
+## Career (27)
+
+- [Found a free &amp; open-source resume builder called Reactive Resume  you can create multiple resumes, share them with recruiters through a …](https://x.com/ravinwashere/status/1379100344941076481) — @ravinwashere
+- [For this #TidyTuesday, I looked at the salary range in the US for each industry, education and showed the gender gap by industry.  Code : ht…](https://x.com/cnicault/status/1395837354133360646) — @cnicault
+- [Google also has a guide on how to prepare your resume when applying: https://t.co/oKYnALVziZ](https://x.com/andrewbrown/status/1486093879359201281) — @andrewbrown
+- [PORTFOLIOS are replacing resumes in the hiring world. Here are some of the best Data Analyst portfolios I have come across : ✨ claudiatenhoo…](https://x.com/Aakriti_Sarma/status/1505781499559305218) — @Aakriti_Sarma
+- [New #RStats  package 🚨 {ricv}, a tiny htmlwidget that lets you embed interactive image comparators in your Rmarkdown/Shiny apps (by using @K…](https://x.com/xvrdm/status/1506739252226310153) — @xvrdm
+- [Searching for Remote Jobs ??  10 websites to Find Your Next Remote job.  A THREAD 🧵  👇](https://x.com/SanskarTweets/status/1508086186509623307) — @SanskarTweets
+- [6 System Design Interview Questions 1. Instagram Design - https://t.co/2Les3Pkfcw 2. YouTube Design - https://t.co/26ro70iz74 3. URL Shortne…](https://x.com/javarevisited/status/1555424300844208128) — @javarevisited
+- [3. Mock Interviews  It boots your confidence and helps you discover your weak points so you can work on them beforehand.   This is a game ch…](https://x.com/VibaliJoshi/status/1580861208194060289) — @VibaliJoshi
+- [4. Timely AI:  An AI-powered automatic time tracker to boost your productivity and save hours daily. https://t.co/h0Icvdw8yg](https://x.com/heykahn/status/1639603179326443525) — @heykahn
+- [Excited to announce our latest open source project for right-sizing K8s containers.  📊 Get accurate resource recommendations ⏱ Immediately 🔥…](https://x.com/aantn/status/1648988596328603648) — @aantn
+- [🌟 Thread: Important React Interview Questions! 🌟   Don't go to interview without preparing for them!!](https://x.com/akshaymarch7/status/1675746518710775808) — @akshaymarch7
+- [Google is standardizing interview questions (finally?) so I am forced to retire my bootleg interview questions. In honor of the great servic…](https://x.com/thechrisperry/status/1679493168478273536) — @thechrisperry
+- [My Take on low Engineering Salaries in Europe and why EU is still a good enough choice for many Indians who want to immigrate!   You can't c…](https://x.com/TheAnkurTyagi/status/1682744616544620544) — @TheAnkurTyagi
+- [NVIDIA just made Pandas 150x faster with zero code changes.  All you have to do is: %load_ext cudf.pandas import pandas as pd  Their RAPIDS …](https://x.com/LiorOnAI/status/1722666848033100189) — @LiorOnAI
+- [🌐 API Gateway Explained 🌐  👋 Ever wondered how systems communicate seamlessly in the digital world? 🚀 That's where an API Gateway swoops in …](https://x.com/AmigosCode/status/1724797003170005112) — @AmigosCode
+- [If you want to apply for Upwork gigs more quickly, use the "Upwork Toolkit" free Chrome extension.  Also, there is less competition during t…](https://x.com/natiakourdadze/status/1738594908691120590) — @natiakourdadze
+- [¿Crear y probar paletas de colores en una interfaz?   Usa Tintmint, con IA. Genera paletas con un prompt y úsalas en tiempo real en distinta…](https://x.com/carmenansio/status/1743306416939565171) — @carmenansio
+- [💡How To Approach Product Redesign: Step by Step  1️⃣ Define Jobs to Be Done 2️⃣ Deconstruct existing design 3️⃣ Identify key problem areas 4…](https://x.com/101babich/status/1837082613460119697) — @101babich
+- [I've done #WOW2025 week 17.  The "Measure Selector" is very useful, and I frequently use this logic in my work. I also love the design of Bo…](https://x.com/unbosoms/status/1915057995601596652) — @unbosoms
+- [PS: If you are preparing for Software Engineering interviews, checkout my website for comprehensive resources: https://t.co/L1MMNOSn8T](https://x.com/ashishps_1/status/2011816534419873817) — @ashishps_1
+- [I’ve spent 10 years teaching math to machine learning engineers.  80% of university math is irrelevant to your actual job.  Here's the 20% y…](https://x.com/TivadarDanka/status/2013966567550439580) — @TivadarDanka
+- [Reposting my notes I published a while ago from prepping for interviews at top AI labs including @OpenAI, @AnthropicAI , @GoogleDeepMind , @…](https://x.com/gauri__gupta/status/2051883211085721757) — @gauri__gupta
+- [用 AI 生成 macOS 应用图标的桌面工具  https://t.co/jCVzXXsCvJ  这款桌面应用让你用文字描述就能生成 macOS 风格的 .icns 图标。每次出三个变体方便对比，可以贴参考图控制风格，选定后还能反复精修。最后导出标准的 .icns 文件和 .i…](https://x.com/QingQ77/status/2055641919364227408) — @QingQ77
+- [Outcome: The next day, I was offered the role. As the base salary vs ESOPs split was not as per my expectation, unfortunately I had to rejec…](https://x.com/karmakarthik/status/2067307965175275954) — @karmakarthik
+- [xyOps combines workflow automation and server monitoring, automatically triggering incident tickets with full system context whenever a sche…](https://x.com/tom_doerr/status/2080249434701509010) — @tom_doerr
+- [50 websites that feel like the internet’s hidden toolbox 🧰  1. https://t.co/JYdnsGdrnH — Free research papers 2. https://t.co/w0AVoGIJ3H — B…](https://x.com/Orion_Vers7x/status/2098639784357072908) — @Orion_Vers7x
+- [Such a good skill for visual explainers. All SVG and animated.  Prompt I used:  https://t.co/CvOESSiJFY install skill  /anatomy Explain how …](https://x.com/MengTo/status/2109182449179836579) — @MengTo
+
+## Data (143)
+
+- [My viz for the #makeovermonday 2019 w2. Freedom of the Press @Tableau. @VizWizBI @TriMyData #dataviz #tableaupublic  https://t.co/nlGs8EeJmj…](https://x.com/AlexanderVar7/status/1084446156900450304) — @AlexanderVar7
+- [Um... yes, I'm a little bit obsessed with P&amp;Ls. Check out my latest @tableau dashboard, highly inspired by @nadiehbremer.  With the annu…](https://x.com/ProfDrKSchulte/status/1214296542074544128) — @ProfDrKSchulte
+- [I work in a railway company and I have this business case about flow of boarding pax at origin station. I created a custom multi-flows gradi…](https://x.com/stereotyper/status/1220194757957152768) — @stereotyper
+- [UK Pizza Preferences! I’m your typical Pepperoni guy 🍕  Had some design fun with this one. Thanks to @FlerlageKev for the template, @SaraHam…](https://x.com/vizwithdan/status/1247194941480153091) — @vizwithdan
+- [It is oddly hard to find a Latitude/Longitude table with every US county, so I threw this together in @Tableau &amp; posted it in a Google S…](https://x.com/StatHunting/status/1270834662257156096) — @StatHunting
+- [Tableau Tip of the day: Use Forecast to Extend the X-Axis. If your labels on your line chart don't have enough room, you can use the Forecas…](https://x.com/DataPlusScience/status/1273299604247805957) — @DataPlusScience
+- [A nice way to display variance % between columns in #Tableau.  ▪️Year calculation ▪️Dual Axis ▪️Bar (Value) ▪️Gantt bar (Diff. Table Calc) h…](https://x.com/IvettAlexa/status/1290578052322295809) — @IvettAlexa
+- [@frontendmentor challenge #frontEnd #codenewby #100daysofcode, 🚀️👨‍💻️ social media dashboard, using Sass &amp; Grid. ✅️ GitHub repo: https:/…](https://x.com/mechitoua_amine/status/1295034634435203077) — @mechitoua_amine
+- [#TableauTip - Include in tooltip all fields used in a view. https://t.co/SnqYhGrDIf](https://x.com/SergiuRotaru6/status/1300504104490487813) — @SergiuRotaru6
+- [Hey #datafam, now you can create your own tilemaps, visually and directly in Tableau!  Blogpost: https://t.co/IfkC9vpkzY  Interactive viz: h…](https://x.com/datastrudel/status/1300667199800049665) — @datastrudel
+- [#TableauTip  I think this is good overall but especially if you're doing this month's #IronQuest. When dealing with small text boxes I worry…](https://x.com/aabattani/status/1307005463947440129) — @aabattani
+- [Tableau Tip of the Day: Solving Your Marks Card Frustration. Have you created a dual-axis, synchronized &amp; the Marks Card wouldn't stay p…](https://x.com/DataPlusScience/status/1308406882030284807) — @DataPlusScience
+- [Tableau Tip of the Day: CASE Statement Maker Calc. Need to populate a long list into a CASE. Here's a Calc.  //CASE [Sub-Category] str("WHEN…](https://x.com/DataPlusScience/status/1326558798606118916) — @DataPlusScience
+- [#SWDChallenge - Nov 20 - Explain Change  I used #vizanimations to explain change for the story of #Titanic  Inspiration shout outs to @_CJMa…](https://x.com/mrroweuk/status/1332419287651414018) — @mrroweuk
+- [@RodyZakovich @sqlsekou @lukestanke Zero data modeling involved. The single sheet KPI dashboard I made uses SuperStore straight:  https://t.…](https://x.com/adamemccann/status/1335305440440225798) — @adamemccann
+- [Quick how to using one of my favorite (rarely used) @tableau features, Hide. Display MTD over Full Month (just as example, many use cases) u…](https://x.com/RodyZakovich/status/1352274492215750663) — @RodyZakovich
+- [One important concept in @Tableau is Pre Filter and Post Filter. Here I use SQL equivalences as example. https://t.co/SWMqyOYOmW](https://x.com/aleksoft/status/1355218012765257728) — @aleksoft
+- [Top @tableau tip, you can add .pdf to the end of a #tableau view url and it will generate a pdf you can download. But it will default to por…](https://x.com/Matt_Francis/status/1357318498616303616) — @Matt_Francis
+- [Tableau Tip of the Day: Change the color of the non-highlighted points on a map. This example uses a hover action on a Mapbox map. Right-cli…](https://x.com/DataPlusScience/status/1359397606523346949) — @DataPlusScience
+- [😍🗺️  Did you know that @iamdavehart has a #Tableau Drawing Tool to draw lines/polys on images and maps and export straight into @tableau .  …](https://x.com/mapsOverlord/status/1359539869991587841) — @mapsOverlord
+- [@FlerlageKev @rajvivan @tableau @ZenDollData @flerlagekr @HighVizAbility Nice blog post, Kevin. This is how the extension actually works wit…](https://x.com/AlexanderVar7/status/1361695308330266624) — @AlexanderVar7
+- [Want to customize level of zoom on your @tableau #map?  Without filtering out important data points?  I've got you covered - buffers and lay…](https://x.com/mapsOverlord/status/1362451868962590720) — @mapsOverlord
+- [Quick @tableau tip : How to perform Alphabetical Sorting in #tableauprep?  {ORDERBY [Your Dimension Name] ASC:RANK()}  #tableautips #vizartp…](https://x.com/rajvivan/status/1366639976767582208) — @rajvivan
+- [@IvettAlexa Here is my non-regex version of text/word wrapping in  @tableau  Calculation details and workbook can be found in https://t.co/j…](https://x.com/aleksoft/status/1369054872088109057) — @aleksoft
+- [@FlerlageKev @BMooreWasTaken You can d/l a whole bunch of different projections for Tableau (including Robinson) as geojson here - https://t…](https://x.com/AdiBop_/status/1374039712600576013) — @AdiBop_
+- [@ritz_Tableau @yoshi_datavizjp 荒川さん、ガネさん、ありがとうございます。きっとお二人が解説してくれると思ってました&lt;(_ _)&gt; 単純に計算をミスっていたんですね。謎が解けました。無事にそれっぽいのができました。 https://t.c…](https://x.com/SimplVizBest_YK/status/1385122540943671305) — @SimplVizBest_YK
+- [Hey #DataFam I’ve been using @figmadesign more and more when designing #tableau dashboards.   Here are my current favorite #figmadesign plug…](https://x.com/WJSutton12/status/1385596481076355078) — @WJSutton12
+- [🌟Faisal Akbar has built an awesome portfolio page for his Tableau data visualizations using Tableau Public APIs, check it out here: https://…](https://x.com/WJSutton12/status/1387659043339112454) — @WJSutton12
+- [Bye Bye Baby Blues (Highlight)  How to remove #Tableau’s auto blue highlight on text boxes (in 3 easy steps with no dashboard actions or cal…](https://x.com/dataunjaded/status/1390667920028602373) — @dataunjaded
+- [full list of @tableau #DataDev projects are here: https://t.co/eraBR8JdKI](https://x.com/tfoldi/status/1400687745484349442) — @tfoldi
+- [Want a quick and easy way to figure out which worksheets are using which data sources in your #tableau workbook? Check out this little app I…](https://x.com/KroseKeshia/status/1415042488075571202) — @KroseKeshia
+- [I was recently asked for some help making a hex tile map with US states _and_ Canadian provinces... In case anyone else needs it - it's up i…](https://x.com/mapsOverlord/status/1415348994780270596) — @mapsOverlord
+- [Tiled Container Selector: One of Tableau's new features is the ability to OPEN &amp; CLOSE not just floating containers, but also TILED CONT…](https://x.com/FlerlageKev/status/1418181548461920262) — @FlerlageKev
+- [Latest updates of the 3-Stage Sankey Template in @Tableau: 1. Added branch highlighting;   2. Added tooltips on all branches with percentage…](https://x.com/aleksoft/status/1418645053342240768) — @aleksoft
+- [For this month’s #IronQuest, a Travel Planner &amp; Emissions Calculator. It’s actually from 2019 but was never published as spatial calcs w…](https://x.com/marcreid/status/1430526989727944717) — @marcreid
+- [Hey #DataDev, did you know you can use JavaScript to power up your calculations in @tableau with Analytics Extensions? Check out my latest b…](https://x.com/KroseKeshia/status/1444342052255195138) — @KroseKeshia
+- [Data scientists can struggle to share their work through BI tools.  Connect 2021.09.0 makes it easier to deliver your data science results i…](https://x.com/posit_pbc/status/1447976557159411713) — @posit_pbc
+- [@priyankadobhal_ @tableaupublic This might be what you're referring to? By @JtothaVizzo https://t.co/0ThtvUf1xD](https://x.com/EpleySamuel/status/1453694424345726977) — @EpleySamuel
+- [#Tableau #Tips 棒グラフや100%積み上げ棒グラフにおいて、任意のディメンションでソートするには、ツールヒントからディメンションを選択、ソートする。 To sort by any dimension in a bar chart or 100% stacked ba…](https://x.com/LunarModule7/status/1455361553260171265) — @LunarModule7
+- [Do you teach #rstats? Want to demonstrate what is happening within a code chunk? @EvaMaeRey shows us the {flipbookr} package for creating "c…](https://x.com/posit_pbc/status/1457781179457802241) — @posit_pbc
+- [Today is launch day!🚀🚀  I am super excited to introduce *Tidy Data Tutor* a web application for visualizing your #rstats #tidyverse data ana…](https://x.com/seankross/status/1467189203104505859) — @seankross
+- [I’ve long desired to create a @tableau version of a church #liturgical calendar showing the various seasons observed throughout the year✅  T…](https://x.com/thecfelix/status/1474372550637461505) — @thecfelix
+- [@robcrock @VizByMoon @lukestanke @tableau Luke was my go-to. https://t.co/kik3bgB4ZF I think alot of people have concerns around templating …](https://x.com/_CJMayes/status/1475986002778988544) — @_CJMayes
+- [Computing Cumulative Grand Total in @Tableau https://t.co/16C1HVNDhe One more case of using custom grand total technique that @jonathandrumm…](https://x.com/aleksoft/status/1481884005012160513) — @aleksoft
+- [When you spend your holiday on some other work when you should be doing #ironviz....Guilty😅  Viz Link: https://t.co/3LPB2ZZh65  #datafam #Ta…](https://x.com/sakhuja_yash/status/1486464681183432704) — @sakhuja_yash
+- [You can easily make triangular bar charts in tableau, by using measure names &amp; values. I've forgot who I learned this technique from, so…](https://x.com/O_Syringa_Z/status/1487790244070330370) — @O_Syringa_Z
+- [@ZachBowders @FlerlageKev @vizsmart @tableau I've used Google Forms and Parameters to update comments. It is fairly straight-forward once yo…](https://x.com/picknickhara/status/1488928666625138692) — @picknickhara
+- [⬜️Custom Buttons in Tableau in 90 seconds  I love ppt, Figma, and Illustrator but sometimes you want to keep your work inside the tool. So h…](https://x.com/aabattani/status/1490685780020314117) — @aabattani
+- [Hey everyone, in honor of #BlackHistoryMonth    inspired by the #DuBoisChallenge2022 here's a gallery  of 19 re-creations of Du Bois' data v…](https://x.com/DatavizChimdi/status/1495866145726992394) — @DatavizChimdi
+- [Today I was teaching and asked about how to manage #Tableau dashboard feedback (particularly design).  Here’s how I broke it down.  There ar…](https://x.com/AnnUJackson/status/1504204962036961284) — @AnnUJackson
+- [#datafam Do you have to manually compare Tableau workbook files to see what changed?   We're working on a FREE workbook compare tool that au…](https://x.com/MightyCanary/status/1504519199514890245) — @MightyCanary
+- [Just happened upon this little article by @dataunjaded about how to prevent highlighting of text boxes in @tableau without the use of action…](https://x.com/callmedeeray/status/1504528598341873674) — @callmedeeray
+- [#B2VB's latest challenge is on dealing with outliers. I thought some #tableau transitions would make the whole journey more compelling, so h…](https://x.com/imperativusz/status/1505892614415036422) — @imperativusz
+- [The no. 1 question I get about #serverless is around testing - how should I test these cloud-hosted functions? Should I use local simulators…](https://x.com/theburningmonk/status/1521474752963096583) — @theburningmonk
+- [#PreppinData 2022W18 Solution in #TableauPrep Thanks for the challenge.  @Datajedininja @JennyMartinDS14 @TomProwse1 https://t.co/MAcdtqst4C](https://x.com/ArseneXie/status/1526562683067064320) — @ArseneXie
+- [Beautiful Business Dashboards - The How and The Why.  As promised here is @SimonBeaumont04 and mine slide deck, including design comments.  …](https://x.com/SParsonsDataViz/status/1527076723237396480) — @SParsonsDataViz
+- [Video: Data Lakehouse Architecture in 60 Seconds  Make sure to signup for the Meetup on June 29th where I'll be presenting a comparison of d…](https://x.com/AMdatalakehouse/status/1539684811966644224) — @AMdatalakehouse
+- [How is a SQL statement executed in the database?  The diagram below shows the process. Note that the architectures for different databases a…](https://x.com/alexxubyte/status/1559566919585259520) — @alexxubyte
+- [If you're curious exactly how @tableau Prep is transforming the data in the Superstore sample flow, here's a snippet of the SQL statement it…](https://x.com/VizWhat/status/1564976343984607233) — @VizWhat
+- [Curious about the Malloy Language? Want to try it out with no install?  Check out our new Malloy Fiddle.  Malloy Fiddle runs entirely in the…](https://x.com/lloydtabb/status/1567671348306264064) — @lloydtabb
+- [@Nshalmane @FlerlageKev @tableau @TableauSupport @rajvivan @Marketanalytic5 Hi Nikita, I would recommend reaching out to your Tableau accoun…](https://x.com/bbabb/status/1569353861714046976) — @bbabb
+- [New @tableaupublic #DataViz is a recreation of @_ansgar's 'Nice and Clean' #Visualization was created using #MapLayers in a single sheet. ht…](https://x.com/thedatasurfers/status/1578000796758728704) — @thedatasurfers
+- [@MattDzugan @MaxCRoser @tableau @tableaupublic @VizWizBI @TriMyData Thanks for providing it! It was super straightforward to use: I'm using …](https://x.com/ProfDrKSchulte/status/1579809308015202305) — @ProfDrKSchulte
+- [[@tableau tips] 💡   You can now create a date filter mixing predefined settings and custom dates and only show the start/end dates when "Cus…](https://x.com/ladataviz/status/1587445035863351298) — @ladataviz
+- [Anyone involved in visualizing financial data is familiar with the "How they make money" charts from @EconomyApp. When I had them once again…](https://x.com/ProfDrKSchulte/status/1587752298519879680) — @ProfDrKSchulte
+- [@FlerlageKev @ltavernier7 @IvettAlexa @tableau Here you go Kevin.  Let me know if this covers what you needed, or if I missed showing someth…](https://x.com/SParsonsDataViz/status/1612829869125107713) — @SParsonsDataViz
+- [Wow, never thought of that before: you can hijack the @tableau custom geocoding feature to create grid maps without the necessity to add add…](https://x.com/ProfDrKSchulte/status/1621966393125097472) — @ProfDrKSchulte
+- [Another trick on grid maps in @tableau: create a custom background map in @Mapbox! This comes in handy when you're filtering on states/regio…](https://x.com/ProfDrKSchulte/status/1622534404554850304) — @ProfDrKSchulte
+- [#14 Reusing Metric Names/Value, no pivot (Data Model) In the data model pane, create a  1=1 relation between your data and a metric table. D…](https://x.com/ltavernier7/status/1628020738794876928) — @ltavernier7
+- [Announcing: Tad 0.12.0, the fast, free, cross-platform tabular data file viewer desktop app for CSV, Parquet and DuckDb/SQLite db files, pow…](https://x.com/TadViewer/status/1632810046789939202) — @TadViewer
+- [I just made a real @Tableau extension using @Squirrel_365 (#nocode)!  Squirrel Component: https://t.co/ot3WgcX1oL  Here is the process that …](https://x.com/josh_tapley/status/1640048486136594434) — @josh_tapley
+- [#20 Switch view's behavior based on #of records (Calc) Use SIZE() function based on the #of selected records. Create 2 sheets, add the T/F c…](https://x.com/IvettAlexa/status/1643194895094407168) — @IvettAlexa
+- [If your dashboard needs a glow-up, sometimes a touch of glassmorphism will do the trick. Check out my dashboard using map layers and other l…](https://x.com/chris_vizes/status/1646217249798094852) — @chris_vizes
+- [The 15 date filter options I'm showing has a rating out of 10  That rating comes from a combination of the following categories, all importa…](https://x.com/aabattani/status/1646586046359150592) — @aabattani
+- [#BigLittleTips #Tableau Color-coded lines for BANs eliminate the need for dashboard legends 😁 1) create field min(0.025) for the line (or hi…](https://x.com/Candice_Che/status/1652228886401515520) — @Candice_Che
+- [#Data23 Interactive Business Dashboards, The How and The Why  Workbook is now available on @tableaupublic :  https://t.co/1LkRfl3l4Z  Look o…](https://x.com/SParsonsDataViz/status/1656416816951095297) — @SParsonsDataViz
+- [Check out the new blog post to get started. I walk through how to access and run a metadata query using GraphiQL for your Tableau Online acc…](https://x.com/jreevers5/status/1658083921198710786) — @jreevers5
+- [@tableau I wrote a blog about this post as well (in both English and Dutch): https://t.co/5QJavRZHRk](https://x.com/JorisNLD/status/1658492133463183368) — @JorisNLD
+- [#TinyTableauTip   If you want to rename a Dimension in a sheet in @Tableau (not the name in the   Data Pane/Data Source), you can click on t…](https://x.com/ToreLev/status/1658736973798952963) — @ToreLev
+- [#TinyTableauTip #tableau Text Dividers. It’s a bit annoying when I don’t have any % because of the missing sales in the previous month and t…](https://x.com/SergiuRotaru6/status/1659500245321957377) — @SergiuRotaru6
+- [Recently it was announced that spell check will be added to #Tableau🎉At @AnalyticsTug, I learned from @ToreLev that downloading Grammarly to…](https://x.com/ItsMehras/status/1662217295165374465) — @ItsMehras
+- [💎 Goldman Sachs Design System (https://t.co/KA6Vb0ddP7), a very comprehensive enterprise design system, with touch screen considerations, ac…](https://x.com/vitalyf/status/1663803534679199744) — @vitalyf
+- [✨New Viz✨  Email Campaigns Dashboard using fake data created in Mockaroo.   Lots of dynamic zone visibility and parameter actions! Inspirati…](https://x.com/SerenaPurslow/status/1665678027806654465) — @SerenaPurslow
+- [hey #datafam another fun #tinytableautip I do in all my dashboards: create a "Default Color" field and use that on all your charts (that are…](https://x.com/CMJCallahan/status/1668311800008278016) — @CMJCallahan
+- [Dynamic KPIs! Discover how Alexander Philipeit uses map layers to dynamically generate KPIs in this #TableauPublic dataviz. 🤯  Check it out …](https://x.com/Biztory/status/1669321357996306432) — @Biztory
+- [In map design, "figure-ground" refers to how a map feature is visually separated or "pops out" from the background. A drop shadow is one app…](https://x.com/professorkao/status/1669961251596693504) — @professorkao
+- [Bus Loading SQL Challenge: Who's the Last One On? | LeetCode #1204 Unvei... https://t.co/GamlcX7Mjr via @YouTube   #SQL #LeetCode #Coding #T…](https://x.com/edgarvanamsen/status/1674506580572663821) — @edgarvanamsen
+- [Area chart and visually highlighted value comparison (last point vs selected previous point) #Tableau https://t.co/WhpmAQdIWb](https://x.com/IvettAlexa/status/1675856277417721856) — @IvettAlexa
+- [Here's that @CodePen link! 🚀  Remember, you'll need to be in Chrome Canary to see this in action 🤙  Was reminded of this demo after @chrisco…](https://x.com/jh3yy/status/1681704472131534855) — @jh3yy
+- [#37 - Display Textured Bar  1️⃣ Create a bar chart 2️⃣ Add MIN(1.0) to X axis, fix the width of the bars and align to the right 3️⃣ Add Map&…](https://x.com/IvettAlexa/status/1694321464026038404) — @IvettAlexa
+- [Tableau Tip - Indent  You can indent numbers in Excel, but if you've tried in Tableau using the spacebar, you know it doesn't work. Well, yo…](https://x.com/FlerlageKev/status/1696500048501031026) — @FlerlageKev
+- [Step by step to build example 6 from 'The Ultimate Profit &amp; Loss Statement Workbook' created as part of 'Tableau for Financial Reporting…](https://x.com/rosariogaunag/status/1699154514425626961) — @rosariogaunag
+- [#41 - Sorting on date fields + Drill-down Maintain the sorting on date fields in tables when utilizing the drill-down feature: 1️⃣Add an agg…](https://x.com/ltavernier7/status/1705195059476398298) — @ltavernier7
+- [A donut chart without the pie marks on hover and select using Map Layers. There is a white border around the slice until selection, and on T…](https://x.com/DataPlusScience/status/1712044369031647384) — @DataPlusScience
+- [CSS Trick! ⭐️  You can create this sparkly backdrop with a single element using mask-composite whilst animating the mask-position 😷  .canvas…](https://x.com/jh3yy/status/1722397114532048959) — @jh3yy
+- [Sharing my approach to designing actionable dashboards for better insights! 🚀  1. Place KPI growth rates and trends at the top for quick vis…](https://x.com/tableau_viz/status/1723990842694902232) — @tableau_viz
+- [✨New Viz using Custom Polygons ✨  Explore Variance in Scallop Shell populations off the coast of Maine from 2000 - 2021.  https://t.co/gkrW3…](https://x.com/SerenaPurslow/status/1744758982454006239) — @SerenaPurslow
+- [#TinyTableauTip A great tip if you want to replace your datasource in @tableau is to remember to "Refresh All Thumbnails" before the switch,…](https://x.com/ToreLev/status/1744999050573734331) — @ToreLev
+- [Viz for #MakeoverMonday week3 2024  https://t.co/gOvjLpeRnx  So glad that #MakeoverMonday is back again!!  Thanks @DatavizChimdi @VizWithIre…](https://x.com/O_Syringa_Z/status/1746923707757715722) — @O_Syringa_Z
+- [Free UI Mockups Generator   UI Generator generates mockups of popular screens (finance dashboard, calendar, task board, messenger, etc). Dow…](https://x.com/101babich/status/1754844669530320923) — @101babich
+- [Hi #datafam 👋 For me, this week's #makeovermonday challenge is about connecting the dots! (Pun intended) So I created a dot plot with a twis…](https://x.com/imperativusz/status/1757361303474086029) — @imperativusz
+- [Tableau Public: https://t.co/4a67DFbIor](https://x.com/imperativusz/status/1757361306456170921) — @imperativusz
+- [Hi #datafam 👋 What I really love about #makeovermonday, that it always pushes me to combine different techniques that I used previously. Thi…](https://x.com/imperativusz/status/1759592832010981867) — @imperativusz
+- [A good one to try in both Tableau and Power BI (using the new card visual) and compare the experience](https://x.com/MMarie/status/1762539090409386267) — @MMarie
+- [Here's my submission for #WOW2024 #Tableau W14. Viz: https://t.co/e83ldIvU6E Video: https://t.co/IFZCZ8zzHa  It required some analysis of da…](https://x.com/yoshi_dataviz/status/1775831701547262370) — @yoshi_dataviz
+- [I built a Tutorial for #Tableau #WOW2024 Week 14 Profit Ratio Gauge Trellis.  https://t.co/NJGPV9FWZb  @donnacoles30 - You are a legend. I c…](https://x.com/JackHineman/status/1777363484423934356) — @JackHineman
+- [#Tableau Wish upon a simulated star - Planetariums map in Japan  Yesterday I watched a planetarium for the first time in a long time. So I c…](https://x.com/_Chasoso/status/1786297863452111156) — @_Chasoso
+- ["ABC Shipping Logistics"  This viz is a creative project of redesigning  Supply Chain - Shipment by Tableau Accelerators.  Made with Figma +…](https://x.com/vinzonervin/status/1787370496180535688) — @vinzonervin
+- [33K+ views &amp; 570+ likes across X &amp; LinkedIn? 🤯  The response to my @TableauPublic map of Kyoto's cherry blossom sites has been overw…](https://x.com/professorkao/status/1787422105140949240) — @professorkao
+- [#WOW2024 Week 23 🚀Manually overwrite a value in a table 📊 Using weighted % discount calculation Big thanks to @_hughej Check it out here: ht…](https://x.com/rosariogaunag/status/1799593031710220777) — @rosariogaunag
+- [Good SQL brings more Orders.  A common mistake that turns LEFT JOIN into an INNER JOIN.  In a LEFT JOIN, all records from the left table and…](https://x.com/RaulJuncoV/status/1803775149767872745) — @RaulJuncoV
+- [#WOW2024 Week 26 🚀Can you filter from a donut without highlighting the pie? 📊 Trick to force the rendering of the dashboard on the server-si…](https://x.com/rosariogaunag/status/1805791567791141112) — @rosariogaunag
+- [Tableau is revolutionizing how you query published data sources with the VizQL Data Service API.   Learn more and join the Dev Preview: http…](https://x.com/tableau/status/1806704447659073731) — @tableau
+- [Solution Guide | #Tableau | #WOW2024 | Week 30 | Connected Scatterplots blog: https://t.co/IcoW3hPExb cc: @HipsterVizNinja @_Lorna_Brown @_h…](https://x.com/donnacoles30/status/1816524418186899653) — @donnacoles30
+- [#WOW2024 #Tableau week 7. Another SUPER fun one! I challenged myself to get the selection buttons and bars on one sheet (I tried it two ways…](https://x.com/kelly_gilbert/status/1817700911419895919) — @kelly_gilbert
+- [Giving away one of these @figma dashboards for free next week!  Which one do you like most?  Keep an eye out! https://t.co/KOgSuUTZzS](https://x.com/BardhylBytyqi/status/1829508892130415100) — @BardhylBytyqi
+- [Dashboard progress for Eko https://t.co/ND4g5dlsdt](https://x.com/deereis/status/1832056347174797629) — @deereis
+- [New Viz ✨ | PlayStation Games - Show Top N  I made this as a fun way to explore Top PlayStation Games by Genre. Also my first time creating …](https://x.com/datavizfairy/status/1843238767106175465) — @datavizfairy
+- [#WOW2024 Week 32 first try https://t.co/QSxPQIUZIJ @tableaupublicより #Tableau  @WorkoutWednsday 表計算しんどくてグループで実装。答え見たらちゃんと表計算だし、ヘッダーとヒストグラムは１シ…](https://x.com/tesshin_tableau/status/1850238301560840335) — @tesshin_tableau
+- [Creating In-Place Help Page for Tableau Dashboards https://t.co/eMNmGPBVfb https://t.co/a82rJ6huoy](https://x.com/aleksoft/status/1864533059695210498) — @aleksoft
+- [🚨New @tableau Viz ‘Map Layers KPI Scorecard’  Inspired by @SParsonsDataViz awesome advanced tables stuff I wanted to recreate something simi…](https://x.com/trebor_rolyat/status/1892284080063918113) — @trebor_rolyat
+- [Visualising Sales per Customer by First Purchase Cohort in #Tableau for #WOW2025 Week 11. Thanks @YetterDataViz for the challenge viz: https…](https://x.com/donnacoles30/status/1899751065936961663) — @donnacoles30
+- [Solution Guide | #Tableau | #WOW2025 | Week 11 | Can you find sales per customer per first purchase cohort? blog: https://t.co/XM9jq5hUQW cc…](https://x.com/donnacoles30/status/1900643042253525065) — @donnacoles30
+- [If you missed @deeVizable and me hosting the Tableau Tip Battle at #TC25, it is now available to stream on Salesforce+.   Catch all the amaz…](https://x.com/jreevers5/status/1912709425791717699) — @jreevers5
+- [なぜかTableauで作っている人がいなかったので作ってみたよー 30秒だけなのにデータ量のせいで大変だった...。 Youtubeにも投稿しているから見てみてねー！ #Tableau #BadApple https://t.co/fYlX1qjNVy](https://x.com/jarashi_bi/status/1921502637691642009) — @jarashi_bi
+- [Tableau Conference の How to Do Cool Stuff セッションで紹介された Abc を除外する方法。 1. Ctrl + → を3回 2. 境界線をできるだけドラッグして狭める 3. その後 Ctrl + ← を5回 https://t.co/eN…](https://x.com/rsugimura17/status/1923371067533377545) — @rsugimura17
+- [Tableau Conference の DataFam Tip Battle で紹介された、凡例サイズの変更です。 ・.twb ファイルを開き、XML 形式で構成を直接編集 ・XML の直接編集は Tableau の公式サポート対象外のため、実施の際は注意 https://t.…](https://x.com/rsugimura17/status/1924418220787994845) — @rsugimura17
+- [#WOW2025 | Week 22 | Data Normalization Methods Exploring three methods to normalize Sales and Quantity data: ✔ Decimal Scaling ✔ Min-Max No…](https://x.com/rosariogaunag/status/1927521880510013780) — @rosariogaunag
+- [#WOW2025 Week 22 | Can you Iron Viz. Thanks to @donnacoles30 for the challenge trying to replicate the incredible Iron Viz entry from @katmc…](https://x.com/JackHineman/status/1934593865475842446) — @JackHineman
+- [6/ Final Prompt  "Create a premium UI component set called “Liquid Glass”.   Design direction: futuristic, ultra-clean, inspired by Apple Vi…](https://x.com/damienghader/status/1940422673923748205) — @damienghader
+- [🚨 New #TinyTableauTip from @DutraNik (Brazil)! Learn how to mask email addresses in @Tableau with reusable calc – and apply it to use for GD…](https://x.com/ToreLev/status/1949418097556763023) — @ToreLev
+- [#WOW2025 #Tableau W35 - Visualize yearly rank changes in Sub-Category Sales, with a bar &amp; line chart combo.  🔗 https://t.co/213ERus7Px  …](https://x.com/Blu7ip/status/1960422656592806240) — @Blu7ip
+- [It's @Tableau #IronViz season and what better way to celebrate than a viz showcasing all the past winners. Shout out to @Westlake_CJW for hi…](https://x.com/trebor_rolyat/status/1973372286204776758) — @trebor_rolyat
+- [“the biggest threat to a data center is if the intelligence can be packed locally on a chip that’s running on the device. that disrupts the …](https://x.com/Hesamation/status/2008170172650066138) — @Hesamation
+- [This 2D → 3D map animation on @vercel's new CDN dashboard is absolutely magical ✨🤤 https://t.co/1ey65MLrRK](https://x.com/steventey/status/2029725690116067630) — @steventey
+- [In 2022, OpenAI researchers found something that broke every rule of machine learning.  Their tiny model trained for 10,000 epochs. It learn…](https://x.com/HowToPrompt__/status/2056070219702145283) — @HowToPrompt__
+- [We’re sharing the next major milestone in our non-invasive brain-to-text decoder research: Brain2Qwerty v2.  Building on v1, which was publi…](https://x.com/AIatMeta/status/2071566924803395741) — @AIatMeta
+- [Attention is a lookup. Each token builds a query, compares it against every key in the sequence, and pulls value vectors weighted by the mat…](https://x.com/tetsuoai/status/2072554420135678074) — @tetsuoai
+- [When I teach #DeepLearning and #MachineLearning, I like to build the models with my students piece by piece.  For example, we construct a si…](https://x.com/GeostatsGuy/status/2080306622157496343) — @GeostatsGuy
+- [Monochrome portraitures with a single spark of color.  PROMPT ↓ “Expressive minimalist ink illustration of [SUBJECT], confident brush contou…](https://x.com/aleenaamiir/status/2087476276894527622) — @aleenaamiir
+- [Here are 8 design resources worth bookmarking:  1. https://t.co/IFfDGpn6mK — 1,200+ design prompts 2. https://t.co/pqErWPxhJc — navbar inspi…](https://x.com/Mohiniuni/status/2107059864858148936) — @Mohiniuni
+- [Hey @acotgreave, this one is a pain, but possible without Custom Font. ASCII Sparkbar with | + Playbill + Formatting https://t.co/ksCnZMYq7R](https://x.com/RodyZakovich/status/759000442378465280) — @RodyZakovich
+- [@sethjwalters @GwilymLockwood @infolabUK @tableau Nice! I also use a very similar method to yours for Custom Number Formatting (With 1 decim…](https://x.com/RodyZakovich/status/913430847910502400) — @RodyZakovich
+
+## Design (204)
+
+- [Curated colors in context.  Not sure what colors to use in your designs or where to use them? Happy Hues is a color palette inspiration site…](https://x.com/IndieHackers/status/1273556164752662529) — @IndieHackers
+- [Learn SwiftUI for free: https://t.co/lA4aST1hRX  Find solutions to common Swift problems: https://t.co/vSI8Ic7boY  Watch my free Swift video…](https://x.com/twostraws/status/1273812094006280192) — @twostraws
+- [Palmer penguins for #TidyTuesday, happy to get the penguins almost right with geom_bspline_closed() from {ggforce}😊  code: https://t.co/hMkX…](https://x.com/geokaramanis/status/1288087133694066688) — @geokaramanis
+- [Our first year with a team @DentReality was focussed on building our AR technology. A year ago we made several announcements around this:  -…](https://x.com/AndrewHart/status/1304036297007390720) — @AndrewHart
+- [If you have trouble getting an overview of the many scales in ggplot2, this is for you. I have written a comprehensive guide to scales with …](https://x.com/ChBurkhart/status/1361040974500265986) — @ChBurkhart
+- [I'm excited to announce 🎉  the ✨ Mesh Gradient ✨ @figmadesign plugin is now live!  Get fine-grained control of your gradients, generate high…](https://x.com/GuamHat/status/1380561321268219906) — @GuamHat
+- [I was a bit overwhelmed by volume of datasets on https://t.co/8DOFywgAbp (thanks, @ramonaisonline!), so I built a quick @observablehq notebo…](https://x.com/mf_viz/status/1391921781607436290) — @mf_viz
+- ["Cities were built by men, for men", sceptical? @Wilfried_mag visited 4 Belgian cities and counted the amount of women &amp; men in various …](https://x.com/karim_douieb/status/1406265994134310914) — @karim_douieb
+- [#FigmaTip: If you ever need to divide a circle more evenly to create donut charts or other design elements, try using adjustable properties.…](https://x.com/figma/status/1445493189469622284) — @figma
+- [6️⃣ Stark   A suite of accessibility tools baked right into Chrome.   https://t.co/pJEaQ3HRzA https://t.co/HDdqnFgo7F](https://x.com/csaba_kissi/status/1451484968924983300) — @csaba_kissi
+- [🎇New cheat sheet: One feature I never quite understood is how to use the expansion function for scales. In this cheat sheet, I tried to show…](https://x.com/ChBurkhart/status/1490276574339477506) — @ChBurkhart
+- [🥁 Introducing... @googlecloud Architecture Diagramming Tool. Give it a try👇 WDYT?  We focussed on ease-of-use: 👍 Pre-built architecture for …](https://x.com/pvergadia/status/1494134577601794051) — @pvergadia
+- [Inspired by @lukestanke own Gauge thoughts, he convinced me that maybe they shouldn't be dismissed as quickly as we do.  Here I have created…](https://x.com/SParsonsDataViz/status/1521067309267365890) — @SParsonsDataViz
+- [Incredible learning tools released in the last 12 months:  @JoinToucan - Learn a language  @100daysnocode - Learn to no-code @BefrontIo - Le…](https://x.com/ProductHunt/status/1539986780287639552) — @ProductHunt
+- [Inverting a mask in #figma #design. This took me longer to figure out than I'd admit 🫠 https://t.co/UjlSXJDmr3](https://x.com/mnvrth/status/1560481896848506880) — @mnvrth
+- [@tdinh_me In window capture mode macOS adds shadow around your window. Hold the option key while clicking if you don't want it.  If you want…](https://x.com/ayhanap/status/1564223525375938560) — @ayhanap
+- [Practical guide to everyday Git commands. https://t.co/KDuhlrW8YH #git](https://x.com/smashingmag/status/1564246490465320961) — @smashingmag
+- [An online (free!) tool to visualize and explore giant networks 🤩   I'll definitely keep that in mind for the next network visual I want to c…](https://x.com/NadiehBremer/status/1568139087533465600) — @NadiehBremer
+- [@rajvivan Yes! Here is how you do it: https://t.co/lpVGpu8luX](https://x.com/ernaem/status/1568248876112695296) — @ernaem
+- [Useful little website if you wanna quickly grab all colors of a website: https://t.co/ZNz7YSCQ3h #design #colors](https://x.com/dennyshess/status/1569713486577680387) — @dennyshess
+- [Get quick access to #d3js docs and examples in this @observablehq notebook:  https://t.co/iM1JdsdIHm https://t.co/A2VpIXOf9J](https://x.com/mootari/status/1589403432439271424) — @mootari
+- [I created this loader animation with the least elements possible you can watch the tutorial from this link https://t.co/MNBLDDXixI  #figma #…](https://x.com/ser_migo/status/1611369487646986240) — @ser_migo
+- [A simple temperature prototype in @figma. There are already so many great interactions shared by the community for #figbruary. cc @miggi 🌡️ …](https://x.com/realvjy/status/1625109108381851648) — @realvjy
+- [I put a huge collection of icons on @figma   https://t.co/5k9kjzjyK7 https://t.co/BrESy6bZWa](https://x.com/MengTo/status/1638322937777516545) — @MengTo
+- [These tools are worth checking out ↓  With just a single click, you can literally:  - https://t.co/aD6tiI7j8A Generate landing pages  - http…](https://x.com/MbaziiraRonn/status/1640956955262087169) — @MbaziiraRonn
+- [midjourney 5.1 for ui https://t.co/wCIYv8wUnJ](https://x.com/MengTo/status/1656004842614079493) — @MengTo
+- [Designed in @figma , animated in @framer 🔥 https://t.co/ECzh5kyR0G](https://x.com/ersadwork/status/1662930924168790019) — @ersadwork
+- [🟡 Shadow Palette Generator, by @JoshWComeau  This little tool helps you create realistic #CSS shadows by layering and easing multiple drop-s…](https://x.com/ozanoz/status/1663062794017845248) — @ozanoz
+- [STEP 1️⃣: DON’T put your portfolio on FIGMA! And that is just the beginning!  👇  Liked it?  Share it and follow me @michalmalewicz for more …](https://x.com/michalmalewicz/status/1663863588988108801) — @michalmalewicz
+- [Introducing https://t.co/SzPoUjwqAN Edit images in seconds!  Share your creations in the replies and maybe you'll get some free credits! 🤷‍♂…](https://x.com/AIRobin_net/status/1666825809498193922) — @AIRobin_net
+- [Copy Figma Design and Paste in Dora to create 3D dynamic web page without code 🐝 Check out Minh Pham’s tutorial using @figma-to-dora Plugin!…](https://x.com/DoraTool/status/1667246771423318017) — @DoraTool
+- [I spent hours searching for the right gradients, and then I stumbled upon this tool. 🥲🤌  https://t.co/dxyrqNFDKi https://t.co/iw2UimGQ1a](https://x.com/heyirfanaziz/status/1667406892539453440) — @heyirfanaziz
+- [🔗 Website: https://t.co/BfNdLXSefZ 🧩 Figma plugin: https://t.co/OM0QrTvpOH ✨ Maker: @juxtopposed](https://x.com/erdemkirmit/status/1667823815810768897) — @erdemkirmit
+- [Just published another colour resource to the Figma community 🖍️  This one is..large:  • 1620 full spectrum colours • 5 saturation levels fo…](https://x.com/disco_lu/status/1668242205385818112) — @disco_lu
+- [Someone shared this https://t.co/Fs2lSbGpaT… to my dm and I decided to take the challenge of replicating the concept in figma. check the sho…](https://x.com/ZICCOcfr/status/1668569148308193280) — @ZICCOcfr
+- [Launching my newest AI product: https://t.co/bZZKHC9ZTr 🏠✨  Restyle your room and generate interior design ideas. Powerful AI with an intuit…](https://x.com/marckohlbrugge/status/1668978236787924992) — @marckohlbrugge
+- [UI wizardry... 🧙‍♂️ https://t.co/LdRpzLwiUU](https://x.com/willlembutler/status/1675325364737019907) — @willlembutler
+- [Here quick @figma tutorials on how to create a functional loader with variable and conditions 🤩. Small video tutorials added. And get the co…](https://x.com/realvjy/status/1677281849431793664) — @realvjy
+- [This is quite literally the best pdp I've ever seen https://t.co/wK1j33nqpk](https://x.com/kalenjordan/status/1682102256022192128) — @kalenjordan
+- [Here's a really cool widget for writing comments that I just found in @figma.  ☘️ Click on the resources tab or press Shift + I on your keyb…](https://x.com/sepidy_/status/1683497685284708352) — @sepidy_
+- [🥳🥳My Figma plugin "Vector to 3D" has been published!  https://t.co/cbxuUzSuMJ  It can convert any vectors to 3D with one simple click. And w…](https://x.com/pissang1/status/1683766062935048192) — @pissang1
+- [Isometric scrolling animation in @figma    Figma file: https://t.co/4K6hiNSjLv  #figma #prototyping #uianimation #uidesign #isometric #isome…](https://x.com/harshildesigner/status/1685867810281701376) — @harshildesigner
+- [🚨 Just dropped a new Figma for EDU Study Hall deep dive video on advanced prototyping in @figma with variable modes and conditionals and a c…](https://x.com/miggi/status/1689301613867933696) — @miggi
+- [@TaraViswanathan Quick summary https://t.co/BTM7Kntcsh](https://x.com/justinmooretfam/status/1690214021948166144) — @justinmooretfam
+- [Unlock Effortless Isometric Designs with the 3D Vector Figma Plugin 🎨🔥  Yes, I'm a product designer and researcher, but I love making this s…](https://x.com/abinashmohanty/status/1691406918323986432) — @abinashmohanty
+- [AI tools you should know about 🚀  1. https://t.co/nmhWYyFdI0 - AI tweets writer & scheduler  2. https://t.co/CzNeIy3e8C - AI image generator…](https://x.com/SocialWithAI/status/1692194641767186448) — @SocialWithAI
+- [You can prototype #visionOS apps on your Quest or Pico.  Here is a free visionOS UI Kit for  #Unity: https://t.co/Y17edEJ0Oc https://t.co/45…](https://x.com/Enuriru/status/1701567136156536958) — @Enuriru
+- [@Betraydan Design in Figma 😉 https://t.co/pbkuSTDrxC](https://x.com/azatedis_/status/1701984333043511640) — @azatedis_
+- [some AR UI with hand interactions — mid-air / 3D space sliders, surface touch gestures, 3D 'magnifying glass'  #handtracking #questpro #made…](https://x.com/dmvrg/status/1706409567620596127) — @dmvrg
+- [📍 Making progress on a design system to go with my book @PracticalUi  📘  I've looked at hundreds of colour systems and most of them seem to …](https://x.com/AdhamDannaway/status/1710647930603053470) — @AdhamDannaway
+- [16.  [sport equipment] | Minimalistic design | In action at a modern stadium | Bold reds and crisp whites | Roaring crowd and spotlight glar…](https://x.com/techhalla/status/1715030083545538576) — @techhalla
+- [daily inspiration — flow builders ✨ https://t.co/1Tz0eqFv5D](https://x.com/nicks_twt/status/1718923945276006893) — @nicks_twt
+- [@nicks_twt Check out @FastgenHQ https://t.co/xbIljuI6sV](https://x.com/vollmer_lukas/status/1719218262951493984) — @vollmer_lukas
+- [Want to boost your design skills over the weekend? Check out our new tutorial and design a vibrant card in @figma.   Inside: lots of work wi…](https://x.com/alex_barashkov/status/1720489133401895106) — @alex_barashkov
+- [Paper Wireframe Kit  Design kit for Figma that allows you to visualize low-fidelity concepts quickly (both web and mobile apps).  https://t.…](https://x.com/101babich/status/1722545347774288235) — @101babich
+- [Wild that you can create them with CSS alone using scroll-driven animations and SVG 🔥  The trickiest part about building out this design is …](https://x.com/jh3yy/status/1722826563878559901) — @jh3yy
+- [These scrolling SVG path animations are always tricky to build. Mainly due to scaling, etc.  Another approach would be to segment the paths …](https://x.com/jh3yy/status/1722829078661562503) — @jh3yy
+- [Today I want to present to you something crazier than last time with a lot more micro-interactions one of the boxes from bento which I am cr…](https://x.com/bartuiux/status/1722966733403652150) — @bartuiux
+- [🎨 PROMPT SHARE 🤖  Theme: Symbolic Autographs  ✨New Prompt🚨 :   Use the exact prompt as it is : highly minimalist, single-line drawing where …](https://x.com/umesh_ai/status/1725105939043524920) — @umesh_ai
+- [🎨 PROMPT SHARE 🤖  Theme: Custom Lightning Bolts  ✨New Prompt🚨 :   "Use the exact prompt as it is : Create a minimalistic image where the sky…](https://x.com/umesh_ai/status/1725457880621707701) — @umesh_ai
+- [🚨#PromptShare🚨 Nature Photography What could be better than a Sunday to release a #prompt for showcasing sublime environments of all kinds? …](https://x.com/CharaspowerAI/status/1726249661206290532) — @CharaspowerAI
+- [Part 5 of 7 Animations from my last bento now its time for Safe Keys✨(New idea with spin numbers👀)  Ps. Tomorrow i will drop tutorial for "W…](https://x.com/uiuxarih/status/1726583662207246430) — @uiuxarih
+- [🚨 #Promptshare Spiritual Prompts #3 🎨 Token: Mystic Minimalism  Tried to go for a more minimalistic style for today, aspect ratio was 7:4. T…](https://x.com/Quexolan/status/1727889844280430771) — @Quexolan
+- [Gosh! figma is actually powerful — created all these indeterminate loader components in @figma ✨ https://t.co/Mf1SbPbdXq](https://x.com/nitishkmrk/status/1729026265821192196) — @nitishkmrk
+- [Punk Squirrel is coming along, and today was hard because i'm fucking hungover!  #buildinpublic https://t.co/o8sho8UqhH](https://x.com/PaulieScanlon/status/1731070358755623261) — @PaulieScanlon
+- [#Lottielab のFigmaプラグインを試してみた。 https://t.co/Iil6Jdpiuo FigmaからFrameを選択してプラグイン経由でLottielabにデータを渡し、ブラウザでタイムラインアニメーションを作成できる。 https://t.co/INUCs…](https://x.com/shingo2000/status/1732197343112634438) — @shingo2000
+- [Learn how to design a glowing jellyfish bento card in @figma by following this tutorial. There are many cool techniques shared to achieve th…](https://x.com/alex_barashkov/status/1732432321612005840) — @alex_barashkov
+- [Aircraft Window For Website? ✈️  Tell me what you think in comments! 👀  Random Fun idea with flying app  Design: Fully Figma ✨ https://t.co/…](https://x.com/uiuxarih/status/1734212360745672741) — @uiuxarih
+- [@rajvivan @jittervideo @figma Here is tutorial:)  https://t.co/4KLKivyiuY](https://x.com/uiuxarih/status/1734621942211052014) — @uiuxarih
+- [Aaaaaand the tutorial is out!  Let's create this interactive glowing card in @figma using the new powerful cursor tracking technique.  More …](https://x.com/double__glitch/status/1735243165060178168) — @double__glitch
+- [Made this "Figma to Lottie Animation Challenge" Website, Lottie animation, and Video entirely in @Figma + @LottielabHQ + @framer https://t.c…](https://x.com/darel023/status/1735332552410382381) — @darel023
+- [Figma technique so simple it's a shame not to learn it. ⚡️  Before & After ✦   No Plugins ✦   Done in 5mins  Many of you asked so here it is…](https://x.com/natkohasic/status/1735627347678658815) — @natkohasic
+- [That's it! 👌  Hope you found it useful, here is the link to the Figma file so you can duplicate it and work from it later.  https://t.co/yJ8…](https://x.com/natkohasic/status/1735627360563552290) — @natkohasic
+- [Wouldn’t it be cool to build your own Google?  You will need a lot of data, a fast search method, and the Scatter and Gather pattern.  In th…](https://x.com/RaulJuncoV/status/1735643965108494659) — @RaulJuncoV
+- [analyzing store traffic to find the most frequently visited areas  super demo created by @Hine__Po - member of Supervision community  link t…](https://x.com/skalskip92/status/1735683640930017596) — @skalskip92
+- [Visualize your color choices on a real website  Realtime Colors allows you to create color variations for your website and apply them to a w…](https://x.com/101babich/status/1737076902408392780) — @101babich
+- [@figma Hey, guys, thanks for the support you gave me!  I also want to give you the file of this icon so you can see how I did it and maybe i…](https://x.com/dimitroweb/status/1740299220135899497) — @dimitroweb
+- [Start building your first Figma plugin/widget here! 👇  $ npx --yes create-figma-plugin  5/5 https://t.co/m8G9UraeuA](https://x.com/yuanqinglim/status/1740802914518741451) — @yuanqinglim
+- [Back in April this year, I started sharing PDF guides regularly and for FREE on Gumroad, along with posting prompts every day so our communi…](https://x.com/techhalla/status/1741528880651886968) — @techhalla
+- [Open-Source UI elements for web project  Uiverse is a collection of more than 2000 UI elements—from buttons &amp; checkboxes to input forms …](https://x.com/101babich/status/1742519008920768769) — @101babich
+- [Friday @figma Tip ✨  Isometric illustrations have got something magical. 🪄 They bring new perspective to the flat interfaces.  Creating isom…](https://x.com/thalion_pb/status/1743301426389094841) — @thalion_pb
+- [I spent a weekend or two and saved a lot of time adjusting the perfect curve. I think it's worth it.    link 👉 https://t.co/E9jee47vy7  #bui…](https://x.com/2x2_happy/status/1744508278997143624) — @2x2_happy
+- [Turn your Figma design into a slide deck  Hypermatic is a Figma plugin that helps create &amp; present nice-looking slide decks from your Fi…](https://x.com/101babich/status/1744676797755568202) — @101babich
+- [Welcome to the ISO+ world. Figma plugin experiment for #Figma and #Figjam.   https://t.co/rfEUgDfREb https://t.co/mQaNVmiWmh](https://x.com/Autre_planete/status/1745819967159762955) — @Autre_planete
+- [UI/UX Designers, this might be the best Color Generator out there.    website: https://t.co/zxe00eFOAe https://t.co/BhGJ1MrBSM](https://x.com/Abmankendrick/status/1745834486254760398) — @Abmankendrick
+- [This cool animation was done inside Figma using Pointillism (Beta) and Physics animation plugins https://t.co/6jlHEN3YhL](https://x.com/creativestefan/status/1746158165308117262) — @creativestefan
+- [Day 6   Flow for autonomous car subscription.  2021, purely speculative. Gesture based, landscape first.  Fuzzy prototype in Figma, hi-def m…](https://x.com/imranfyi/status/1746866390382923884) — @imranfyi
+- [Fey’s Share feature is here 📈  Copy any chart to your clipboard — instantly. Generate a link with a click of a button.  The journey to build…](https://x.com/brotzky/status/1747295661278847037) — @brotzky
+- [A game-changing Figma plugin like never before! Swap through icons as if by magic. Save time and boost your productivity with this innovativ…](https://x.com/Abmankendrick/status/1747516312862052593) — @Abmankendrick
+- [Dive into real-world examples with UI design case studies, showcasing successful implementations and lessons learned from various projects. …](https://x.com/launchiostore/status/1747663850961592580) — @launchiostore
+- [There's still time to build an app for visionOS! 👓  Let me get you started with this playlist of visionOS tutorials: https://t.co/so6S9i6Mpf…](https://x.com/FloWritesCode/status/1749386516311208398) — @FloWritesCode
+- [If you are polishing your apps for #visionOS, hopefully this will save you some time.  Don't use Link inside list items, because the hover e…](https://x.com/PerjanDuro/status/1750430993721225390) — @PerjanDuro
+- [I spent quite some time today polishing my third app for visionOS and what bothered me more than necessary were the corner radii of the card…](https://x.com/PerjanDuro/status/1750510533671895288) — @PerjanDuro
+- [If you're adapting your app for #AppleVisionPro, you've probably added  `contentShape` to your custom button styles to get a better `.hoverE…](https://x.com/klemensstrasser/status/1750848086308511947) — @klemensstrasser
+- [Good night all ..   Monochromatic serenity” emphasizes the use of a monochromatic color scheme to evoke a sense of calmness, simplicity, and…](https://x.com/LudovicCreator/status/1751353895173943581) — @LudovicCreator
+- [for some reason, visionOS doesn't support widgets  so I built some: https://t.co/h0C9gsFnZM](https://x.com/jsngr/status/1751414742567076159) — @jsngr
+- [i discovered the .glassBackgroundEffect() view modifier seen here on the album cover and button  it adds physical depth to UI elements like …](https://x.com/jsngr/status/1751415604374806576) — @jsngr
+- [Last year I got the chance to do a bit of a longer animation for @dittolive and their home page. The tech they're working on feels like magi…](https://x.com/reijowrites/status/1751613599598965072) — @reijowrites
+- [Is anyone else getting this error when trying to upload a new build for a Mac app?  My latest uploaded build is 2.0.0 (build 9), my new buil…](https://x.com/Jeehut/status/1753034401137525083) — @Jeehut
+- [DatePicker styles in SwiftUI💡  → https://t.co/JnFQ3zNujS https://t.co/b2uBeQhR2g](https://x.com/ios_dev_alb/status/1753034495534535148) — @ios_dev_alb
+- [Adding a bit of 🪄 to some on-page graphics ✨  May have to do a blog post on this at some point – learned quite a bit about SVG building this…](https://x.com/TylerNickerson/status/1753053143007642042) — @TylerNickerson
+- [We’re delighted to announce an exciting new version of Things 3, designed and built to run natively on Apple Vision Pro. ✨  Read all about i…](https://x.com/culturedcode/status/1753468765524619294) — @culturedcode
+- [So the other day I saw this cool coffee animation and wanted to recreate. Tbh I liked how it turned out.  #100daysofdesign #day4 #uiux #uide…](https://x.com/nupurbuilds/status/1753816843276661234) — @nupurbuilds
+- [there's a lovely lil visionOS UI kit from @dan_siddiki: https://t.co/5DaTdUcQ0w](https://x.com/jsngr/status/1753874193001672751) — @jsngr
+- [It's not JUST a background blur and a random gradient border guys!   Here's a quick tutorial thread 🧵👇 https://t.co/i9FRnGV8f4](https://x.com/michalmalewicz/status/1754469762447319438) — @michalmalewicz
+- [Here to help the community 😇  Drop your app screenshot and I will a simple yet walk through video from it using my tool MotionShot - https:/…](https://x.com/pramodk73/status/1755477217352864237) — @pramodk73
+- [✨ Introducing Animated Beam - An animated beam of light which travels between two elements. Built using @reactjs + @tailwindcss + @framer mo…](https://x.com/dillionverma/status/1757012073199071630) — @dillionverma
+- [Iterating on customer feedback on https://t.co/Oyktwx6rwI  Couple of people asked if there is a way to stitch multiple shots into one video.…](https://x.com/pramodk73/status/1757675257102778398) — @pramodk73
+- [Learn how to quickly create kinetic typography using @figma and @AninixApp 👇 https://t.co/jjVhJzkQZu](https://x.com/AninixApp/status/1757893147193962617) — @AninixApp
+- [Quick tutorial how to change any image into 4k stock for totally Free with @CreatieAI 👀 https://t.co/TAqp4rQ238](https://x.com/uiuxarih/status/1760670321131368910) — @uiuxarih
+- [Next, we need to get the character that we want to swap. For this guide I've chosen an image that I previously generated with the following …](https://x.com/hugovntr/status/1770891828042080692) — @hugovntr
+- [Today we’re announcing a new set of tutorials for students taking their first steps into coding with Swift and SwiftUI! You don’t need prior…](https://x.com/timsneath/status/1773421522134405208) — @timsneath
+- [🚨#PromptShare🚨 Let's dive into a super useful #prompt that does double duty: on one side a t-shirt visual, and on the other, the same visual…](https://x.com/CharaspowerAI/status/1781246948353163524) — @CharaspowerAI
+- [#promptshare @freepik Pikaso AI Image Generator Style: Cartoon  Prompt: hand drawn cartoon cute little squirrel peeking out from a hole in a…](https://x.com/heathergreen/status/1781733642877768009) — @heathergreen
+- [New mini project! We've built a small explorer to visualize self-reported election affidavits from 2019 (and 2024 where available) and each …](https://x.com/thedivtagguy/status/1783348279528329710) — @thedivtagguy
+- [UI/UX Designers, here is a design system generator for Figma  Generate Design System is a Figma a plugin that help in setting up a quick des…](https://x.com/Abmankendrick/status/1784980866554327379) — @Abmankendrick
+- [I'm not certain I'm on the right track, but I will continue learning SwiftUI and VisionOS to build a great app for people.  https://t.co/Qxc…](https://x.com/yvr_optician/status/1788347867415150932) — @yvr_optician
+- [🎨 Under the Waves 🤖  Prompt: A [SUBJECT] is crouching on the beach, lifting a wave like a carpet to reveal a [OBJECT] lying underneath deep …](https://x.com/umesh_ai/status/1797201535115657707) — @umesh_ai
+- [Published a 3 mins YouTube video to demo the AI Receipt Scanner SPM Lib integration with the SwiftUI Expense Tracker App.  https://t.co/6TgV…](https://x.com/alfianlosari/status/1807393240464900371) — @alfianlosari
+- [⎺⎻⎼⎽  A step-by-step guide for how an animation might look. https://t.co/tzH5uJSenQ](https://x.com/jamesm/status/1833903712982442204) — @jamesm
+- [Did you know that an artificial neural network is designed to mimic the brain?  Inspired by biological neurons in the brain, artificial neur…](https://x.com/NobelPrize/status/1843597151848272258) — @NobelPrize
+- [UI/UX Designers, this might be the best color tints &amp; shades generator out there.  ColorDesigner is an online tool that will help you bu…](https://x.com/Abmankendrick/status/1846573024310395258) — @Abmankendrick
+- [💡 Free Design &amp; Animation Series! 🎨  I’m sharing free design resources for the community! Designs in Figma, animations in @rive_app , an…](https://x.com/BausPjam/status/1853255270509719584) — @BausPjam
+- [@rive_app You can remix with the resources I’ve prepared here: Figma: https://t.co/IhdAxYIDzt Rive: https://t.co/lgvNDiDyo9 Follow me for up…](https://x.com/BausPjam/status/1853256482336411796) — @BausPjam
+- [📙 Universal Design Playbook  A collection of workshop ideas to help you design more inclusive products that enable people of all backgrounds…](https://x.com/AdhamDannaway/status/1856342586597765553) — @AdhamDannaway
+- [Week 7 of #WOW2025: With Bonus Feature – Choose Your Highlight Color! 🎨✨ In addition to manually highlighting cells, this version includes t…](https://x.com/rosariogaunag/status/1890539507906224357) — @rosariogaunag
+- [@heynoopur Smart Animate in Figma! I used the Easometric plugin to make the squares isometric on the last frame. https://t.co/Pg0i4aUJaf](https://x.com/bentenwoodring/status/1896626544707354835) — @bentenwoodring
+- [I decided to have some fun with RF-DETR today  build vehicle speed estimation demo with just two @roboflow libraries: RF-DETR and supervisio…](https://x.com/skalskip92/status/1904569942575394912) — @skalskip92
+- [I combined Swiggy, Zomato &amp; Uber Eats into one app with live prices, real-time tracking &amp; community reviews.  No code. Just AI promp…](https://x.com/hey_mujeebahmed/status/1946514920297885940) — @hey_mujeebahmed
+- [Which AI builder can ship a mobile app from one prompt?  I tested them all last night.  Leap vs Bolt vs Lovable vs Cursor.  Here’s who cooke…](https://x.com/heyrobinai/status/1951245724982845631) — @heyrobinai
+- [I’ve been using isometric grids for my illustrations.  Here’s how to design them in @figma in 7 steps https://t.co/A6JD4DMca0](https://x.com/abdussalampopsy/status/1959937569397113330) — @abdussalampopsy
+- [We’re tired of AI “slop” designs.  You should be proud of what you build on @Replit—Introducing design systems:  - Core customers: customize…](https://x.com/amasad/status/1960447621811855845) — @amasad
+- [UI/UX Designers, here's a go-to tool for generating UI colour palettes.  Radix colour is an online colour tool for a purpose-driven colour s…](https://x.com/Abmankendrick/status/1960629717448409512) — @Abmankendrick
+- [CyberNest - Isometric illustration animation hero section  Design Credits to Robin Holesinsky https://t.co/rFIbkWdfoU  Need a website consul…](https://x.com/apxcx_/status/1960915244156391579) — @apxcx_
+- [We’re open-sourcing everything.  All the projects built during the Nano Banana Hackathon are now released as open-source.  Since AI Studio s…](https://x.com/arrakis_ai/status/1965001417716072877) — @arrakis_ai
+- [Figma tools used: Shape builder, Boolean operations and Fast Isometric plugin  Everything was created with shapes.](https://x.com/Tobi_fig/status/1974438730460266910) — @Tobi_fig
+- [@1Aakib @AnasKaratela7 Figma. Fast Isometric Plugin. Isometric drawing tutorials on youtube. Repeat until you're good.](https://x.com/kuraken20XX/status/1979698052740038851) — @kuraken20XX
+- [Math and ML → Part 1: The Mathematical Foundation of Regularization  Regularization is one of the most crucial techniques in machine learnin…](https://x.com/ThedatagGuy/status/1983885329619976412) — @ThedatagGuy
+- [@rubenhassid This captures the essence of real learning — struggle first, then insight. Karpathy’s approach reminds us that depth isn’t achi…](https://x.com/pogino20171223/status/1984048880460407104) — @pogino20171223
+- [just shipped this beam effect  built entirely in @framer with the new vector effects - no code components  turns out you can create proper l…](https://x.com/Ash_uxi/status/1986043882854064609) — @Ash_uxi
+- [@liquidai The entire session is publicly available on Youtube, here's the link. ↳ https://t.co/eDqlRnCL3F](https://x.com/paulabartabajo_/status/1986796119200866604) — @paulabartabajo_
+- [Constructs node-based visual programming interfaces  https://t.co/fI5NzpGUx0 https://t.co/YFh8vXwbKS](https://x.com/tom_doerr/status/1992246275203321929) — @tom_doerr
+- [gm ☕️  Prompt: Add clean, minimal white line-drawing illustrations of people into this photo. Match the perspective, lighting, and scale of …](https://x.com/egeberkina/status/1992521922689569018) — @egeberkina
+- [Prompt: {   "style": "Ultra-minimalist cocktail photography with a soft beige backdrop, an elegant coupe glass centered in the frame, diffus…](https://x.com/egeberkina/status/1992950391592431935) — @egeberkina
+- [🚀 Thrilled to launch DeepScholar, an openly-accessible DeepResearch system we've been building at Berkeley & Stanford.  DeepScholar efficien…](https://x.com/lianapatel_/status/1993768957065474338) — @lianapatel_
+- [No-code form builder for shadcn/ui  https://t.co/jtS2zmAHoH https://t.co/C8CwjJNsCU](https://x.com/tom_doerr/status/1996032560753721501) — @tom_doerr
+- [Flight timetable built with @tan_stack table + @base_ui  + @coss_com ui 👌 https://t.co/vTWxJmI6or](https://x.com/pacovitiello/status/1996166396384813289) — @pacovitiello
+- [DEVS, no need to find UIUX designer for your projects. Stitch is too goood!  https://t.co/fr3TPlGq2A](https://x.com/edesiri/status/1996185433462710328) — @edesiri
+- [Despite so much ink being spilled about this there's been shockingly few genuinely great infographics on the data center buildout. This piec…](https://x.com/AndyMasley/status/1998872591793279290) — @AndyMasley
+- [@alexcooldev Here’s something meta I built with vibe coding   https://t.co/fNhV2PY2xF](https://x.com/thisiskp_/status/2002736287791653317) — @thisiskp_
+- [I'm genuinely curious how to build this type of stuff ? Can someone point me to any helpful resources?](https://x.com/nnvictory001/status/2004284448289051080) — @nnvictory001
+- [https://t.co/7cX3IoUIsN](https://x.com/SolvingForZ/status/2017337521995235363) — @SolvingForZ
+- [Introducing Papers, an AI-native academic writing suite.  Feynman can help you do everything from finding references to peer review, all wit…](https://x.com/opennote_me/status/2018752280842178804) — @opennote_me
+- [[Excellent Book] #MachineLearning Design Patterns — Solutions to Common Challenges in Data Preparation, Model-Building, and #MLOps: https://…](https://x.com/KirkDBorne/status/2018831350090903809) — @KirkDBorne
+- [Ashok Elluswamy, VP of AI at Tesla, discusses building end-to-end foundational models for self driving at the 2026 ScaledML Conference prese…](https://x.com/ianteetzel/status/2018834389451550756) — @ianteetzel
+- [New paradigm from Kaiming He's team: Drifting Models!  With this approach, you can generate a perfect image in a single step.  The team trai…](https://x.com/jiqizhixin/status/2019308224223354936) — @jiqizhixin
+- [New work on Maximum Likelihood Reinforcement Learning:  https://t.co/Ctxe4NvWp6  This work develops Maximum Likelihood Reinforcement Learnin…](https://x.com/rsalakhu/status/2019507844161187916) — @rsalakhu
+- [We’re excited to introduce the Waymo World Model—a frontier generative mode for large-scale, hyper-realistic autonomous driving simulation b…](https://x.com/Waymo/status/2019804616746029508) — @Waymo
+- [The safe triangle / aim guard  Invisible by design, essential by experience.  The first of many "oh dang, menus are deep" moments while buil…](https://x.com/kianbazza/status/2024340430381314256) — @kianbazza
+- [Pro tip for Vibe Coding: just knowing the "terms" behind UI components can 100x your frontend results  This website shows you ALL the typica…](https://x.com/melvynx/status/2028878637014057196) — @melvynx
+- [Is your app working as it should? AUTOMATE TESTING! 🥸 https://t.co/S5HcXuuXAM](https://x.com/maestro__dev/status/2031399412073644399) — @maestro__dev
+- [I'm in love with this Lucas 🤯  - it's all in browser, instant feedback - jax-js library is new, completely out-of-distribution - the entire …](https://x.com/ekzhang1/status/2032959206999896475) — @ekzhang1
+- [this burger menu hits differently..  we definitely need more radial uis  wizard » @designloomco https://t.co/OTauoA7ttE](https://x.com/Aurelien_Gz/status/2033269765666435323) — @Aurelien_Gz
+- [I am knee deep in this material now. I completed the Udemy course you had recommended. Pro tip! I was trying to purchase the Nvidia one on t…](https://x.com/CloudR907/status/2036302431395455314) — @CloudR907
+- [Downloading UI  Thoughts? https://t.co/YmTXtA10Q3](https://x.com/AdityaSur11/status/2038972078112813463) — @AdityaSur11
+- [The hidden architecture of a bird’s voice. 🙌🏻  Did you know a bird's song can be mapped into a mathematical fingerprint? 🧬  This isn't sci-f…](https://x.com/0x0SojalSec/status/2040922593767882817) — @0x0SojalSec
+- [AI Engineering Buildcamp is project-driven.  You learn AI engineering by building.  15 projects you can build during the course 👇🏼  (You get…](https://x.com/Al_Grigor/status/2042135483401302068) — @Al_Grigor
+- [Upload file component ✨  w / @alignui https://t.co/AKz2xlATHl](https://x.com/ersadwork/status/2042558315763232970) — @ersadwork
+- [💥Excited for the publication: "AI-Driven Prediction of Symptom Trajectories in Cancer Care: A Deep Learning Approach for Chemotherapy Manage…](https://x.com/Bioeng_MDPI/status/2043713417551245695) — @Bioeng_MDPI
+- [Never thought I’d say this, but we might actually be cooked.  Built this in one shot with Opus 4.7  Prompt below. https://t.co/ZBab7Il55w](https://x.com/BreejeAnadkat/status/2044853909190218233) — @BreejeAnadkat
+- [Opus 4.7 can build Lottie Animations.  One prompt via Lottie Creator MCP → 500 particles, each with its own path, easing, and arrival frame.…](https://x.com/reallynattu/status/2044954579377492438) — @reallynattu
+- [Prompts used:  Optimal visual depiction of using linear algebra to solve the optimal scarce allocation problem in economics and how and why …](https://x.com/doodlestein/status/2048456780796088438) — @doodlestein
+- [البرومت   Act as a careful Arab researcher reading a scientific paper deeply. Recreate the same research paper page, but add natural handwri…](https://x.com/mosthssan/status/2049277777745264821) — @mosthssan
+- [Just replace [BODY PART]:✨  “Create an infographic image of [BODY PART], combining a realistic photograph or photoreal render of the object …](https://x.com/TechieBySA/status/2050582648121176494) — @TechieBySA
+- [Someone built a free PDF editor that does everything Adobe does, in 20MB.  RevPDF runs entirely on your device. Edit text and images, sign, …](https://x.com/HowToPrompt__/status/2053139752656998412) — @HowToPrompt__
+- [great, intuitive resource. worth a few mins playing with as a refresher even if you've been through the fundamentals](https://x.com/elliotarledge/status/2054477493856555273) — @elliotarledge
+- [Need a summer project? A friend has built a new non-profit program for undergrad, masters, PhD students and recent grads to build fun, impac…](https://x.com/DanielWhiteson/status/2061667828521173436) — @DanielWhiteson
+- [As an academic writer, doctoral student, scholarship aspirant, or someone hoping to publish in an academic journal, it is easy for one to as…](https://x.com/Yomibldr/status/2062949687985095097) — @Yomibldr
+- [Baidu acaba de romper una de las limitaciones más grandes del OCR actual.  Unlimited-OCR procesa documentos enteros de una sola pasada, sin …](https://x.com/ErickSky/status/2069245176988545137) — @ErickSky
+- [Learn NLP and language modeling with a structured Stanford course.  What you will learn: - Work with sequence, text, and language-modeling p…](https://x.com/DanKornas/status/2070422160187724146) — @DanKornas
+- [CMU Fall 2020 Multimodal Machine Learning course (11-777)  What you will learn: - Build the foundations before jumping into advanced machine…](https://x.com/DanKornas/status/2073600189403730107) — @DanKornas
+- [this was the best read on KV cache which was intuitively soo good to read about   https://t.co/fRWHUELkJ2 https://t.co/0zE06UAcFE](https://x.com/Hi_Mrinal/status/2073706279206637958) — @Hi_Mrinal
+- [Search and download from here 👇  https://t.co/QC5Bn3ZHuX](https://x.com/nilbuild/status/2083692250861908024) — @nilbuild
+- [I built a Smart Second Brain with AI that works 24×7 (Steal my exact method) https://t.co/LmKB5NAfoX](https://x.com/KanikaBK/status/2084549593006793187) — @KanikaBK
+- [Next product build I'm throwing these mesmerizing thinking balls in there. These are SO DAMN BEAUTIFUL! 👏](https://x.com/jinsu/status/2084994187314041087) — @jinsu
+- [PhD Students – How to turn your research question into a thesis draft?  1. Go to https://t.co/EZNOnVRvoa 2. From the left menu, click on Que…](https://x.com/Faheem_uh/status/2088176342651347101) — @Faheem_uh
+- [One completely still photograph. Nothing moved - Nothing breathed.  It is now a fully alive, fully controllable 3D character written entirel…](https://x.com/NickDevFE/status/2089578440756433039) — @NickDevFE
+- [OMG... this is 10/10 for creating beautiful software architecture diagrams. 🤯👌  FossFLOW is a free, open-source tool for creating clean 3D i…](https://x.com/rammcodes/status/2089750857630056891) — @rammcodes
+- [https://t.co/772Wa8nUxA](https://x.com/jacksonhmg1/status/2090285560154018211) — @jacksonhmg1
+- [FREE Websites for Downloading PhD Thesis   1. Open Access Theses and Dissertations  https://t.co/tEFUArbUXq   2. Open Thesis  https://t.co/6…](https://x.com/Faheem_uh/status/2094168281598886073) — @Faheem_uh
+- [Famous buildings made with food ingredients.   2x2 grid, 16:9, do this for 4 buildings around the world and country's favorite food ingredie…](https://x.com/Gdgtify/status/2094566403231952977) — @Gdgtify
+- [Modeling the concept instead of the token is the future.  https://t.co/JtKkddkzdG https://t.co/ka55uXic2U](https://x.com/GeZhang86038849/status/2095021856638271747) — @GeZhang86038849
+- [🚨 Google acaba de liberar una de sus herramientas internas más potentes.  Ha lanzado Magika, un sistema que detecta el contenido real de cua…](https://x.com/_guillecasaus/status/2096913125266079843) — @_guillecasaus
+- [code: https://t.co/FGRGu0UXVJ note:  this is not up to my aesthetic standards but I want to minimize time spent thinking about linkedin acro…](https://x.com/ashebytes/status/2100231422917173513) — @ashebytes
+- [11M+ people build on Bolt. On Monday, we gave them open models with up to 50x usage.  Which is #1 so far? The fastest, cheapest one, with pr…](https://x.com/boltdotnew/status/2100646000016716180) — @boltdotnew
+- [I have decided to tweak my prompts, so they do research and use current topics instead of books, empires and all these other topics I have b…](https://x.com/Gdgtify/status/2101977235100246118) — @Gdgtify
+- [1️⃣ Summarize a Topic as an Infographic  Prompt:  “Using only my selected sources, create a clear educational infographic about [topic] for …](https://x.com/AiWithAyesha/status/2104024019523490020) — @AiWithAyesha
+- [Every student now has the best math tutor in the world in their inventory.  Introducing Agathon reimagined. After a year of hard work, train…](https://x.com/mnt_rushmore/status/2106017831049629907) — @mnt_rushmore
+- [@mnt_rushmore We’re also building something similar not exactly the same, but kind of for our own STEM learning help   https://t.co/st1Z6JcH…](https://x.com/SAIKATG59848378/status/2106063065997533355) — @SAIKATG59848378
+- [Excited to share that MolmoMotion has been selected as a Highlight paper at NeurIPS 2026! 🎉  Our code, model weights, dataset, and benchmark…](https://x.com/Michael3014018/status/2106069219049885746) — @Michael3014018
+- …and 4 more on the site
+
+## Finance (3)
+
+- [Surfed the internet for cool UI inspos and resources, Here's what i found:  - 60fps (motion) https://t.co/LoFhWprvAY - Divs (Webflow compone…](https://x.com/creativestefan/status/1997276397081968752) — @creativestefan
+- [StockSharp library for algorithmic trading strategies  https://t.co/3CL2V0VePZ https://t.co/HipsNNyWKY](https://x.com/tom_doerr/status/2068623784513261777) — @tom_doerr
+- [Maria is still under 6k followers, good opportunity to invest early](https://x.com/theo/status/2076228980211167389) — @theo
+
+## Fun (1)
+
+- [One of my favorite graph types is @CedScherer's lollipop-jitter graph. I love this style because it's a clean &amp; creative way to visualiz…](https://x.com/tanya_shapiro/status/1550154721792598019) — @tanya_shapiro
+
+## Productivity (10)
+
+- [Obsidian Canvas is here!  Canvas gives you an infinite space to visualize and make sense of your ideas.  Learn more: https://t.co/dcYRm7icPY…](https://x.com/obsdmd/status/1605221150602285060) — @obsdmd
+- [I created a Simple Product on Notion.    One day I promoted it to my audience (Twitter + Email list)  Made $700+ in one day.   Here are 6 co…](https://x.com/sharyph_/status/1639602539124649984) — @sharyph_
+- [Tutorial sellers are earning more than $5000+ per month.  Introducing @ScribeHow  The only extension you need to create a step-by-step guide…](https://x.com/DevMuzzammil/status/1689871986061873152) — @DevMuzzammil
+- [✨ My favourite UI details from Attio Automations ✨  Up first, this beautiful handmade SVG animation on our new landing page https://t.co/vfO…](https://x.com/mulholo/status/1722204009027744179) — @mulholo
+- [attio automations https://t.co/WeSNMMNGhR](https://x.com/nicks_twt/status/1722907725451899053) — @nicks_twt
+- [Sweet new Rive animations on your homepage @NotionHQ 🚀 https://t.co/xJwoGyZFTp](https://x.com/guidorosso/status/1786172708944011738) — @guidorosso
+- [@VikParuchuri You should explore Amazon Bedrock Data Automation, gives you the bboxes and also confidences of the extractions.](https://x.com/arlind0xBB/status/1958599042612830376) — @arlind0xBB
+- [I finally solved the biggest issue with NotebookLM Slides. 🚫✍️  We all love the aesthetic of NotebookLM's auto-generated Slide Decks, but th…](https://x.com/dotey/status/2002561113842495805) — @dotey
+- [@DrAtulTiwari thanks! here's a session I did with @vcodersglobal it has some details about my workflow https://t.co/xz0m8GV2gm](https://x.com/DilumSanjaya/status/2062192476207943693) — @DilumSanjaya
+- [Excited to see this out. One thing people often underestimate is how much downstream quality depends on document understanding, not just tex…](https://x.com/pckraftwerk/status/2069462549087785307) — @pckraftwerk
+
+## Startups (23)
+
+- [For this weeks #TidyTuesday I made another (3rd one this year) celebrating the BBC’s Top 100 Women of 2020.  Code @ https://t.co/1BhlhPnYyC …](https://x.com/jakekaupp/status/1337113343878975493) — @jakekaupp
+- [@rebeccalgourley @FrankElavsky @emilykund How colour contrast can affect different people with visual impairments, my favourite tool to chec…](https://x.com/WJSutton12/status/1452029606123483137) — @WJSutton12
+- [I had an idea to create pixel letters :) Here is the method: https://t.co/a03hZTSuXc  Inspired by the posts about the X &amp; Y by @flerlage…](https://x.com/Qichun_Dai/status/1564679641478070273) — @Qichun_Dai
+- [Prove you're a developer with the projects you made.  I'll start:  Copy SVG icons with one click https://t.co/3nyzXkNK5A  Free color palette…](https://x.com/csaba_kissi/status/1641837000457060357) — @csaba_kissi
+- [#30DayChartChallenge | #Day7 | Hazards  Hey everyone! Today's 30-day chart challenge theme is 'Hazards' and I decided to create a chart on t…](https://x.com/Vijay__Jadhav/status/1644389102983479297) — @Vijay__Jadhav
+- [#30DayChartChallenge | #Day9 | High/Low  It's day 8 of the 30-day chart challenge, and today's theme is 'High/Low'. So I decided to take a l…](https://x.com/Vijay__Jadhav/status/1645128090518167552) — @Vijay__Jadhav
+- [Product Design Roadmap   Excellent overview of product design process along with practical recommendations for individual activities  🔗: htt…](https://x.com/101babich/status/1656575259384901633) — @101babich
+- [7.  ClipBuddy  Create short clips from long videos for social media  → Auto Curation  → Auto Captioning  → Resizing  → Transitioning  🔗 http…](https://x.com/shushant_l/status/1688475538963472384) — @shushant_l
+- [DALL-E 3 : 3D hologram Prompt  🔖 Bookmark this for future reference.  You can ask DALL-E 3 to strictly follow this prompt, or you can let it…](https://x.com/ai_for_success/status/1721167815951229241) — @ai_for_success
+- [Signs She's NOT Into You (Might Hurt Your Feelings)  - Female Psychology Thread - https://t.co/Tk6WDTY1aF](https://x.com/MasculineEgo_/status/1735267913051836692) — @MasculineEgo_
+- [@plantseeds_ Thank you so much Patrick! Blue is definitely one of my favorite to design with 🫶   I use this website a lot: https://t.co/DySi…](https://x.com/Suupercharged/status/1747017433196466235) — @Suupercharged
+- [#30DayChartChallenge | Day 21 | Green Energy   States with the largest Wind Power Capacity in India. (2023)  #GreenEnergy #WindPower #DataVi…](https://x.com/Vijay__Jadhav/status/1782701332169633824) — @Vijay__Jadhav
+- [@hussy_cat @figma It's my plugin called Generator. https://t.co/rYCxT4V2q7](https://x.com/brainshift_/status/1783241995802087544) — @brainshift_
+- [This question got a manager nearly sacked by the CIO.  “Is the customer data safe in case of system failure?”  It was part of a seemingly ha…](https://x.com/ProgressiveCod2/status/1788458833590866213) — @ProgressiveCod2
+- [Struggling to pick an online stock broker? 🤔  Our partner @StockBrokers analyzed select brokers' performance in various categories so you ca…](https://x.com/VisualCap/status/1838972243612700694) — @VisualCap
+- [hand-controlled boids https://t.co/SGIJuYCOm8](https://x.com/XanderChin/status/1988660086416548014) — @XanderChin
+- [🤩 Image generation is here in #BenchlingAI! Generate diagrams of your experimental flow in minutes, directly from your Benchling data.   Wat…](https://x.com/benchling/status/2019470184130437378) — @benchling
+- [600 SVGs available on Svgl 🥳🚀  ✓ Fully optimized ✓ React, Vue, Angular, Astro, Svelte &amp; Web Components ✓ Add SVGs with the shadcn/ui CLI…](https://x.com/pheralb_/status/2034208709321093229) — @pheralb_
+- [@JPcph12 https://t.co/yc4ewGsnDL https://t.co/HaaSkIgm1w https://t.co/ATpItZUNRg](https://x.com/AlicanKiraz0/status/2048451613430264164) — @AlicanKiraz0
+- [ByteDance has released Seed3D 2.0, a model capable of generating 3D objects from a single image or a text prompt. https://t.co/qmBiQbBEXr](https://x.com/Emmma___0/status/2050850124457496810) — @Emmma___0
+- [Introducing Sparse Delta Memory (SDM) - The first work of my PhD 🎓.  SDM combines the GatedDeltaNet update with Product Key sparsity, enabli…](https://x.com/loiccabannes/status/2075263591926681980) — @loiccabannes
+- [Stanford computer science professor just revealed how to master Markov Decision Processes.  83-minutes. free. By Stanford.  here's what they…](https://x.com/RitOnchain/status/2076016968608747556) — @RitOnchain
+- [Dünyanın En İyi Üniversitelerinin Ücretsiz Açtığı 50 Ders ve Kaynak  1.) https://t.co/fncExGH5jc → Harvard’ın efsanevi bilgisayar dersi 2.) …](https://x.com/mertmetindev/status/2096172167381553367) — @mertmetindev
+
+## Tech (73)
+
+- [An open source collection of Design Principles and methods by ⁦@benbrignell⁩  #design  https://t.co/sXr7VhC1hE](https://x.com/samodrole/status/1381855990581092353) — @samodrole
+- [The formula to generate the QR code is:  =IMAGE("https://t.co/Ez7cioNzZ8"&amp;A1,4,70,70)  where your data (e.g. a web url or name or addres…](https://x.com/benlcollins/status/1405495555061596170) — @benlcollins
+- [@quantum_relic I used a Python library 'Wordcloud' to make a word cloud using an image as a mask, then I saved word's coordinates as a csv f…](https://x.com/AlexanderVar7/status/1415757356995055617) — @AlexanderVar7
+- [Wow! this is so good. A visual guide on troubleshooting #Kubernetes #k8s deployments, by @danielepolencic  #Cloud #CloudComputing  https://t…](https://x.com/manekinekko/status/1434808198532370432) — @manekinekko
+- [Always wondered how #kubernetes works, but never got time to sit down and actually learn it? 🤔   Let's change that today 🙌 🥳  🧵👇Here's a 10-…](https://x.com/ChadMCrowell/status/1457827620402442246) — @ChadMCrowell
+- [if you want to make your own map frames - like the ones I've shown here - then you can do that in QGIS, by following my tutorial booklet   h…](https://x.com/undertheraedar/status/1475822081392717824) — @undertheraedar
+- [TIL: How to create Kubernetes manifests real quick 🤯  Use kubectl create --dry-run=client -o yaml  Example:  ``` kubectl create deployment f…](https://x.com/iximiuz/status/1483180111579000834) — @iximiuz
+- [You can find my code to get the real-time train positions of the Dutch Railways (NS) API here: https://t.co/wRAR1wGCE5  You can request a fr…](https://x.com/yannickbrouwer/status/1483531125603643399) — @yannickbrouwer
+- [🧵 How does Pod to Pod communication work in Kubernetes?  How does the traffic reach the right Pod?  Let's see 👇 https://t.co/gF2eVWYL4Q](https://x.com/danielepolencic/status/1488119972463218690) — @danielepolencic
+- [Just how does network traffic flow inside a Kubernetes cluster? via @learnk8s   Read more:  https://t.co/kKrbnqMdZl](https://x.com/CloudIslamabad/status/1489645605450395654) — @CloudIslamabad
+- [A visual guide on troubleshooting #Kubernetes deployments courtesy of @learnk8s:   https://t.co/LzUb2v4bZP https://t.co/UKmQszbUga](https://x.com/luca_cloud/status/1493217710741901316) — @luca_cloud
+- [UPDATE: what's getting deprecated is the dockershim.  The piece of code in the Kubelet that allows it to start a container using Docker. Kub…](https://x.com/boredabdel/status/1496515694971830274) — @boredabdel
+- [It’s not that polished but I uploaded my code to GitHub in case anyone is interested: https://t.co/qW0na3BlaB](https://x.com/yannickbrouwer/status/1509045139691511809) — @yannickbrouwer
+- [@prem_prasann I think it is this one: https://t.co/af5Q2beeiA  There is also RapidDox, I know some people use, but I haven't personally.  If…](https://x.com/jaxx084/status/1530628264309534725) — @jaxx084
+- [Create animated videos in your browser like never before 🎥  Motionity is a free &amp; open source motion graphics editor for the web 🙌 Brows…](https://x.com/alyssaxuu/status/1564994167125803010) — @alyssaxuu
+- [Kubernetes Autoscaling: Getting Started + Examples  When your company is in growth mode, it’s tough to know how many compute resources are n…](https://x.com/NaveenS16/status/1567925871385931778) — @NaveenS16
+- [Kubernetes components and architecture https://t.co/i4FfZ6Mftm  #kubernetes #k8s #docker](https://x.com/osodevops/status/1590477333097766912) — @osodevops
+- [If you're looking to calculate travel times in QGIS, ArcGIS, Alteryx (or via API) @TravelTimeAPI not only has the tools but their documentat…](https://x.com/undertheraedar/status/1595744843954782208) — @undertheraedar
+- [7 YouTube channels from which you can learn Python, Machine Learning, Deep Learning, Data Science &amp; much much more.  Get started with th…](https://x.com/Sumanth_077/status/1624792894438793216) — @Sumanth_077
+- [How easy is it?  Just two steps and a few lines of Javascript👇  1. Get an API KEY from https://t.co/7Hfro4HQZC 2. Fork this repo: https://t.…](https://x.com/hasantoxr/status/1639230229481660417) — @hasantoxr
+- [Recap:  1. Get an API KEY from https://t.co/7Hfro4HQZC 2. Fork and run this repo: https://t.co/Sys4adswff  Enjoy headshots like these 👔 http…](https://x.com/hasantoxr/status/1639230235018231808) — @hasantoxr
+- [10 Public APIs you can use for your next project  🌍 https://t.co/YU9I04xEfR - Country data API  🌱 https://t.co/VJggaEWmpO - Plants data API …](https://x.com/csaba_kissi/status/1646050841818791937) — @csaba_kissi
+- [5/ Open source code here:  https://t.co/YPxyz5pfd9](https://x.com/pwang_szn/status/1649352343916539904) — @pwang_szn
+- [Time to automate my GitHub profile to show all of my latest blogs. To do this, I am going to learn GitHub Actions from the one and only @edd…](https://x.com/Krish4856/status/1650564054401032192) — @Krish4856
+- [Here are all of the relevant links! 🔗  YouTube: https://t.co/IZ2s9Lb7q2 GitHub: https://t.co/W3dOwCqAr7 Shipyard: https://t.co/J9p3FPgruJ](https://x.com/sidpalas/status/1650861446266515456) — @sidpalas
+- [Bros, take good care of your OpenAPI keys  Mine got leaked, and lost $700 in 3 days 🫠](https://x.com/father_mihai/status/1653392105836888064) — @father_mihai
+- [Decided to share my latest data visualization project here as well... Inspired by the incredible work of Visual Capitalist and its diverse c…](https://x.com/MissAmase/status/1658103277114802176) — @MissAmase
+- [If you have feature requests (such as other data formats to support) or find any issues, create a GitHub issue!  https://t.co/jSdw3gtzqD](https://x.com/donny_bertucci/status/1663588894229827585) — @donny_bertucci
+- [A major update to the @Stata #sankey v1.6 is now out: - Complete rewrite of the base routines. The code is faster and more flexible. - Compl…](https://x.com/AsjadNaqvi/status/1667967689023782913) — @AsjadNaqvi
+- [Mastering Linux Grep Command!  A thread with examples 👇 https://t.co/2TEThh5pMv](https://x.com/devops_tech/status/1674347777390948357) — @devops_tech
+- [Api Gateway doesn't support streaming, but lambda function urls does. I created a sample project which streams response from OpenAI API.  Th…](https://x.com/fatih_int/status/1677672298654957568) — @fatih_int
+- [No model has ever beaten 91% accuracy on ImageNet!  Because this dataset has over 100,000 mislabeled images.  Folks at MIT have released a t…](https://x.com/akshay_pachaar/status/1682005106970202114) — @akshay_pachaar
+- [14.  [bird] | Stylized ink sketch | Perched in an ancient Asian garden | Deep blacks and vibrant red accents | Tranquil pond reflections and…](https://x.com/techhalla/status/1715030076616573241) — @techhalla
+- [CSS Tip! 🤙  You can create this magnetic :hover effect with CSS anchor positioning, :has, and zero JS 🔥   article { anchor-name: --develop; …](https://x.com/jh3yy/status/1719147616477331650) — @jh3yy
+- [Postman released built-in capabilities for testing your API’s performance on your local machine.  • Simulate real-world traffic • Visualize …](https://x.com/NikkiSiapno/status/1723347332089970782) — @NikkiSiapno
+- [2. LeiaPix Converter  Transform any 2D image into a stunning 3D effect.  This tool enables you to download it as a video or GIF.  🔗 https://…](https://x.com/CodeByPoonam/status/1732311974560829536) — @CodeByPoonam
+- [𝗛𝗼𝘄 𝘁𝗼 𝗹𝗲𝗮𝗿𝗻 𝗖𝗹𝗲𝗮𝗻 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲 𝗮𝗻𝗱 𝗗𝗗𝗗?  The Clean Architecture philosophy emphasizes the importance of separating concerns in software des…](https://x.com/milan_milanovic/status/1732671946339279268) — @milan_milanovic
+- [CSS Tip! 🤙  You can use mask-composite and some JavaScript to create this pointer proximity following glow border ✨  .glow {   mask-composit…](https://x.com/jh3yy/status/1734369933558010226) — @jh3yy
+- [GitHub student developer pack comes with lots of perks🎈 If u are a student don't forget to sign up for it https://t.co/kmeXJDddIQ✨🤗🤗 https:/…](https://x.com/Akshita_archer/status/1736948431544021140) — @Akshita_archer
+- [UI && CSS Tip! 🔥  You can create these dynamic glowing card effects with a single JavaScript event listener, some CSS tricks, and an HTML at…](https://x.com/jh3yy/status/1737288638730215928) — @jh3yy
+- [A Comprehensive Guide to LinkedIn Scraping APIs🧵  LinkedIn data can be used in many applications such as personalized outreach, professional…](https://x.com/avikumart_/status/1747989735015145508) — @avikumart_
+- [❤️😊😍  There are now 38 high-quality graph tutorials in the Python Graph gallery!  And the list keeps growing 📈  Who said @matplotlib's viz a…](https://x.com/R_Graph_Gallery/status/1778808736930238575) — @R_Graph_Gallery
+- [👨‍🔧 Github: Opensource OCR & Document Extraction using vision models.  11.7K Github Stars 🌟  supports structured data extraction from docume…](https://x.com/rohanpaul_ai/status/1954514063716962640) — @rohanpaul_ai
+- [No AI should be this fast at scraping.  2 clicks and it auto-crawls, scrapes entire sites... all subpages, tables, PDFs, images, docs, even …](https://x.com/EyeingAI/status/1972903407016190343) — @EyeingAI
+- [Look, if you built it, you should own it.   Unlike other AI coding platforms, Emergent gives you complete freedom and control: your code, yo…](https://x.com/emergentlabs/status/1979575757610303521) — @emergentlabs
+- [We’re updating our demo, and olmOCR-2-7B-1025 is now available on @DeepInfra &amp; @parasail_io APIs. Check out our repos for instructions o…](https://x.com/allen_ai/status/1981029165517177257) — @allen_ai
+- [Yes!! my friend Fatih's https://t.co/fhgt9NHXD5 has been featured on @github Explore.  Thanks everyone for your help! 🙌](https://x.com/DataChaz/status/2000687031253413982) — @DataChaz
+- [Stock Prediction AI: Using Machine Learning and Deep Learning to predict stock price movements in Python.   The Python code is 100% free on …](https://x.com/quantscience_/status/2015775805477945790) — @quantscience_
+- [AI infrastructure challenges in 2026 are not just technical. It is no longer about running pilots or testing tools. Teams are dealing with G…](https://x.com/MirantisIT/status/2019810916041105483) — @MirantisIT
+- [24 dedicated people. $30M spent on development. Extreme specialization, speed, and power efficiency.  Today we launch Taalas’ first product.…](https://x.com/taalas_inc/status/2024516399251456150) — @taalas_inc
+- [@seflless Yes of course it’s open source feel free to use it or build on top of it whatever you want   https://t.co/wSGkHoCCdg](https://x.com/svorklab/status/2027096990400553331) — @svorklab
+- [real-time skeletal visualization using MediaPipe and @threejs. built for K-12 anatomy education but there are so many cool applications. htt…](https://x.com/nickbisesi_/status/2031728629592289591) — @nickbisesi_
+- [🚨 Want to parse complex PDFs with SOTA accuracy, 100% locally? 📄🔍  At just 0.9B parameters, you can drop GLM-OCR straight into LM Studio and…](https://x.com/TeksEdge/status/2032887132130554364) — @TeksEdge
+- [Implementing an two-hidden layer MLP, training it with adam, and plotting an animated loss curve, using only javascript + HTML is now just a…](https://x.com/grrddm/status/2034544465084383645) — @grrddm
+- [Adobe tried to buy Figma for $20 billion in 2022.  The deal collapsed. So Figma went public on the NYSE in July 2025 instead. Ticker FIG. Pu…](https://x.com/heynavtoor/status/2048036289367445941) — @heynavtoor
+- [Apple built AirDrop.  Then locked the best version of it inside their ecosystem.  So a developer on GitHub said:  “What if every phone, lapt…](https://x.com/ihteshamali/status/2050211985854525842) — @ihteshamali
+- [有人刚开发了一款桌面应用，可以从图片生成3D模型，并且100%本地运行。  它叫Modly。完全在你的GPU上运行，无需云端，无需API费用。只需上传图片就能获得3D网格。  链接：https://t.co/1o6bsYDAeM https://t.co/NSVHNZSukr](https://x.com/Bitturing/status/2050426111851684113) — @Bitturing
+- [I just found an open source tool and honestly it's wild.  Recordly. Free alternative to Screen Studio. Apple-style zoom animations, cursor s…](https://x.com/VaibhavSisinty/status/2050877889470669209) — @VaibhavSisinty
+- ["Algebrica" is a free and open mathematical knowledge base. All entries are progressively being released in Markdown format on GitHub for an…](https://x.com/antoniolupetti/status/2053051180213805223) — @antoniolupetti
+- [I Wrote a New Book!!!   Optimization: A Bootcamp for Machine Learning, Inverse Problems, and Control  Pre-Order Now (July 31) https://t.co/E…](https://x.com/eigensteve/status/2055341831702057189) — @eigensteve
+- [Microsoft has released a 4B parameter model that turns any image into a 3D asset in 3 seconds.  It uses a new geometry format called O-Voxel…](https://x.com/HowToPrompt__/status/2056387308287676819) — @HowToPrompt__
+- [img2threejs v1.3 is now available. 🎋  One photo → procedural Three.js code. No meshes. No manual modeling.  GitHub: https://t.co/0bqf4iS9rm …](https://x.com/NickDevFE/status/2080189136917672064) — @NickDevFE
+- [Through the elegant partnership of Python and Forge3D, city transit maps blossom into living, breathing works of art.  Come wander with me t…](https://x.com/milos_gis/status/2086006222596059294) — @milos_gis
+- [A continuous line prompt that I used to visualize classic books. Not a style I usually do but a fun experiment.   select visual_output from …](https://x.com/Gdgtify/status/2086758454941675659) — @Gdgtify
+- [qoder is giving away a pretty solid pro trial for chinese frontier models 😳  you get a bunch of models and extra qwen requests without burni…](https://x.com/k2sbhai/status/2086868349410300224) — @k2sbhai
+- [I created a yt shorts "automator", peep  It's a one click from script to full video  I did it for my own grind, but why not make it open sou…](https://x.com/carlosocasiomil/status/2087255425909485636) — @carlosocasiomil
+- [Another continuous line prompt, this time I used it for famous kingdoms.   Prompt:  I(0) = blank surface. I(1) = complete continuous line po…](https://x.com/Gdgtify/status/2087838068422463880) — @Gdgtify
+- [watermarks-remover for AI content reaches ~11k stars on github.  People really hate the watermarks. And i fully understand them. https://t.c…](https://x.com/kimmonismus/status/2089021213368614993) — @kimmonismus
+- [POV: lagi bokek tapi pengen nonton 😭  buka website yang isinya 50+ platform streaming gratiss. lumayan ga perlu langganan lagi  cobain nih h…](https://x.com/Verelpraditya/status/2096565659648074086) — @Verelpraditya
+- [Jev is now free on the Venice API 🤫   https://t.co/ZrbYVQzAdg](https://x.com/AskVenice/status/2101363141930308020) — @AskVenice
+- [introducing search, a free and open source browser for mac, built on webkit.  → 2.9 mb (chrome & dia: 1.4 gb) → opens in 0.3s → 51 mb of ram…](https://x.com/driceroland/status/2102747612600271198) — @driceroland
+- [OpenWA is a free, open-source WhatsApp API gateway with no vendor lock-in and no hidden paywalls.  FULL CONTROL OF YOUR WHATSAPP MESSAGING S…](https://x.com/RoundtableSpace/status/2109331946681626970) — @RoundtableSpace
+- [I haven't open sourced it, mainly because it's specific to my model.   But on a high level, here's what I did: 1. Gave Codex the task to fin…](https://x.com/ceoico/status/2111401436370072057) — @ceoico
+
+## Uncategorized (628)
+
+- [So... lemme answer this time... once and for all. Here are some free sites to get illustrations https://t.co/0ST5deGgLy](https://x.com/theoneozenua/status/1275166647402270731) — @theoneozenua
+- [@HighVizAbility Doable with with the famous first/last trick + custom sort on index. https://t.co/YBdgOwoFI7](https://x.com/ProfDrKSchulte/status/1286556321391706112) — @ProfDrKSchulte
+- [If anybody have done same method already and I missed it, let me say sorry about not mentioning.](https://x.com/ritz_Tableau/status/1293893285291806721) — @ritz_Tableau
+- [@VizWizBI Love this one. Super easy and useful. Did you see this one Andy? https://t.co/xgj1KsJUWg](https://x.com/DataPlusScience/status/1296448968210165761) — @DataPlusScience
+- [@esnakor12 @IvettAlexa Hello @esnakor12, this is how I was able to recreate it, using INDEX() computed at the Category/Dimension, then chang…](https://x.com/jkarriaga/status/1303566142594854912) — @jkarriaga
+- [@curtisharris_ 1) Export as PDF  2) open PDF in Illustrator 3) delete redundant objects 4) resize if necessary 5) export to svg 6) print](https://x.com/lukestanke/status/1328449255376261120) — @lukestanke
+- [Here is a how to for 1 button.  Each button has 2 worksheets: the background chart that animates &amp; the top button which triggers the par…](https://x.com/adamemccann/status/1330615931073073152) — @adamemccann
+- [https://t.co/BrHeAulile https://t.co/SOmhccBCyI](https://x.com/IvettAlexa/status/1332172446938566657) — @IvettAlexa
+- [Just took the time to update my "25 days of #d3js" to d3 v6 on @observablehq. It's been a year since I first published and it's as relevant …](https://x.com/tylernwolf/status/1333742571030523904) — @tylernwolf
+- [List of Clinics for COVID-19 Swab Test in Cyberjaya https://t.co/lZ3cQtN5WI](https://x.com/Twt_Cyberjaya/status/1352229747657375747) — @Twt_Cyberjaya
+- [getting this out before the next #TidyTuesday begins! the design idea is not mine — see @geokaramanis's food carbon footprint plot and @CSHo…](https://x.com/elianemitchll/status/1358998895360098309) — @elianemitchll
+- [Here's a new version created by @iamdavehart: https://t.co/FUERSSrGhS. Thanks so much Dave!!](https://x.com/flerlagekr/status/1359301345975631872) — @flerlagekr
+- [https://t.co/yhTc4yrnO1](https://x.com/RespectfulMemes/status/1360676796962795522) — @RespectfulMemes
+- [@mim_djo Have you seen this? I played around with it last week and it wasn’t too bad https://t.co/DFg8XlXm9q](https://x.com/sqlsekou/status/1366611120308510722) — @sqlsekou
+- [Check out this cool animation @alvinwendt made of the list of preattentive attributes shown in Chapter 1 of #BetterDataVisualizations. Thank…](https://x.com/jschwabish/status/1367134393219895296) — @jschwabish
+- [shapes are made using @CuttleXYZ , which I've been really enjoying! https://t.co/kBYBc3CDds](https://x.com/Wattenberger/status/1367539020344000514) — @Wattenberger
+- [@IvettAlexa @knhinson I'm super interested to see how regexp_extract is used for this!   I recently used a similar technique to make dynamic…](https://x.com/kelly_gilbert/status/1369099213275951104) — @kelly_gilbert
+- [@kelly_gilbert @knhinson REGEXP_EXTRACT(TRIM([Description]),'(.{1,50})(?:\W|$)') + IFNULL(CHAR(10) + REGEXP_EXTRACT(     MID(TRIM([Descripti…](https://x.com/IvettAlexa/status/1369155273126973440) — @IvettAlexa
+- [@rajvivan I found this book on Amazon. https://t.co/ujo2xsvaom](https://x.com/jreevers5/status/1372218209659674624) — @jreevers5
+- [Mapped: The Richest Women in the World in 2021 💰  https://t.co/KX7Bt4hrZm https://t.co/jKuDd5YP4l](https://x.com/VisualCap/status/1375085256097869828) — @VisualCap
+- [Describing {geom_sankey} was hard. But now there is a readme for {ggsankey}. Check it out and let me know any feedback you have! #rstats htt…](https://x.com/davsjob/status/1376535956149432322) — @davsjob
+- [https://t.co/U4mxMxMxRC](https://x.com/rajvivan/status/1381816948866998277) — @rajvivan
+- [Does anyone in the #DataFam have a dynamic way to add commas to numbers as strings without forcing "If &gt; 1000000 and then if &gt; 1000"? …](https://x.com/_gringuinho_/status/1390799325836480516) — @_gringuinho_
+- [This is a logarithm.  You'll see it in a lot of machine learning formulas, computer science, and math in general.  Here's a really simple ex…](https://x.com/PrasoonPratham/status/1392776891975753731) — @PrasoonPratham
+- [We’ve got a sign! 🤩 https://t.co/3yWgYZL3W6](https://x.com/AndrewHart/status/1395020551157071877) — @AndrewHart
+- [New #DataViz Tutorial by @AlliTorban! 🐝 How to make a beeswarm plot in under 15 minutes with @rawgraphs, and then edit the SVG using @powerp…](https://x.com/dataliteracycom/status/1397225183392456705) — @dataliteracycom
+- [I created a dataset of datasets for journalists covering India. It is a developing resource, and is not definitive or complete any no means.…](https://x.com/chartwaali/status/1400361005054451713) — @chartwaali
+- [So many #viz tools to try! https://t.co/7Pk2qVakPO](https://x.com/Anyalitica/status/1402558351246987271) — @Anyalitica
+- [Ranked: The 10 Most Expensive Cities in the World in 2020 💰  https://t.co/28tWvwBdRZ https://t.co/LNi9X9surp](https://x.com/VisualCap/status/1409149611961421824) — @VisualCap
+- [@_Lorna_Brown @onemotun @HighVizAbility Here they are: https://t.co/Tcq2DKOSGp](https://x.com/FlerlageKev/status/1409285805449822209) — @FlerlageKev
+- [My first #TidyTuesday where I learn R for the first time and create charts from Scooby-Doo. Thanks to @kierisi for the intro. Enjoy! #datavi…](https://x.com/bsimser/status/1414972985862017027) — @bsimser
+- [Whenever I can’t find on Google how to do a cool trick with #ggplot, I check @CedScherer’s materials. They always save my life, especially t…](https://x.com/arthur_alb1/status/1416751159340146689) — @arthur_alb1
+- [Designing, Visualizing, and Understanding Deep Neural Networks.  • UC Berkeley. • 100% Free. • Spring 2021.  66 YouTube videos: https://t.co…](https://x.com/svpino/status/1422120192268767236) — @svpino
+- [What?! You can now query @googlecloud release notes in #BigQuery. I tried it out to find the latest feature releases, but you can also find …](https://x.com/stephr_wong/status/1426277405321277441) — @stephr_wong
+- [Berlin once said:  If you really want something in life, you have to steal it from somebody else.  Drop yours👇  #MoneyHeist https://t.co/xwR…](https://x.com/Hamzaopera/status/1433820658652356612) — @Hamzaopera
+- [📸| New/Old outtakes of Emily Blunt and Hugh Jackman for Variety (2018) https://t.co/25oLOEGbqr](https://x.com/badpostblunt/status/1436373665248075777) — @badpostblunt
+- [Releasing a complete machine learning package containing over 30 end to end notebooks for:   ◆Data analysis ◆Data visualization ◆Data cleani…](https://x.com/Jeande_d/status/1442080622508347396) — @Jeande_d
+- [Are you preparing for your next Cloud Certification?  I have published my personal notes here - https://t.co/rkAZigD2HO ✅AWS Cloud Practitio…](https://x.com/rishabincloud/status/1445055114067255296) — @rishabincloud
+- [#rstats I wrote a solution manual to the ggplot2 book by @hadleywickham, @djnavarro, and @thomasp85: https://t.co/chBYaNUr2D  Provides solut…](https://x.com/howard_baik/status/1447596048495509515) — @howard_baik
+- [Social media marketing. Powered by AI ⚡  Join thousands of serious content creators and professional marketers!  🔸 Powerful AI tools to assi…](https://x.com/FeedHiveHQ/status/1455507276891148297) — @FeedHiveHQ
+- [this #rstats ggplot2 geom is really nice https://t.co/URYoZEW8uc.  I have been waiting for something like for a very long time. https://t.co…](https://x.com/timelyportfolio/status/1469683836107866120) — @timelyportfolio
+- [I cannot express how much I love @Azure for publishing a whole set of documentation titled "Cloud Design Patterns", all about the database a…](https://x.com/SaifUlI25919743/status/1477692247302979588) — @SaifUlI25919743
+- [这个神经网络教程的演示绝了 https://t.co/YJZqCUaYet https://t.co/NjRbp69f8g](https://x.com/Datou/status/1479005568161689602) — @Datou
+- [Versionando la espiral del @nytimes en #rstats con geom_point() de #ggplot2 🌀 https://t.co/lJ5m9T0Zr7](https://x.com/elartedeldato/status/1479774740927717378) — @elartedeldato
+- [24 hours of trains in the Netherlands 🚄 https://t.co/SX0UpJ8fjO](https://x.com/yannickbrouwer/status/1483531105999495174) — @yannickbrouwer
+- [📣IT'S LIVE📣  Me @lucamezzalira @vittoriodenti @zamirajaupaj have worked hard to launch Let’s architect!   An official AWS fortnightly blog s…](https://x.com/HoodInsiderHB/status/1486395938117722116) — @HoodInsiderHB
+- [For those curious, this is basically what I did. Gantt marks to create individual bars that stack to a total that appears to be one bar.. Th…](https://x.com/DataPlusScience/status/1486882028645937153) — @DataPlusScience
+- [🚀 Shipped to https://t.co/dAGY8BIosE: improved arrow bindings! https://t.co/hhIDbLehoy](https://x.com/tldraw/status/1487900048730079232) — @tldraw
+- [😻 I'm Going to see a friend for coffee 😸 How are you getting there? 🚘 My @Uber is on it's way! 🚘  🙀 I wonder how @UberEng team scales the pl…](https://x.com/pvergadia/status/1488195376851169284) — @pvergadia
+- [Here's a calculation tip that helps when trying to find Nulls and blanks: 'X' + TRIM([Field]) + 'X' = 'XX'  If the result comes back 'XX' th…](https://x.com/_gringuinho_/status/1489672104257765377) — @_gringuinho_
+- [While browsing through my LinkedIn feeds, I came across a particular #dataviz (1st frame) and thought to recreate it (2nd frame) based on on…](https://x.com/emm_aguila/status/1492506614653411329) — @emm_aguila
+- [@the_good_guym @CivoCloud academy- https://t.co/XWIKdIMHu8 - I curated the complete 50+ video course  Free of cost For complete DevOps roadm…](https://x.com/SaiyamPathak/status/1492518703585378309) — @SaiyamPathak
+- [How to automatically display too long axis labels of a plot in multiple lines using the ggplot2 package in the R programming language: https…](https://x.com/JoachimSchork/status/1492762990751498245) — @JoachimSchork
+- [Introducing a Google Cloud architecture diagramming tool | Google Cloud Blog  https://t.co/zTnKFhHVgd](https://x.com/patrickdebois/status/1495840343878782985) — @patrickdebois
+- [@FlerlageKev Just in case someone desperately needs to create one... https://t.co/KFkkn2bRFZ](https://x.com/flerlagekr/status/1497739534724997126) — @flerlagekr
+- [🔥 Whoa, look what's in store for you all this weekend, a list of 32 data dets to uplift your skills in data science: https://t.co/07SUuZCKCG…](https://x.com/DataScienceDojo/status/1499899997210484736) — @DataScienceDojo
+- [@birkirorn @rajvivan @IvettAlexa The X axis labels are a dual axis using AVG(-10) so that the labels show up below the zero line. Then Regio…](https://x.com/DataPlusScience/status/1508463226962460677) — @DataPlusScience
+- [Thank you for reading!  - I'm Sanskar 👋 👨‍💻 Sharing my learnings every day. 🤓 Trying to make Web development easy for You and me. 🔥  Post ab…](https://x.com/SanskarTweets/status/1513626056045043726) — @SanskarTweets
+- [Trending repository of the day 📈    90DaysOfDevOps by @MichaelCade1  This repository is my documenting repository for learning the world of …](https://x.com/trending_repos/status/1514528315020759042) — @trending_repos
+- [Feather https://t.co/i1opy2N6bP   Forge Icons https://t.co/49gqnY29A0   Tabler Icons https://t.co/qH59HGFHhC   Unicons icon library https://…](https://x.com/pulpxstyle/status/1520374459294957569) — @pulpxstyle
+- [Apple, Nike, Coca Cola.  3 legendary companies. 1 common marketing trait:  Great copywriting.  Here are 10 copywriting tips to help you mast…](https://x.com/heykahn/status/1521161352613490689) — @heykahn
+- [Must use Twitter tools for 2022:  Hypefury — All-in-one growth tool, lots of content ideas.  poet .so — Capture &amp; share Twitter posts as…](https://x.com/Insharamin/status/1521346420095262722) — @Insharamin
+- [Top 9 tools/websites a developer should definitely check.  Thread:](https://x.com/Prathkum/status/1521494371836780547) — @Prathkum
+- [Link: https://t.co/xkMJRkr7wa](https://x.com/teneikaask_you/status/1525129359308345346) — @teneikaask_you
+- [It's still in beta, but you can check it out. Now with animation and up to 4k video export.  https://t.co/7HKDimtc4G](https://x.com/thisaugis/status/1527341719326363654) — @thisaugis
+- [Viz for #MakeoverMonday week52 2018  https://t.co/ApoGlrqLA0  Focused on the difference between the previous year. Any feedback welcome as a…](https://x.com/O_Syringa_Z/status/1541073338025779200) — @O_Syringa_Z
+- [The US Dollar has crossed 79 INR for the first time in history.  I still remember calculating the price of iPhones using 50 INR/USD when the…](https://x.com/AmanHasNoName_2/status/1542862787919376384) — @AmanHasNoName_2
+- [I spend unreasonable time on the internet looking for the best design resources, so you don't have to.  Here are the top free icon packs I'v…](https://x.com/WeirdoWizard/status/1543230622629392384) — @WeirdoWizard
+- [さかぴーさんのタイムライン、自分でも使う場面がありそうなので、もう少し掘り下げてみた結果、これが一番単純な式な気が・・・  WINDOW_COUNT(1) https://t.co/WHgPr76WHE](https://x.com/noookooon/status/1545373816175480832) — @noookooon
+- [Transform your body in next 6 months.   People will charge INR 27,000+ for this course.  I am giving away the entire course for FREE: https:…](https://x.com/hypertrophX/status/1546021629909766144) — @hypertrophX
+- [Excellent writing makes $1,000,000+   Not-so-great writing earns nothing.  Here are 13 AI-Powered tools to generate marketing copy in under …](https://x.com/MakadiaHarsh/status/1549774983089504257) — @MakadiaHarsh
+- [And the inspiration behind it! Love this blog post, great step-by-step tutorial on how to create your own.   Thank you @CedScherer for shari…](https://x.com/tanya_shapiro/status/1550154725181607936) — @tanya_shapiro
+- [Five free VS Code extensions that will change the way you do web development:](https://x.com/Prathkum/status/1553075123871252480) — @Prathkum
+- [With https://t.co/RTqM2rrtpA you can easily create good looking swimelane diagrams in your browser using a simple textual language 👍 https:/…](https://x.com/nilshartmann/status/1554766457753554945) — @nilshartmann
+- [@me551ah Templates? Pfft. Real designers design everything from scratch 🗿  (/s obv. e.g the colors in the screen recording are from https://…](https://x.com/mnvrth/status/1560491642565472256) — @mnvrth
+- [5 Ted Talks you must watch to overcome Anxiety: https://t.co/G7VGkx9xXT](https://x.com/LeadersJunction/status/1561279080737095681) — @LeadersJunction
+- [A #DataVisualization regarding world #wine production https://t.co/F9kKdxBcql](https://x.com/edit_gyenge/status/1561645996035264512) — @edit_gyenge
+- [A #dataviz project inspired by the Global Risk Report 2022. https://t.co/c45NFjeMuF](https://x.com/edit_gyenge/status/1561753798099587078) — @edit_gyenge
+- [Alright friends, as promised, here's the #RStats code on how to create the Leo chart with ggplot.  Maybe it's worthy of a "how to" Quarto bl…](https://x.com/tanya_shapiro/status/1565029412428562433) — @tanya_shapiro
+- [New Leonardo-DiCaprio-refuses-to-date-a-woman-over-25 chart just dropped https://t.co/VPiCZjq7MW https://t.co/Ym0pTc4D5O](https://x.com/AlexSelbyB/status/1565095813608804352) — @AlexSelbyB
+- [Day 4 of  #10DaysofPowerBI with @Nonso_Analytics   I learnt how to create a simple visual  This is what I created 🤗 https://t.co/O9tDHBKOkb](https://x.com/Bambam__xo/status/1567238348149870593) — @Bambam__xo
+- [Link to the @clickup document: https://t.co/f0R23MsOtZ](https://x.com/shreyasico/status/1567405081577897984) — @shreyasico
+- [@suraj_yu https://t.co/uP6yzcq5pt](https://x.com/swstica/status/1567407783678722049) — @swstica
+- [Make any idea real. Just write it.   Text to video, coming soon to Runway.  Sign up for early access: https://t.co/ekldoIshdw https://t.co/D…](https://x.com/runwayml/status/1568220303808991232) — @runwayml
+- [Not sure who asked the question of "where can I find datasets?" but two great resources to start are:   https://t.co/2tyoJqAWUW  https://t.c…](https://x.com/dscottdegeest/status/1573065097584541699) — @dscottdegeest
+- [1/ Okay, so I think I've found a way you can start learning AWS: 🤯 without an AWS Account 🤯 without a credit card 🤯 without worrying of over…](https://x.com/andrewbrown/status/1580567785918586880) — @andrewbrown
+- [An exciting new update is coming to Architecture Diagramming Tool. We are adding dynamic #terraform support for the diagram components. Chec…](https://x.com/pvergadia/status/1584953051277836289) — @pvergadia
+- [Do you know about these awesome workshops ?  You should right now dive into each one of them as they are super awesome!  What else you would…](https://x.com/kubesimplify/status/1587363381068955648) — @kubesimplify
+- [Thank you @maf2k, @ZaksViz, and @NicoleKlassen12 for feedback.  This was inspired by @Lodhaviz's viz: https://t.co/bGoaLcQ15i](https://x.com/VizByMoon/status/1591455400896897025) — @VizByMoon
+- [How is data sent over the network? Why do we need so many layers in the OSI model?  The diagram below shows how data is encapsulated and de-…](https://x.com/alexxubyte/status/1592193892530589696) — @alexxubyte
+- [{1} Excel AI Formula Generator  Transform your text instructions into Excel &amp; Google Sheets formulas in seconds with the help of AI.  🔗 …](https://x.com/csaba_kissi/status/1592887772381003777) — @csaba_kissi
+- [Hi everyone!👋 I made web app that converts from Markdown to tree!🎉  The link to this web app is https://t.co/GVyrzHz7KC  I provide not only …](https://x.com/ddddddOpppppp/status/1596768901635149825) — @ddddddOpppppp
+- [Want to know more about how to use geometry generators to style layers in QGIS, but not sure how? Watch the video, then download the file an…](https://x.com/undertheraedar/status/1599812198125121536) — @undertheraedar
+- [5 tools you should try today:  1. Lumen5 —Create videos online in minutes  2. Big Speak —Generate realistic sound audio from text  3. Firefi…](https://x.com/saumya1singh/status/1608391715899019265) — @saumya1singh
+- [Thanks @ltavernier7 &amp; #biglittletips for today's tip.  I gave it a try and it works really well!  I also found you could create bar char…](https://x.com/SParsonsDataViz/status/1612523084883320845) — @SParsonsDataViz
+- [I created a “visual diff” tool for comparing different design layouts side by side.   The tool provides a sankey chart visualization between…](https://x.com/dbabbs/status/1613252304139853824) — @dbabbs
+- [5. https://t.co/PoZOOfpzF6  Turn your text into human sounding voice.  It just takes seconds.  There's a voice for every need (youtube video…](https://x.com/heyBarsee/status/1614633699185655815) — @heyBarsee
+- [Draw io [ @drawio ]  Collaborate on diagrams and whiteboards in real-time.  The easiest way for Confluence teams to collaborate using diagra…](https://x.com/saumya1singh/status/1620473758162255874) — @saumya1singh
+- [1. Introducing Rose AI — a new way to interface with data. https://t.co/CJRgH002fV](https://x.com/colecallinan/status/1620476857232797697) — @colecallinan
+- [New Blog Post: Custom Geocoding a Tile Map. This was a blog post written over a year ago, but never published. Thank you to @ProfDrKSchulte …](https://x.com/DataPlusScience/status/1622625988638294016) — @DataPlusScience
+- [Everyone is talking about AI  But 90% of people don’t know what to do with it.  Here are 13 terrific AI websites you should learn how to use…](https://x.com/rajshamani/status/1624062246291906560) — @rajshamani
+- [Synchronized Pan &amp; Zoom across multiple maps](https://x.com/ProfDrKSchulte/status/1624798849372921856) — @ProfDrKSchulte
+- [10 Books That Will Change Your Thinking in 2023  1) https://t.co/HCqOxm8nCy](https://x.com/librarymindset/status/1625032662883905537) — @librarymindset
+- [Rationale is definitely a game-changer!  You make decisions every day, but sometimes the weight of those decisions can be overwhelming.   AI…](https://x.com/NikkiSiapno/status/1627933986118045696) — @NikkiSiapno
+- [The Essential AI tools:  Design: https://t.co/EdrrGsmpQ0 Recording: https://t.co/pkQKQFXYxB Logo: https://t.co/BtI5vWkB12 Copywriting: https…](https://x.com/MakadiaHarsh/status/1628311359195869187) — @MakadiaHarsh
+- [A cool animation I made with css illustrating power flow https://t.co/mKpiYsZwp3](https://x.com/bluue__ivy/status/1628716431964610560) — @bluue__ivy
+- [Day 76 / #100DaysOfCode   ✅ Just created an animated compress file button using HTML, CSS, and JS! 🚀📦  Click it to zip files with a fun anim…](https://x.com/raz7798/status/1636328421528854531) — @raz7798
+- [Top sites with FREE illustrations ✨ https://t.co/z7tdl4Ez2X](https://x.com/adriankuleszo/status/1639538691994419201) — @adriankuleszo
+- [Inspired by learnings from Alpaca, we carefully curated ~800k prompt-response samples to produce 430k high-quality assistant-style prompt/ge…](https://x.com/andriy_mulyar/status/1640836005086232576) — @andriy_mulyar
+- [12. Compose AI   Use ComposeAI to generate any text using AI.  It will help you write better content in seconds.  Try it here:  https://t.co…](https://x.com/hasantoxr/status/1641080614328598529) — @hasantoxr
+- [2. Utilize the Feynman Technique for deeper understanding  Prompt: "Explain [topic or skill] in the simplest terms possible as if teaching i…](https://x.com/alexbrogan/status/1641428889711812608) — @alexbrogan
+- [8. Use storytelling to enhance memory and comprehension  Prompt: "Transform key concepts or lessons from [topic or skill] into engaging stor…](https://x.com/alexbrogan/status/1641428913636114433) — @alexbrogan
+- [Women are overrepresented in some industries, such as health care and social assistance, and underrepresented in others, such as mining and …](https://x.com/Sunhpiris/status/1641655715143233536) — @Sunhpiris
+- [Day 90 / #100DaysOfCode   ✅ Just created an awesome animated thumbs up button using HTML, CSS, and JS!  Click once to "Like" and click again…](https://x.com/raz7798/status/1642116541562101760) — @raz7798
+- [We've all dealt with activation functions while working with neural nets.  - Sigmoid - Tanh - ReLu &amp; Leaky ReLu - Gelu  Ever wondered wh…](https://x.com/akshay_pachaar/status/1643963032207495169) — @akshay_pachaar
+- [And we’re live!! 🚀🚀🚀  We got @OpenAI to generate graphs 📊 for any dataset 🤯  This week Antony and I hacked together https://t.co/cXPyRBESkr,…](https://x.com/domwhyte42/status/1643983665838559232) — @domwhyte42
+- [The detailed networking behind clicking a link  When you click on a hyperlink, your browser loads the link’s content from a remote server an…](https://x.com/hnasr/status/1644453136181112832) — @hnasr
+- [@ChrisStaud Thank you for sharing, Chris! I would add also https://t.co/3kovfSTcFG and https://t.co/iHkfhOhAX7](https://x.com/gareth_otwell/status/1645692201845022722) — @gareth_otwell
+- [{2} Blend Now  With Blend’s AI-powered technology, you can do image background removal, background change, and showcase with thousands of te…](https://x.com/csaba_kissi/status/1645758781228449795) — @csaba_kissi
+- [This #VizOfTheDay by @imagineazhar showcases the location and scale of protests and demonstrations around the world between 2010 and 2020. h…](https://x.com/tableaupublic/status/1646526200322613250) — @tableaupublic
+- [Commented code at: https://t.co/IN6Pk7IaTr](https://x.com/IcaroBSC/status/1646694601380511748) — @IcaroBSC
+- [2. Image Colorizer  Restore your old family photos and bring them back to color.  https://t.co/H6IWyuv5ew](https://x.com/MakadiaHarsh/status/1646792964432330752) — @MakadiaHarsh
+- [5. Instant Protrait  Upload a selfie, and AI will generate a portrait painting in your likeness.  https://t.co/J4YQyY008g](https://x.com/MakadiaHarsh/status/1646792972833558528) — @MakadiaHarsh
+- [@icreatelife 👇 https://t.co/M7beDbklbf](https://x.com/fabinrasheed/status/1647087484537274369) — @fabinrasheed
+- [6. The latest text-to-image generative AI model from @StabilityAI is available to anyone.  The quality is almost as good as Midjourney.   Tr…](https://x.com/heyBarsee/status/1647253545954037762) — @heyBarsee
+- [3. Rose AI / @rosedotai   Research faster with Rose  Eliminate hours wasted finding, cleaning, visualizing and transforming data using the p…](https://x.com/AngryTomtweets/status/1647606787514793984) — @AngryTomtweets
+- [Happy to share with everyone that I’m starting a new role with @MAGNITT as a data visualization developer.  Looking forward to amazing thing…](https://x.com/gbolahaann/status/1650802394744094720) — @gbolahaann
+- [When I'm not doing any of those. I'm either watching some really fun documentaries I find or just gaming in general.  All the same I'm glad …](https://x.com/dnaijatechguy/status/1652363353195438083) — @dnaijatechguy
+- [CSS Tip ✨  Button shimmers are a cool use case for container queries 🤓  Shift an element side to side whilst spinning a gradient  Don't know…](https://x.com/jh3yy/status/1656423856276488192) — @jh3yy
+- [a close up photograph of the most beautiful 21 year old woman alive, dramatic and stunning award winning photo, dramatic linear delicacy, sh…](https://x.com/ARTiV3RSE/status/1656698418046152706) — @ARTiV3RSE
+- [3) Create social media posts:  SEO-friendly social media posts that drive traffic.  Prompt: I'm planning to promote my new blog post about t…](https://x.com/HeyAbhishek/status/1658453724325625857) — @HeyAbhishek
+- [@Riyaaaa_Verma Aditya Verma -&gt; dynamic programming, Binary Search, Sliding Window, Stacks, and Queue    Pepcoding -&gt; Backtracking, DSU…](https://x.com/shrayjayn8/status/1659142360905977856) — @shrayjayn8
+- [If You Want To Control Your Anger, read this: https://t.co/QOm4c2gFBU](https://x.com/mindfulmaven_/status/1660676976925966336) — @mindfulmaven_
+- [I decided to take part in my first-ever online challenge and my first submission is for #CreatorProgramChallenge!🎉 I visualize the total tra…](https://x.com/MissAmase/status/1660725992741130260) — @MissAmase
+- [The solution?  You know it.  - 16 brokers - i3.2xlarge (61 GiB, 8 vCPU, 1.9TB NVMe SSD) - each topic with 32 partitions, replication factor …](https://x.com/kozlovski/status/1661700370018762759) — @kozlovski
+- [the future is here.  the new https://t.co/uuaUExmY8Z 💻  .      *   🌕  *    .     🌍    *      *    •   . ☄️     •    *     •   . 🛸 .•.    .  …](https://x.com/marcofyi/status/1661749009797775364) — @marcofyi
+- [Tip: It's now safe to use the &lt;dialog&gt; HTML element for your modals knowing it will work on all modern browsers!   Read more about it …](https://x.com/frankstallone/status/1662157970371641354) — @frankstallone
+- [Created a Pricing section of my upcoming @framer template. #nocode https://t.co/yYzCypIdsH](https://x.com/harshildesigner/status/1663891806524968960) — @harshildesigner
+- [Now this is cool and useful as heck. Draw something at https://t.co/DtwWNRS3aL and it'll show you the closest Unicode matches to what you dr…](https://x.com/cooperx86/status/1665381230999683076) — @cooperx86
+- [13.3 TB Mega Drive, Your Ultimate Source for Everything! 🔥🔥🔥 🚀  - Hacking &amp; Security  - Data Science &amp; AI  - Programming  - Cloud &a…](https://x.com/khalilApriday/status/1665609620163895301) — @khalilApriday
+- [1/3  1. Draw a straight line. 2. Click to locate the center of the line and create a vector point. 3. ⌘+Click on that center point to genera…](https://x.com/jamesm/status/1665675207372328961) — @jamesm
+- [Data team at @BBCNews  developed an #rstats package and an R cookbook to make the process of creating publication-ready graphics in-house st…](https://x.com/voydorg_en/status/1665687275592712192) — @voydorg_en
+- [🚀🎓 We just launched a new Rive 101 course for total beginners!  The first part is 15 videos, all about designing in Rive!     👉 https://t.co…](https://x.com/rive_app/status/1666148621136588806) — @rive_app
+- [Solve rubix cube in 5secs 🤯   https://t.co/ZJ6hhRLMOT](https://x.com/itsafiz/status/1666375415869636612) — @itsafiz
+- [RIP Photoshop Generative Fill  … Just kidding, please 🤭  This is out-painting for the masses, in the browser, one-click BOOM. Mega large ima…](https://x.com/LinusEkenstam/status/1666917202287525890) — @LinusEkenstam
+- [Liked? Follow @michalmalewicz for more threads like these, and have a beautiful day ❤️ https://t.co/N8xyH4uLkZ](https://x.com/michalmalewicz/status/1667110224287629312) — @michalmalewicz
+- [7/ Use markdown  Use markdown to structure your prompts. It's good practice to have tidy and structured prompts.  → Here's a markdown cheat …](https://x.com/moritzkremb/status/1667170624907669510) — @moritzkremb
+- [AI-created stock images, all available for free. ✨ I love it when people put AI to good use. 😻 https://t.co/uNVTlDr1oO](https://x.com/erdemkirmit/status/1668951482962509824) — @erdemkirmit
+- [@ltavernier7 @IvettAlexa Didn't get the steps to do it. 😅](https://x.com/JadolfoHC/status/1669070903102308358) — @JadolfoHC
+- [Creators &amp; Contributors: @Maxime_Frere @Autre_planete @_queffelec https://t.co/1MDp44yTkD](https://x.com/erdemkirmit/status/1669286137536315393) — @erdemkirmit
+- [मै तो बाप हूं बेटा, बहुत खुश हो जाऊंगा, जिस दिन तू वास्तव में मुझसे बड़ा हो जाएगा,  मगर बेटे कंधे पे नहीं जब तू जमीन पे खड़ा हो जाएगा।  ये ब…](https://x.com/Iampatelajeet/status/1670473903091908609) — @Iampatelajeet
+- [What is the best piece of software to make this kind of animations? https://t.co/AomwJ372Cy](https://x.com/joxxnie/status/1670810487905239041) — @joxxnie
+- [8/ Josh [ @JoshWComeau ]  🔗 https://t.co/6x5xCuHxTW https://t.co/EcJhHi55g3](https://x.com/namyakhann/status/1670827809579708416) — @namyakhann
+- [That's probably the best site for REAL design inspiration 🔥  → https://t.co/n46NPgkrlT https://t.co/rIA8mkARZG](https://x.com/d__raptis/status/1671454216995606530) — @d__raptis
+- [Do you know ?  You can develop @langchain apps without code  Here are few open-source tools to achieve this  Save this ↓ https://t.co/IUBhae…](https://x.com/matchaman11/status/1672624492030357504) — @matchaman11
+- [My new book has been launched today! https://t.co/cbzlUyxsuu](https://x.com/librarymindset/status/1672878282230886402) — @librarymindset
+- [This girl bought an iPhone. When her father saw it, he asked her,  "What was the first thing you did after buying the phone?"  She replied "…](https://x.com/Shadaya_Knight/status/1674371450235506694) — @Shadaya_Knight
+- [The author uses node.js to teach but i think the concepts can be applied to any language.  https://t.co/7ZfkD01r7Y](https://x.com/dprophecyguy/status/1674898949990150147) — @dprophecyguy
+- [Así se arma el famoso cubo Rubik…  https://t.co/xURHDCJ8rx](https://x.com/Arteymas_/status/1675311233786953728) — @Arteymas_
+- [Did you know that you can visualize YAML, JSON and Data of many other formats in comprehensive and easy to navigate graphs directly in your …](https://x.com/Aurimas_Gr/status/1677242443555536897) — @Aurimas_Gr
+- [The best KPI. https://t.co/LKkWaErgZv](https://x.com/thecodemancer_/status/1679191464427831296) — @thecodemancer_
+- [All PM templates from my Google Drive are now free for everyone. Happy Monday! 🎁  PPTX: https://t.co/7ai7KhtOvf  XLXS: https://t.co/4zVKENRF…](https://x.com/PawelHuryn/status/1680859729944248320) — @PawelHuryn
+- [7 Places to stay silent at all costs:  - Thread - https://t.co/7h2QSRhcTf](https://x.com/mindfulmaven_/status/1680925517757792259) — @mindfulmaven_
+- [Future CSS Tip! 🔮  You can anchor an element to multiple elements with anchor positioning   .anchored {   top: anchor(--a-1 bottom);   left:…](https://x.com/jh3yy/status/1681704468683816963) — @jh3yy
+- [Explore your data and create visualizations, simply by talking to it. Plus, you can create powerful machine learning models with a click.  T…](https://x.com/TheJasSingh/status/1682415790526439426) — @TheJasSingh
+- [Front → ↻ Right → ↑ Upper → → Right → ↓  Repeat 5 times   https://t.co/r0Mgll8uBy](https://x.com/ValaAfshar/status/1682838607583739904) — @ValaAfshar
+- [Un-optimized images are one of the WORST performance killers of your app 😵‍💫  To render this simple profile screen, it took: ⌛️ 15 seconds 🛣…](https://x.com/VadimNotJustDev/status/1683898079336857611) — @VadimNotJustDev
+- [@shaunisspatial I have nothing official, but have used it enough to collaborate on one.  Also, sorta-related, check out this awesome WDC  ht…](https://x.com/RodyZakovich/status/1684333896068894727) — @RodyZakovich
+- [You don't need to be a professional photographer to shoot a great headshot for LinkedIn.  Discover the 10 best AI headshot generators to try…](https://x.com/alisamadii_/status/1684851206945210368) — @alisamadii_
+- [🐏 Cooked and polished some components today!!  Me and @tejas_athare are in love with our new pill tags 😍 https://t.co/Ga6ygu9vP1](https://x.com/Ash_uxi/status/1684917103860867073) — @Ash_uxi
+- [Playful hover animation!  → https://t.co/dY1ZE3o20F https://t.co/x1bJ1Ywayk](https://x.com/d__raptis/status/1685927178117197825) — @d__raptis
+- [How to make pictures for children's coloring books with Midjourney  Use this prompt:  kid's coloring book, [OBJECT], cartoon, thick lines, b…](https://x.com/chaseleantj/status/1686595628481290240) — @chaseleantj
+- [🟡 Space Type Generator  This site is a real gem 💎  Play around with the settings and save the animation as a looping .mp4 video 💯  https://t…](https://x.com/ozanoz/status/1686950125271384064) — @ozanoz
+- [5. Four Types of Luck  - Blind Luck: Beyond control. - Motion Luck: Hustle breeds opportunities. - Awareness Luck: Expertise positions you f…](https://x.com/TheJasSingh/status/1687088827935174656) — @TheJasSingh
+- [1. Go to https://t.co/oXfAGeGf1b  → Click "Get Started"  → Create your free account https://t.co/nzNtU5fil7](https://x.com/iam_chonchol/status/1687779276270002176) — @iam_chonchol
+- [This is very cute art...   https://t.co/5csT8yWk84](https://x.com/TheFigen_/status/1691896508486922604) — @TheFigen_
+- [I'm curating a list of open-source alternatives to popular SaaS:  ◆ Calendly: @calcom ◆ Algolia: @typesense ◆ Shopify: @MedusaJS ◆ WorkOS: @…](https://x.com/steventey/status/1692580677491765637) — @steventey
+- [イラレで「円盤型のタイポグラフィー」を作る方法💡 YouTubeで詳しく解説してます！ #illustrator https://t.co/WPlemL14jt](https://x.com/DesignSpot_Jap/status/1692819150098551294) — @DesignSpot_Jap
+- [“Massive store, where can I find that one screw I need?”  The accuracy of the navigation and indoor location is insane. https://t.co/91VHpsw…](https://x.com/AndrewHart/status/1696472109331943651) — @AndrewHart
+- [CONTROL THE COMPOSITION IN MIDJOURNEY WITH CAMERA ANGLES  When I need a specific composition, I often use the following tokens:  - Macro - C…](https://x.com/ciguleva/status/1702556469336612909) — @ciguleva
+- [@MMD_Alhashash @abdoutelb @venkatesh111 Try export as SVG, then convert to GIF (4-5 frames) using https://t.co/qXsDAua2ar](https://x.com/drawio/status/1705967988413743578) — @drawio
+- [Say goodbye to Midjourney!  There's a new free alternative that's 10x better.  Here's how it works: 👇 https://t.co/SyqEA0rfRi](https://x.com/AngryTomtweets/status/1709902326364865018) — @AngryTomtweets
+- [💫 Epic Easing  Make your animations smoother than ever. Check out this online tool for crafting custom easing curves and exporting them in v…](https://x.com/frontendplanet/status/1712720966856405151) — @frontendplanet
+- [Design mode vs Animate mode. 🎨 🎮  Lottielab makes switching between designing and animating your assets seamless.  Simply press ‘A’ on your …](https://x.com/drewosophy/status/1714666483605737623) — @drewosophy
+- [CSS Trick! ⭐️  You can animate your gradient borders by defining types for your custom properties with @ property 🔥  1. Define a property  @…](https://x.com/jh3yy/status/1714711273345065131) — @jh3yy
+- [Here the whole idea is described: https://t.co/vTr45uF82Y…, and here the code is explained: https://t.co/XIHIz7XVeN.   I wanted to make it a…](https://x.com/ta___kaya/status/1715020807196274967) — @ta___kaya
+- [Deepfakes using AI are getting insane.  I made this in about 15 minutes, inspired by @rileybrown_ai's video.  We're only scratching the surf…](https://x.com/markgadala/status/1717965169190490220) — @markgadala
+- [Originally seen here 🤙  https://t.co/nJuUL77EOH](https://x.com/jh3yy/status/1720915175581102384) — @jh3yy
+- [Tip for folding sheets like in hotels!😉 https://t.co/LK82gbN1CB](https://x.com/InferamAI/status/1720960551398903957) — @InferamAI
+- [Get a perfect photo in a few clicks!   Try it for free: 👇  https://t.co/lEBzg7k9a8](https://x.com/AngryTomtweets/status/1721498146780442855) — @AngryTomtweets
+- [Variable font animation ✨ https://t.co/Y67GBi1ir7](https://x.com/vponamariov/status/1722521972754522582) — @vponamariov
+- [16 THINGS MEN LEARN TOO LATE:  1. The less you say, the more your words will matter. https://t.co/CZN8MVuA1m](https://x.com/TheConquerMM/status/1722557375016509589) — @TheConquerMM
+- [Generate grid patterns in seconds.  I can't believe I didn't know about this tool before.  @magicpattern https://t.co/SMeAQaggF0](https://x.com/kacperfyi/status/1722866730358505816) — @kacperfyi
+- [My top 10 tweets on product design that I caught on Twitter this week. ✨  Tweets ⬇️ https://t.co/05SFQRldln](https://x.com/nicks_twt/status/1722907710767669521) — @nicks_twt
+- [3: Sketch to Logo https://t.co/sbniiOdC2S](https://x.com/dr_cintas/status/1722976386648879274) — @dr_cintas
+- [You asking so i delivery 👀  Here is small step by step tutorial „How to animate in @jittervideo „ today i want to show you how to animate st…](https://x.com/uiuxarih/status/1723347526298882321) — @uiuxarih
+- [Magical tool to showcase your project.  Impressive even after months of use.  No payment needed.  → https://t.co/5JXUyskat7 https://t.co/SzW…](https://x.com/heyirfanaziz/status/1723756101433540743) — @heyirfanaziz
+- [It's shipping day @vercel! 🚢  You can use the new Layout Shifts tool to detect, inspect, and replay layout shifts so you don't ship jarring …](https://x.com/jh3yy/status/1724571202054689161) — @jh3yy
+- [Real-time, generative motion design with Fable https://t.co/W2cx8gPFFD](https://x.com/fable_motion/status/1724808303400861981) — @fable_motion
+- [Say Goodbye to Video editors.  You can easily create animated characters.  Here's how to create an Animated AI character with Dall-E 3 in 2 …](https://x.com/iam_chonchol/status/1725025376253133305) — @iam_chonchol
+- …and 428 more on the site

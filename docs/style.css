@@ -96,3 +96,53 @@ footer a { color: var(--accent); }
   header h1 { font-size: 1.5rem; }
   .grid { grid-template-columns: 1fr; }
 }
+
+/* Edit mode */
+.toolbar { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; margin-bottom: 12px; }
+.tbtn {
+  padding: 8px 16px;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: var(--surface);
+  color: var(--text);
+  cursor: pointer;
+  font-size: .85rem;
+}
+.tbtn:hover { border-color: var(--accent); }
+.tbtn.active { background: var(--accent-soft); border-color: var(--accent); color: var(--accent); font-weight: 600; }
+.tbtn.danger { color: #f4212e; }
+#editTools { display: inline-flex; gap: 8px; flex-wrap: wrap; }
+#editTools[hidden] { display: none; }
+.edithint { font-size: .82rem; color: var(--muted); margin: -4px 0 14px; }
+.edithint[hidden] { display: none; }
+.card.is-hidden { opacity: .55; border-style: dashed; }
+.hiddenbadge {
+  font-size: .7rem;
+  font-weight: 700;
+  padding: 3px 10px;
+  border-radius: 999px;
+  background: rgba(244, 33, 46, .14);
+  color: #f4212e;
+  white-space: nowrap;
+}
+.editrow { display: flex; gap: 8px; margin-top: 2px; }
+.editrow select {
+  flex: 1;
+  padding: 6px 10px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: var(--surface-2);
+  color: var(--text);
+  font-size: .82rem;
+}
+.editrow button {
+  padding: 6px 12px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: var(--surface-2);
+  color: var(--text);
+  cursor: pointer;
+  font-size: .82rem;
+  white-space: nowrap;
+}
+.editrow button:hover { border-color: var(--accent); }
